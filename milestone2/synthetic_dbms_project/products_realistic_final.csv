@@ -1,0 +1,1001 @@
+product_id,product_name,manufacturer,barcode,category_id,category_name,expiry_date,certification_label,description
+1,Calcium Supplement Tablets Standard Pack,Mitchell-Griffin,8313751290944,8,medicine,15/12/2027,missing,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+2,Corn Cooking Oil 1L,Walker LLC,2091693962865,4,cooking oil,04/03/2027,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+3,Hydrating Face Lotion Plus,"Martin, Martin and Stone",9940353020366,6,personal care,29/03/2028,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+4,Antacid Chewable Tablets Fresh Formula,"Allen, Hill and Gomez",9617332561652,8,medicine,14/02/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+5,Smartphone Device Family Pack,Ramsey Group,2389232540873,7,electronics,30/09/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+6,Kitchen Degreaser Liquid Premium Edition,Acosta-Sanchez,3134528461566,5,cleaning products,24/11/2026,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+7,Cough Relief Syrup Standard Pack,"Jones, Chan and Holland",9056642107646,8,medicine,15/07/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+8,Mango Refresh Drink Extra Strength,Gray-Moss,6633443993451,2,drinks,11/01/2028,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+9,Fabric Softener Liquid 500g,"Brewer, Chan and Garrett",9832598241821,5,cleaning products,19/07/2027,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+10,Wireless Computer Mouse Extra Strength,Evans-Bennett,823782667083,7,electronics,24/04/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+11,Vitamin C Capsules 1L,Morrison LLC,9570288706938,8,medicine,22/04/2027,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+12,Wireless Keyboard Set Standard Pack,"Williams, Wood and Herman",3630897843533,7,electronics,19/11/2026,present,Packaged electronic device verified for sale with serial identification and warranty support.
+13,Sparkling Soda Drink Extra Strength,Mcmahon and Sons,8757294055088,2,drinks,22/08/2028,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+14,Noise Cancelling Headphones Plus,Oconnor-Ryan,9649330923828,7,electronics,22/03/2028,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+15,Liquid Laundry Detergent Plus,Sutton-Cross,7110594913082,5,cleaning products,30/06/2026,present,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+16,Low Fat Yogurt 500g,"Hart, Coleman and Wright",1512347941209,3,dairy,19/01/2027,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+17,Cough Relief Syrup Standard Pack,"Barton, Patel and Scott",3525755743202,8,medicine,09/01/2029,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+18,Chocolate Milk Drink Standard Pack,"Schultz, Zamora and Hanson",8441861573739,3,dairy,24/08/2026,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+19,Refreshing Body Wash Family Pack,Jacobson-Williamson,3922762815708,6,personal care,25/10/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+20,Iced Tea Bottle Family Pack,Thomas-Navarro,7932276905365,2,drinks,20/04/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+21,Portable Bluetooth Speaker Plus,King-Boyer,3561424646450,7,electronics,24/09/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+22,Herbal Care Shampoo 500g,"Henry, Gibson and Collins",7719211687384,6,personal care,06/08/2027,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+23,Digital Home Router Premium Edition,Scott Group,4600733332315,7,electronics,04/01/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+24,Tomato Ketchup 500g,Rodriguez and Sons,1126190103976,1,food,04/07/2026,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+25,Vanilla Flavored Milk Extra Strength,Jenkins Ltd,3188528034817,3,dairy,18/09/2028,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+26,Dishwashing Soap Liquid Family Pack,Dixon-Robertson,8755190914430,5,cleaning products,11/08/2026,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+27,Vitamin Sports Drink Standard Pack,Garcia and Sons,5793695203652,2,drinks,24/04/2027,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+28,Wireless Keyboard Set Family Pack,"Webb, Underwood and Yang",3100484731074,7,electronics,20/08/2026,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+29,Breakfast Oat Cereal Fresh Formula,"Smith, Cooper and Lee",6041948838274,1,food,16/05/2028,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+30,Coconut Water Drink 1L,Robinson-Ortiz,3235353954466,2,drinks,13/07/2026,present,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+31,Noise Cancelling Headphones 1L,"Gray, Cowan and Perez",6206670082658,7,electronics,06/04/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+32,Mixed Berry Beverage Premium Edition,"Thompson, Stewart and Gray",9892366062409,2,drinks,07/05/2027,partial,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+33,Iced Tea Bottle Extra Strength,"Smith, Watson and Bishop",8870679607464,2,drinks,26/08/2027,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+34,Groundnut Cooking Oil Plus,Harris-Ortiz,307235996918,4,cooking oil,23/12/2027,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+35,LED Desk Lamp 500g,Jones LLC,7865165068417,7,electronics,11/04/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+36,Gentle Face Cleanser Plus,Williams-Shelton,5869731602656,6,personal care,20/09/2028,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+37,Wireless Keyboard Set Premium Edition,"Smith, Reed and Trevino",6944802681347,7,electronics,26/08/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+38,Antibiotic Capsules Premium Edition,Holland-Rios,6571762013064,8,medicine,23/07/2028,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+39,Chocolate Wafer Biscuits Max,"Smith, Friedman and Parker",6017964431751,1,food,04/11/2026,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+40,Roasted Peanut Mix Premium Edition,"Maynard, Joyce and Hunt",8983352512112,1,food,30/09/2027,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+41,Digital Home Router 500g,Hubbard PLC,7642013319033,7,electronics,07/01/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+42,Breakfast Oat Cereal Premium Edition,Saunders-Anderson,3952114919020,1,food,26/12/2028,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+43,Bathroom Surface Cleaner 500g,Bass-Johnson,5853245624433,5,cleaning products,25/04/2027,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+44,Rechargeable Power Bank Premium Edition,"Rodriguez, Martinez and Cortez",7712947871010,7,electronics,14/06/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+45,Low Fat Yogurt Plus,"Hansen, Mcintosh and Pratt",1944754549691,3,dairy,07/01/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+46,Pure Vegetable Cooking Oil 1L,Walton-Gordon,7722282671909,4,cooking oil,09/12/2027,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+47,Low Fat Yogurt 500g,Perkins PLC,9806154623666,3,dairy,22/09/2026,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+48,Calcium Supplement Tablets Plus,"Davis, Padilla and Fritz",2852596711932,8,medicine,26/04/2027,missing,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+49,Premium Olive Oil 250ml,Huynh-Payne,4067619571211,4,cooking oil,20/12/2028,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+50,Paracetamol Tablets 250ml,"Russell, Figueroa and Harris",955757922245,8,medicine,03/08/2028,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+51,Aloe Vera Skin Cream 250ml,Williams-Delgado,1345446736045,6,personal care,01/09/2026,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+52,Apple Juice Blend 250ml,Anderson-Hernandez,4356560839335,2,drinks,22/06/2026,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+53,USB Charging Adapter 250ml,"Wiggins, Brady and Larsen",2200833040541,7,electronics,06/05/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+54,Dishwashing Soap Liquid 1L,"White, Whitaker and Lutz",7406032289315,5,cleaning products,12/01/2028,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+55,Wireless Computer Mouse 500g,Smith-Campos,3160415533405,7,electronics,13/03/2027,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+56,Pasteurized Dairy Milk Max,"Wallace, Warner and Williamson",6633827848643,3,dairy,03/12/2028,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+57,Hydrating Face Lotion 250ml,Ibarra and Sons,256970018112,6,personal care,12/06/2028,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+58,Salted Butter Pack Plus,"Ward, Miller and Haley",4403935074997,3,dairy,22/11/2027,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+59,Multi Purpose Frying Oil Standard Pack,Nash LLC,8045150633205,4,cooking oil,16/06/2028,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+60,Liquid Laundry Detergent Plus,Murphy-Vega,2447300276281,5,cleaning products,02/08/2026,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+61,USB Charging Adapter Family Pack,Gibson-Riley,8825571930806,7,electronics,05/12/2027,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+62,Glass Cleaning Spray Premium Edition,Guerra LLC,5153656081277,5,cleaning products,21/05/2028,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+63,Pain Relief Tablets Max,"Lloyd, Mcgee and Green",9518335784348,8,medicine,11/11/2027,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+64,Coconut Water Drink Extra Strength,"Bautista, Alvarado and Leon",6829810666398,2,drinks,30/01/2028,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+65,Fabric Softener Liquid Plus,Nguyen Group,4934008323990,5,cleaning products,30/04/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+66,Breakfast Oat Cereal 250ml,Webb-Reynolds,5624713266260,1,food,20/04/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+67,Hand Sanitizer Gel Plus,Jones PLC,8162173516954,6,personal care,08/04/2027,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+68,Mixed Berry Beverage 1L,Wise-Washington,3782670824410,2,drinks,15/11/2026,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+69,Digital Home Router Fresh Formula,Chase-Taylor,295339241044,7,electronics,09/12/2028,present,Packaged electronic device verified for sale with serial identification and warranty support.
+70,Herbal Care Shampoo Premium Edition,"Dorsey, Randolph and Gray",5854986395989,6,personal care,24/10/2026,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+71,Vitamin C Capsules Extra Strength,Park LLC,6056985397783,8,medicine,31/07/2027,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+72,Tomato Ketchup Standard Pack,"Johnson, Wilson and Gordon",8147708326963,1,food,12/11/2026,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+73,Cough Relief Syrup 500g,Schmidt-Smith,3678588845121,8,medicine,01/12/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+74,Roasted Peanut Mix 500g,"Hampton, Ferguson and Young",4629799973522,1,food,27/10/2027,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+75,Pain Relief Tablets Premium Edition,"Orozco, Mclaughlin and Gordon",3252289058761,8,medicine,17/02/2028,partial,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+76,Toilet Cleaning Gel Family Pack,Stone-Harper,7108527195728,5,cleaning products,04/07/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+77,Coconut Water Drink 250ml,Bowers Ltd,1789890045665,2,drinks,09/07/2028,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+78,USB Charging Adapter 500g,"Garcia, Hudson and Jennings",7238666763417,7,electronics,23/10/2028,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+79,Digital Home Router 500g,Brown and Sons,9050860816687,7,electronics,16/07/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+80,Vanilla Flavored Milk Plus,"Wright, Santiago and Cummings",661619008636,3,dairy,14/12/2027,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+81,Tomato Ketchup Extra Strength,Baird Group,7749749629464,1,food,17/06/2028,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+82,Premium Olive Oil 1L,"Day, Webb and Buchanan",6046598359827,4,cooking oil,18/08/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+83,Paracetamol Tablets Premium Edition,Koch-Kim,5946534728445,8,medicine,07/01/2029,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+84,Lemon Energy Drink 1L,Ray and Sons,611260658773,2,drinks,15/01/2029,present,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+85,Vitamin C Capsules Max,Wiggins Inc,8218964584654,8,medicine,27/05/2027,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+86,Processed Cheese Slices Family Pack,"Livingston, Guzman and Howard",5335080395759,3,dairy,13/10/2026,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+87,Fortified Wheat Flour Extra Strength,Chambers and Sons,6804369903835,1,food,30/11/2027,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+88,Digital Home Router 1L,"Ferrell, Brady and Montes",4143712413389,7,electronics,06/07/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+89,Sparkling Soda Drink Max,Payne Ltd,9202842489857,2,drinks,15/11/2027,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+90,Gentle Face Cleanser 500g,Williams Inc,6418609375322,6,personal care,20/01/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+91,Breakfast Oat Cereal 500g,"Wilson, Guzman and Wilson",7906426217912,1,food,10/11/2027,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+92,Liquid Laundry Detergent Extra Strength,Mueller Group,3579020632173,5,cleaning products,03/06/2027,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+93,Chocolate Wafer Biscuits Premium Edition,Meyer and Sons,101054781348,1,food,01/01/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+94,Corn Cooking Oil Fresh Formula,"Smith, Weeks and Hall",8230011450439,4,cooking oil,01/07/2028,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+95,Wireless Computer Mouse Standard Pack,Morris PLC,4402440519214,7,electronics,27/09/2026,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+96,Vanilla Flavored Milk Max,Allen-Tate,400832792478,3,dairy,11/09/2026,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+97,Toilet Cleaning Gel 1L,"Riley, Coleman and Wallace",4706484680108,5,cleaning products,09/11/2027,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+98,Digestive Aid Tablets 1L,Hoffman-Harmon,5386118472683,8,medicine,01/06/2027,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+99,Heavy Duty Cleaner 500g,Carlson Inc,2976930164229,5,cleaning products,13/12/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+100,Sparkling Soda Drink 250ml,"Hernandez, King and Ayala",7874290496453,2,drinks,04/02/2027,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+101,Cheddar Cheese Block 500g,"Fletcher, Burns and Bryant",8006487908930,3,dairy,23/02/2028,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+102,Fabric Softener Liquid Family Pack,Steele-Lyons,2956079381596,5,cleaning products,08/07/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+103,Canola Frying Oil Family Pack,"Boyd, Elliott and Moreno",4129894652372,4,cooking oil,27/06/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+104,Iced Tea Bottle Standard Pack,Berry Group,8087317532136,2,drinks,07/06/2026,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+105,Daily Protection Toothpaste Standard Pack,Davis-Garcia,9326022095048,6,personal care,24/04/2027,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+106,Refreshing Body Wash 1L,Gray PLC,2556954987716,6,personal care,28/03/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+107,Daily Protection Toothpaste 1L,"Dominguez, Phillips and Smith",2459003360938,6,personal care,16/06/2027,present,Hair and body care item prepared for retail distribution with storage and safety instructions.
+108,Antibiotic Capsules 500g,Paul-Hartman,7586581577689,8,medicine,04/08/2026,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+109,Noise Cancelling Headphones Extra Strength,"Nicholson, Watts and Lopez",642738163208,7,electronics,13/09/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+110,Toilet Cleaning Gel Premium Edition,Hogan-Hayes,502404977518,5,cleaning products,21/08/2028,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+111,Pure Vegetable Cooking Oil Premium Edition,Todd-Jackson,4765999948035,4,cooking oil,27/04/2027,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+112,Natural Sesame Oil Plus,"Miller, Morris and Nixon",8937573049360,4,cooking oil,01/01/2028,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+113,Gentle Face Cleanser 250ml,Jackson-Jones,3916444396401,6,personal care,15/10/2026,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+114,Heavy Duty Cleaner Max,Warren Group,5617248078828,5,cleaning products,29/10/2027,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+115,Fortified Soybean Oil Standard Pack,Haynes Group,8677781228040,4,cooking oil,16/02/2028,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+116,Glass Cleaning Spray Standard Pack,Brady-Perez,4481553670951,5,cleaning products,19/09/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+117,Digestive Aid Tablets Max,"Lowe, Barrett and Garcia",3090885178014,8,medicine,01/02/2027,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+118,Orange Fruit Juice Standard Pack,Owens-Higgins,8189107492597,2,drinks,01/10/2026,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+119,Multi Surface Disinfectant Family Pack,Morales-Munoz,9339819552129,5,cleaning products,09/12/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+120,Orange Fruit Juice 1L,Dixon-Hampton,4196939667769,2,drinks,02/10/2028,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+121,Cultured Dairy Yogurt Standard Pack,Andrews-Wallace,4083388609542,3,dairy,22/09/2028,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+122,Smartphone Device Extra Strength,Rose-Prince,3787321012246,7,electronics,24/04/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+123,Moisturizing Body Lotion Max,Lynch-Kline,8551511102483,6,personal care,26/01/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+124,Whole Grain Cookies Family Pack,Lucero-Carr,1228276017945,1,food,17/08/2028,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+125,Natural Sesame Oil Family Pack,Henry and Sons,4434021023650,4,cooking oil,19/10/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+126,Smartphone Device 250ml,Blevins LLC,331725411872,7,electronics,09/12/2028,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+127,Premium Corn Chips Extra Strength,"Hester, Reyes and Miller",3546677415756,1,food,23/05/2028,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+128,Antacid Chewable Tablets 250ml,Campbell-Cervantes,3244393114587,8,medicine,15/12/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+129,Cultured Dairy Yogurt Standard Pack,Branch LLC,6285892801360,3,dairy,19/08/2026,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+130,Cold and Flu Syrup 1L,"Flores, Anderson and Myers",2886890913600,8,medicine,24/10/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+131,Herbal Care Shampoo Premium Edition,"Perry, Martin and Farrell",3348181220600,6,personal care,02/07/2028,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+132,Hand Sanitizer Gel Premium Edition,Rodriguez-Johnson,2752079625476,6,personal care,27/01/2027,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+133,Salted Butter Pack Max,Miller-Mullen,9653908020833,3,dairy,03/06/2027,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+134,Wireless Keyboard Set Family Pack,"Rubio, Wilson and Murphy",7310110032314,7,electronics,26/09/2026,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+135,Antibacterial Floor Cleaner Standard Pack,Reid PLC,5415422778669,5,cleaning products,03/12/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+136,Fabric Softener Liquid 250ml,"Roberts, Pollard and Franklin",1773453875882,5,cleaning products,04/03/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+137,Multi Surface Disinfectant Premium Edition,Cross Inc,8926489786612,5,cleaning products,29/06/2026,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+138,Natural Sesame Oil 500g,"Shaw, Clarke and Obrien",2319644830330,4,cooking oil,15/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+139,Pasteurized Dairy Milk Extra Strength,Cooper-Espinoza,1687707655611,3,dairy,20/12/2028,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+140,Gentle Face Cleanser Standard Pack,Rosales and Sons,8200800912400,6,personal care,25/11/2028,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+141,Cheddar Cheese Block Family Pack,Fernandez PLC,7172368503417,3,dairy,24/02/2028,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+142,LED Desk Lamp Max,"Reynolds, Thomas and Walker",4628076323630,7,electronics,20/10/2028,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+143,Hydrating Face Lotion Standard Pack,"Jones, Smith and Miranda",6732555286939,6,personal care,01/09/2026,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+144,Chocolate Wafer Biscuits Family Pack,Dyer-Reynolds,145314948751,1,food,09/01/2027,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+145,Spicy Potato Crisps Standard Pack,Johnson-Mason,8378037904762,1,food,24/09/2026,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+146,Anti Dandruff Shampoo Extra Strength,Johnson PLC,6630004058642,6,personal care,28/08/2026,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+147,Liquid Laundry Detergent Standard Pack,"Davenport, Leonard and Atkins",7201026910561,5,cleaning products,24/07/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+148,Vanilla Flavored Milk 250ml,"Boyd, Wiggins and Carson",8922497416640,3,dairy,20/12/2028,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+149,Anti Dandruff Shampoo Premium Edition,Roberts Ltd,2846059068596,6,personal care,07/09/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+150,Noise Cancelling Headphones Standard Pack,Thomas-Kennedy,3398292800185,7,electronics,05/08/2028,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+151,Salted Crackers Fresh Formula,"Parker, Estes and Fisher",5967448219034,1,food,19/04/2027,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+152,Smartphone Device Max,Rogers-Dorsey,6694205487977,7,electronics,10/12/2026,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+153,Groundnut Cooking Oil 500g,"Rose, Avila and Harris",7287516693459,4,cooking oil,23/04/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+154,Whole Grain Cookies Extra Strength,Becker PLC,8498169475678,1,food,12/09/2028,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+155,Liquid Laundry Detergent Max,"Payne, Cook and Swanson",7958552547982,5,cleaning products,30/06/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+156,Sparkling Soda Drink Premium Edition,"Vasquez, Murphy and Torres",4373003542935,2,drinks,28/08/2028,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+157,Refined Sunflower Oil Premium Edition,Bautista-Mercado,3020525233186,4,cooking oil,22/12/2026,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+158,Chocolate Wafer Biscuits Plus,Macdonald-Meadows,4934105794891,1,food,02/04/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+159,Processed Cheese Slices Max,"Mendoza, Huffman and Tate",80096286250,3,dairy,12/09/2028,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+160,Salted Butter Pack 500g,Woodard-Molina,2166334790241,3,dairy,17/01/2028,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+161,Gentle Face Cleanser Premium Edition,Hernandez PLC,8041834897734,6,personal care,02/07/2027,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+162,Fortified Soybean Oil 1L,Harper-Barber,6361012230309,4,cooking oil,16/06/2027,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+163,Hand Sanitizer Gel Fresh Formula,"Avila, Harmon and Jackson",4163328509801,6,personal care,24/11/2027,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+164,Noise Cancelling Headphones 1L,"Woods, Jones and Mcgee",4620599119011,7,electronics,15/11/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+165,Pain Relief Tablets Plus,Schmidt-Gutierrez,9105241312187,8,medicine,11/09/2028,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+166,Fresh Full Cream Milk Fresh Formula,Kline-Patton,9491851081866,3,dairy,29/07/2026,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+167,Low Fat Yogurt 500g,Chavez-Dunn,3412298372429,3,dairy,01/01/2028,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+168,Pure Vegetable Cooking Oil Plus,Brooks-Le,9292614166871,4,cooking oil,27/01/2029,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+169,Salted Butter Pack Standard Pack,Mcpherson-Le,451927643861,3,dairy,10/10/2027,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+170,Pure Vegetable Cooking Oil 1L,Campbell and Sons,9538557919403,4,cooking oil,13/01/2027,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+171,Daily Protection Toothpaste Family Pack,Lucas-Wiggins,6565897957812,6,personal care,16/12/2026,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+172,Wireless Keyboard Set Plus,Turner PLC,8473660165914,7,electronics,06/03/2028,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+173,Multi Surface Disinfectant 250ml,Schmitt-Reese,6136150762445,5,cleaning products,09/07/2028,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+174,Chocolate Milk Drink Extra Strength,Brown and Sons,8918567507080,3,dairy,16/05/2028,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+175,Chocolate Wafer Biscuits Fresh Formula,Roberts-Hayes,2134848504401,1,food,10/08/2028,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+176,Pain Relief Tablets Fresh Formula,"Johnson, Murphy and Hall",5839008414695,8,medicine,06/01/2029,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+177,Cheddar Cheese Block Max,"Hughes, Sanders and Landry",4775454181648,3,dairy,13/10/2026,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+178,Salted Butter Pack Standard Pack,Nielsen PLC,7084609030142,3,dairy,11/04/2027,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+179,Digital Home Router Fresh Formula,Lopez-Owens,3788595397282,7,electronics,15/09/2028,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+180,Spicy Potato Crisps Plus,Lopez LLC,4690346441054,1,food,16/04/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+181,Kitchen Degreaser Liquid Premium Edition,Duke-Mccarthy,5653110912654,5,cleaning products,07/10/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+182,Pure Vegetable Cooking Oil Fresh Formula,Ruiz-Aguilar,1363189139497,4,cooking oil,19/10/2026,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+183,Bathroom Surface Cleaner Family Pack,Chambers-White,1079742812201,5,cleaning products,27/06/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+184,Orange Fruit Juice Max,"Reynolds, Garcia and Park",297299550365,2,drinks,22/02/2028,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+185,Cough Relief Syrup 250ml,"Crawford, Perkins and Weaver",5155562754498,8,medicine,08/07/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+186,Glass Cleaning Spray Plus,"Finley, Walls and Moody",1999908021738,5,cleaning products,01/07/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+187,Iced Tea Bottle Extra Strength,Jordan-Spencer,2235986263882,2,drinks,07/11/2026,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+188,Wireless Keyboard Set 1L,"Green, Mcguire and Wright",9295543639379,7,electronics,22/10/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+189,Toilet Cleaning Gel Extra Strength,"Reeves, Bowers and Oneal",1513359095676,5,cleaning products,13/02/2028,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+190,Antibacterial Floor Cleaner 1L,Moore LLC,3954725219612,5,cleaning products,10/10/2026,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+191,Fresh Full Cream Milk Family Pack,Blair-Carpenter,9013809433598,3,dairy,15/11/2028,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+192,Apple Juice Blend Standard Pack,Mills-Douglas,1191006489988,2,drinks,13/10/2027,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+193,Kitchen Degreaser Liquid Extra Strength,Rodriguez-Welch,756363499233,5,cleaning products,09/08/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+194,Rechargeable Power Bank Fresh Formula,King-Williams,2646459391764,7,electronics,21/12/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+195,Salted Crackers Extra Strength,Smith LLC,6344665052894,1,food,27/12/2026,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+196,Canola Frying Oil Max,"Cantrell, Hale and Brown",2030490490997,4,cooking oil,03/11/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+197,Natural Sesame Oil 500g,"Rodriguez, Smith and Lopez",9388117933529,4,cooking oil,09/01/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+198,Palm Cooking Oil Extra Strength,Turner-Johnson,1726186213919,4,cooking oil,07/04/2028,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+199,Coconut Water Drink 1L,Phillips-Watts,1511873901251,2,drinks,07/01/2029,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+200,Smartphone Device Extra Strength,"Williams, Collins and Holloway",7666791795391,7,electronics,04/02/2028,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+201,Gentle Face Cleanser Fresh Formula,Estes-Garcia,8208555905401,6,personal care,30/07/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+202,Herbal Care Shampoo 500g,"Gibson, Jones and Dean",7352780563507,6,personal care,20/11/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+203,Fresh Full Cream Milk Extra Strength,Willis-Rogers,526230119034,3,dairy,24/10/2027,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+204,Multi Purpose Frying Oil Family Pack,Anderson and Sons,5286679376935,4,cooking oil,16/11/2028,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+205,Liquid Laundry Detergent Plus,"Crawford, Walters and Marshall",2802728581315,5,cleaning products,10/08/2026,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+206,Conditioning Hair Shampoo Extra Strength,"Bauer, Peck and Lewis",7353857189729,6,personal care,05/03/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+207,Aloe Vera Skin Cream 250ml,Thompson-Blake,8037216488706,6,personal care,11/12/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+208,Roasted Peanut Mix Standard Pack,Williams Group,3364401521814,1,food,19/01/2027,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+209,Anti Dandruff Shampoo Plus,Walker LLC,4481292184702,6,personal care,25/05/2028,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+210,Wireless Keyboard Set Fresh Formula,"Vargas, Burton and Vega",4115310939660,7,electronics,26/04/2027,present,Packaged electronic device verified for sale with serial identification and warranty support.
+211,Moisturizing Body Lotion Standard Pack,"Fuentes, Watkins and Figueroa",1206995561680,6,personal care,31/07/2026,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+212,Coconut Water Drink Premium Edition,"May, Sellers and Brady",1118923129308,2,drinks,23/03/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+213,Vitamin Sports Drink Max,Dennis PLC,5262255201778,2,drinks,11/06/2027,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+214,Processed Cheese Slices Family Pack,"Castillo, Carter and Willis",1821778015428,3,dairy,29/04/2028,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+215,Antacid Chewable Tablets Plus,"Wong, Miller and Mills",2510316499095,8,medicine,13/06/2028,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+216,Vitamin Sports Drink Premium Edition,Powers Group,3850875225339,2,drinks,11/07/2027,partial,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+217,Digital Home Router Standard Pack,Rivas-Jefferson,5627404420538,7,electronics,02/08/2026,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+218,USB Charging Adapter 1L,Walker Inc,9985058753263,7,electronics,01/02/2029,present,Packaged electronic device verified for sale with serial identification and warranty support.
+219,Apple Juice Blend Premium Edition,"Sanchez, Wallace and Mccann",9488567340639,2,drinks,30/01/2027,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+220,Fabric Softener Liquid Standard Pack,Gay PLC,9439888972191,5,cleaning products,09/06/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+221,Portable Bluetooth Speaker Max,Sanchez-Cole,985228236892,7,electronics,13/05/2027,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+222,Tomato Ketchup 250ml,"Moreno, Schultz and Hunter",2256074779863,1,food,01/10/2026,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+223,Mixed Berry Beverage Family Pack,"Zhang, Franklin and Young",3694233628994,2,drinks,17/04/2028,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+224,Cough Relief Syrup 1L,Robinson Inc,5029190597911,8,medicine,30/12/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+225,Corn Cooking Oil Max,Logan and Sons,6484387092874,4,cooking oil,21/02/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+226,Chocolate Milk Drink 250ml,Clarke-Wolfe,7087936103466,3,dairy,21/01/2028,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+227,Vitamin C Capsules Extra Strength,"Thompson, Mejia and Moore",4241862653980,8,medicine,28/08/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+228,Antibacterial Floor Cleaner 250ml,Wright and Sons,3191812274417,5,cleaning products,31/01/2028,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+229,Tomato Ketchup Standard Pack,"Ford, Bowers and Robinson",7875260160947,1,food,26/10/2026,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+230,Iced Tea Bottle Extra Strength,"Booth, Ellis and Crawford",2815200979265,2,drinks,22/01/2029,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+231,Aloe Vera Skin Cream 1L,Ramirez LLC,6809966641029,6,personal care,09/04/2027,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+232,Fortified Soybean Oil Premium Edition,Jenkins Group,2026807906787,4,cooking oil,06/07/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+233,Palm Cooking Oil Fresh Formula,Clarke LLC,2789838650820,4,cooking oil,18/08/2026,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+234,USB Charging Adapter 1L,Nichols Group,9348420742294,7,electronics,05/08/2026,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+235,LED Desk Lamp Family Pack,"Cruz, Jimenez and Singh",1134745418642,7,electronics,24/06/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+236,Coconut Water Drink Premium Edition,"Russell, Brennan and Collins",1767941482430,2,drinks,20/03/2027,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+237,Bathroom Surface Cleaner 250ml,"Ramirez, Stewart and Lee",6238122392053,5,cleaning products,09/05/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+238,Noise Cancelling Headphones Fresh Formula,Mcconnell Inc,6992992649357,7,electronics,28/10/2026,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+239,Low Fat Yogurt Premium Edition,"Henry, Green and Jones",2692862530733,3,dairy,30/10/2027,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+240,Glass Cleaning Spray Family Pack,Gomez Ltd,7880291346239,5,cleaning products,30/10/2027,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+241,Toilet Cleaning Gel Max,"Soto, Romero and Richards",8086501543613,5,cleaning products,02/09/2026,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+242,Chocolate Wafer Biscuits 500g,Palmer LLC,1672793608771,1,food,26/06/2028,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+243,Vitamin Sports Drink 500g,"Mcintyre, Stephens and Johnson",8131888139864,2,drinks,13/04/2027,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+244,Processed Cheese Slices Extra Strength,Mack Ltd,3562269290860,3,dairy,03/06/2027,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+245,Liquid Laundry Detergent Fresh Formula,Sparks PLC,923212594078,5,cleaning products,18/11/2026,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+246,Chocolate Milk Drink Premium Edition,Cox-Pineda,326679997411,3,dairy,29/12/2026,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+247,Low Fat Yogurt Fresh Formula,"Gentry, Fisher and Zimmerman",7930226299311,3,dairy,14/12/2026,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+248,Tomato Ketchup Extra Strength,"Love, Walker and Lopez",927355171646,1,food,19/09/2028,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+249,Cultured Dairy Yogurt 500g,Mcdonald and Sons,9032698885905,3,dairy,05/08/2026,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+250,Portable Bluetooth Speaker Fresh Formula,Cooper PLC,7497350920240,7,electronics,16/09/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+251,Digestive Aid Tablets Premium Edition,Hunt-Silva,935839268768,8,medicine,01/06/2027,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+252,Multi Surface Disinfectant Max,Nelson PLC,9110569835430,5,cleaning products,09/04/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+253,Tomato Ketchup 500g,Cook-Lee,2766737723077,1,food,12/04/2028,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+254,Multi Purpose Frying Oil Extra Strength,Schultz-Webb,6150979650899,4,cooking oil,09/09/2026,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+255,Canola Frying Oil Plus,Stanley-Hawkins,818121510557,4,cooking oil,06/01/2029,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+256,Premium Corn Chips Premium Edition,Hart-Taylor,3520000352024,1,food,05/07/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+257,Antibacterial Floor Cleaner Standard Pack,"Williamson, Li and Leonard",5347998152591,5,cleaning products,02/06/2027,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+258,Vanilla Flavored Milk Plus,Burns-Cooke,6298618919683,3,dairy,25/11/2028,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+259,Refreshing Body Wash Standard Pack,Nichols-Stark,8653860365202,6,personal care,30/11/2028,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+260,Cold and Flu Syrup Plus,Rangel LLC,6578494389139,8,medicine,10/06/2027,partial,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+261,Portable Bluetooth Speaker Premium Edition,"Galloway, Martinez and Diaz",7977389969163,7,electronics,17/07/2026,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+262,Hand Sanitizer Gel Plus,Carr Group,3382859894656,6,personal care,11/02/2027,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+263,Salted Butter Pack Max,Diaz Ltd,322312493074,3,dairy,01/01/2029,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+264,Whole Grain Cookies 500g,Perry-Long,9989206850460,1,food,04/01/2029,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+265,Hydrating Face Lotion 250ml,Noble-Clayton,6354587800800,6,personal care,12/03/2028,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+266,Rechargeable Power Bank Plus,Glover-Fuentes,5426579946047,7,electronics,25/12/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+267,Groundnut Cooking Oil Extra Strength,Singleton-Gibson,2613184046139,4,cooking oil,30/10/2027,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+268,Antibacterial Floor Cleaner 500g,Fischer-Lin,1200636936332,5,cleaning products,01/01/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+269,Bathroom Surface Cleaner Fresh Formula,Joyce-Sawyer,2456599486967,5,cleaning products,20/11/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+270,Fresh Full Cream Milk Fresh Formula,"Peterson, Singleton and Escobar",3591733404441,3,dairy,02/04/2028,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+271,Heavy Duty Cleaner 1L,Cooper Ltd,4056538021532,5,cleaning products,31/12/2026,present,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+272,Gentle Face Cleanser Premium Edition,Cobb LLC,9327758475432,6,personal care,26/07/2027,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+273,Refined Sunflower Oil Plus,Mills LLC,8181165639105,4,cooking oil,07/08/2027,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+274,Antacid Chewable Tablets Standard Pack,House Ltd,4980852612926,8,medicine,20/03/2028,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+275,Tomato Ketchup 500g,Rasmussen LLC,3148951140547,1,food,14/08/2027,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+276,Tomato Ketchup Fresh Formula,"Mclaughlin, Velez and Skinner",3916444716285,1,food,08/06/2027,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+277,Chocolate Milk Drink Extra Strength,Vazquez and Sons,7814782622823,3,dairy,30/09/2027,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+278,Orange Fruit Juice 250ml,Robbins LLC,402897820783,2,drinks,12/02/2028,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+279,Multi Purpose Frying Oil Extra Strength,Thompson Ltd,4840636423714,4,cooking oil,14/06/2026,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+280,Premium Olive Oil Family Pack,Valdez-Nash,810103124783,4,cooking oil,01/06/2027,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+281,Allergy Relief Medicine Extra Strength,"Sanchez, Moore and Coleman",9755888667715,8,medicine,20/09/2027,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+282,Calcium Supplement Tablets Plus,Jones Ltd,6528616858753,8,medicine,09/04/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+283,Coconut Water Drink Extra Strength,Malone Group,1393222408433,2,drinks,10/10/2027,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+284,Fortified Wheat Flour 1L,Jones Inc,9286582414133,1,food,08/06/2027,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+285,Fortified Wheat Flour Fresh Formula,Patrick-Martinez,6028290972795,1,food,22/02/2027,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+286,Breakfast Oat Cereal Extra Strength,Hayes-Thompson,2993014057246,1,food,13/09/2027,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+287,Chocolate Wafer Biscuits Plus,Torres Group,4103058897373,1,food,12/09/2027,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+288,Fabric Softener Liquid Premium Edition,Black-Barry,6634708339519,5,cleaning products,10/10/2026,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+289,Vanilla Flavored Milk Max,Cook-Dillon,233623305836,3,dairy,07/03/2027,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+290,Rechargeable Power Bank Plus,Williams Group,7108185369462,7,electronics,11/08/2026,present,Packaged electronic device verified for sale with serial identification and warranty support.
+291,Herbal Care Shampoo Family Pack,"Gill, Travis and Bright",9608504061520,6,personal care,01/08/2026,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+292,Chocolate Wafer Biscuits Extra Strength,Williams Ltd,3871479888812,1,food,03/05/2027,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+293,Kitchen Degreaser Liquid Standard Pack,Braun-Torres,89784608213,5,cleaning products,26/10/2026,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+294,Smartphone Device 250ml,"Hernandez, Stewart and Larson",8096360974701,7,electronics,23/01/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+295,Paracetamol Tablets Extra Strength,Kelly-Miller,5449205361809,8,medicine,12/01/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+296,Hand Sanitizer Gel Plus,Alexander Group,9546903582911,6,personal care,25/03/2027,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+297,Greek Yogurt Cup Premium Edition,Hunt-Perkins,2114104393185,3,dairy,05/01/2029,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+298,Herbal Care Shampoo 250ml,Patton Group,1227613563039,6,personal care,03/12/2028,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+299,Smart LED Television 1L,Leonard-Cooper,7994184386216,7,electronics,29/07/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+300,Canola Frying Oil Plus,"Wright, Hernandez and Reynolds",9890187046745,4,cooking oil,13/08/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+301,Mixed Berry Beverage Standard Pack,Ortiz Ltd,9941518886865,2,drinks,23/05/2027,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+302,Fresh Full Cream Milk 1L,Fernandez-Velasquez,2593317023261,3,dairy,28/08/2027,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+303,Paracetamol Tablets 500g,Wells Ltd,5503339931601,8,medicine,31/01/2028,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+304,Spicy Potato Crisps 1L,Kennedy PLC,3248685163505,1,food,28/11/2026,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+305,Portable Bluetooth Speaker Fresh Formula,"Cooke, Maldonado and Osborne",3156768811734,7,electronics,15/11/2026,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+306,LED Desk Lamp Family Pack,Andrews LLC,4569836291663,7,electronics,14/03/2028,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+307,Lemon Energy Drink Extra Strength,Davis-Hamilton,7874544638066,2,drinks,05/11/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+308,Processed Cheese Slices 250ml,Jones-Horne,6701363860822,3,dairy,07/07/2027,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+309,Cough Relief Syrup 500g,Sellers LLC,1473796825512,8,medicine,21/09/2028,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+310,Paracetamol Tablets Extra Strength,Anderson Ltd,9654126272691,8,medicine,11/10/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+311,Moisturizing Body Lotion Extra Strength,"Hill, Martin and Wilson",711362951823,6,personal care,05/12/2028,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+312,LED Desk Lamp Plus,"Dawson, Thomas and Willis",6531359809531,7,electronics,17/09/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+313,Moisturizing Body Lotion Standard Pack,Turner PLC,7024120357922,6,personal care,23/01/2029,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+314,Aloe Vera Skin Cream 1L,"Yu, Chandler and Wade",5314717343165,6,personal care,02/05/2027,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+315,Smart LED Television 250ml,Richardson LLC,9625592886132,7,electronics,11/12/2028,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+316,Pain Relief Tablets 1L,"Rivera, Payne and Stephens",1259943587850,8,medicine,08/11/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+317,Conditioning Hair Shampoo Plus,Fuentes-White,18554978171,6,personal care,28/03/2027,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+318,Groundnut Cooking Oil Family Pack,Lopez Group,5681390180845,4,cooking oil,03/01/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+319,Premium Corn Chips Extra Strength,"Aguilar, Scott and Conrad",1450505303103,1,food,27/08/2027,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+320,Pain Relief Tablets Family Pack,Gonzales-Walker,3996615086966,8,medicine,08/03/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+321,Kitchen Degreaser Liquid Family Pack,Hancock-Hicks,8196392400893,5,cleaning products,07/03/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+322,Fresh Full Cream Milk Extra Strength,Thompson Group,9263632904219,3,dairy,11/12/2026,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+323,Apple Juice Blend Max,Williams-Brewer,630783504589,2,drinks,27/07/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+324,Paracetamol Tablets Max,James Inc,3861163824523,8,medicine,08/04/2027,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+325,Gentle Face Cleanser Extra Strength,Reed-Martinez,6947586884720,6,personal care,21/06/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+326,Kitchen Degreaser Liquid 250ml,Hunt-Hickman,7879747161496,5,cleaning products,03/06/2027,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+327,Smartphone Device Max,"Green, Knight and Perry",3953165628442,7,electronics,29/08/2028,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+328,Natural Mineral Water Family Pack,Preston-Oconnor,9201967829302,2,drinks,01/06/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+329,Dishwashing Soap Liquid 250ml,"Watson, Larson and Clark",7512446661750,5,cleaning products,03/01/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+330,Fortified Soybean Oil Premium Edition,Hudson-Morris,9978586017228,4,cooking oil,10/06/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+331,Heavy Duty Cleaner Standard Pack,Baker-Jones,9576812334363,5,cleaning products,16/03/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+332,Instant Noodles Max,Huff-Craig,8545739386312,1,food,05/08/2026,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+333,Portable Bluetooth Speaker Premium Edition,"Bradford, Fields and Turner",627652447337,7,electronics,18/05/2028,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+334,Gentle Face Cleanser Max,"Henry, Mora and Kirk",1421170005623,6,personal care,28/12/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+335,Vitamin C Capsules 1L,"Cruz, Rivera and Warren",1736423142254,8,medicine,11/10/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+336,Digital Home Router 500g,Jones-Moore,3922258299883,7,electronics,23/04/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+337,Hand Sanitizer Gel 250ml,Owens-Powell,2664999189245,6,personal care,05/02/2027,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+338,Dishwashing Soap Liquid Extra Strength,Bell and Sons,2937444943243,5,cleaning products,06/06/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+339,Low Fat Yogurt Max,"Valenzuela, Day and Guzman",2352021786707,3,dairy,02/07/2026,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+340,Iced Tea Bottle Plus,"Bowman, Haynes and Swanson",3578552564662,2,drinks,06/08/2027,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+341,Premium Corn Chips Extra Strength,Nelson Ltd,8378012572313,1,food,27/10/2026,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+342,Rechargeable Power Bank Fresh Formula,Taylor-Walker,8738724132128,7,electronics,18/04/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+343,Mango Refresh Drink Premium Edition,Benjamin LLC,4762558399543,2,drinks,21/07/2026,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+344,Refined Sunflower Oil 1L,Harrell-Haynes,7515068329930,4,cooking oil,08/09/2028,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+345,Digestive Aid Tablets Fresh Formula,"Ramos, Nguyen and Drake",4976630271126,8,medicine,06/01/2029,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+346,Canola Frying Oil Extra Strength,Goodman-Pena,5127452427751,4,cooking oil,22/11/2028,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+347,Greek Yogurt Cup 1L,Stevens-Green,1940976904201,3,dairy,23/12/2028,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+348,Hand Sanitizer Gel Plus,"Mcclain, Marsh and Banks",9332033897205,6,personal care,28/08/2026,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+349,Multi Surface Disinfectant Extra Strength,Mata LLC,3809075098298,5,cleaning products,03/03/2028,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+350,Coconut Water Drink Premium Edition,Byrd PLC,886993589070,2,drinks,03/09/2026,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+351,Antibiotic Capsules Premium Edition,Roberts Inc,841561906642,8,medicine,19/03/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+352,Dishwashing Soap Liquid Fresh Formula,"Rodriguez, Kane and Patrick",2841129851481,5,cleaning products,23/09/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+353,Digestive Aid Tablets Standard Pack,"Stuart, Edwards and Walls",1709531701446,8,medicine,08/06/2026,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+354,Portable Bluetooth Speaker Standard Pack,Cobb and Sons,7856893638904,7,electronics,31/05/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+355,Coconut Water Drink Extra Strength,"Velazquez, Valdez and Gay",6179185540480,2,drinks,25/08/2028,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+356,Aloe Vera Skin Cream 500g,"Robinson, Thompson and Hansen",7063554178871,6,personal care,11/10/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+357,Pasteurized Dairy Milk Premium Edition,Harris and Sons,6005416918776,3,dairy,28/08/2026,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+358,Liquid Laundry Detergent Max,"Jones, Payne and Carr",2292203525482,5,cleaning products,28/11/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+359,Roasted Peanut Mix 1L,"Medina, Rice and Dyer",8597575418542,1,food,24/11/2026,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+360,Salted Butter Pack Family Pack,Wilcox-Gonzalez,2982482362273,3,dairy,04/06/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+361,Hydrating Face Lotion Family Pack,Duffy LLC,1970095516788,6,personal care,21/08/2026,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+362,Groundnut Cooking Oil 500g,"Davis, Lewis and Ruiz",9553316282963,4,cooking oil,21/04/2027,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+363,Refined Sunflower Oil Extra Strength,"Miller, Allison and Pierce",4427456881209,4,cooking oil,23/01/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+364,Premium Olive Oil Extra Strength,Hall-Long,3568512147905,4,cooking oil,05/02/2027,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+365,Natural Mineral Water Family Pack,Harris-Mitchell,6142574865372,2,drinks,23/11/2026,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+366,LED Desk Lamp Fresh Formula,Peters Inc,1679529131633,7,electronics,08/01/2029,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+367,Conditioning Hair Shampoo Extra Strength,Sanders-Hayes,5431915244756,6,personal care,11/04/2028,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+368,Portable Bluetooth Speaker Plus,Mccann-Vega,9962781400619,7,electronics,12/11/2026,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+369,Dishwashing Soap Liquid Standard Pack,Hayes-Tran,9092570288859,5,cleaning products,18/04/2028,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+370,Lemon Energy Drink Premium Edition,"Figueroa, Jackson and Underwood",8283818274661,2,drinks,17/07/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+371,Multi Surface Disinfectant Extra Strength,Hodge-Wong,8630103368305,5,cleaning products,26/04/2028,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+372,Natural Mineral Water Family Pack,"Patel, Burke and Hunt",4594393401255,2,drinks,02/01/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+373,Glass Cleaning Spray Standard Pack,"Fowler, Dean and Prince",2695132912802,5,cleaning products,18/07/2027,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+374,Antibiotic Capsules Max,"Hickman, Thornton and Smith",571562829007,8,medicine,12/08/2026,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+375,Cultured Dairy Yogurt Family Pack,Ramirez-Mills,1227141893233,3,dairy,01/08/2026,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+376,Pasteurized Dairy Milk Max,"Bradford, Scott and Rogers",8362781885507,3,dairy,14/09/2026,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+377,Low Fat Yogurt Max,Garza-Nichols,6324704522342,3,dairy,03/11/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+378,Low Fat Yogurt 500g,Blankenship-Smith,9223884919881,3,dairy,30/03/2028,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+379,Tomato Ketchup Extra Strength,"Lee, Moran and Underwood",7784796136985,1,food,04/11/2026,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+380,Calcium Supplement Tablets Fresh Formula,Sullivan-Barnes,9974731552897,8,medicine,11/06/2028,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+381,Glass Cleaning Spray 1L,Pitts and Sons,9017476642710,5,cleaning products,06/01/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+382,Wireless Keyboard Set Premium Edition,Davidson Ltd,1183049337319,7,electronics,19/01/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+383,Breakfast Oat Cereal 1L,Taylor Inc,943281319099,1,food,26/09/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+384,Fortified Wheat Flour Extra Strength,Diaz-Thompson,8984786534879,1,food,02/05/2028,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+385,Premium Olive Oil Family Pack,"Vega, Little and Mcfarland",2931390409075,4,cooking oil,28/12/2026,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+386,Antacid Chewable Tablets 500g,Zhang PLC,7239412916569,8,medicine,21/03/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+387,Heavy Duty Cleaner Family Pack,Chambers-West,7817785309661,5,cleaning products,12/12/2028,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+388,Moisturizing Body Lotion 250ml,Perez-Hines,1183119709718,6,personal care,18/10/2028,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+389,Vitamin C Capsules Premium Edition,Smith-Smith,1942588687411,8,medicine,20/11/2026,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+390,Liquid Laundry Detergent Extra Strength,Thomas Inc,3980590412728,5,cleaning products,02/01/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+391,Processed Cheese Slices 500g,Davis Ltd,500403287409,3,dairy,27/08/2028,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+392,Heavy Duty Cleaner Plus,Howell-Hunt,6792103459062,5,cleaning products,06/03/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+393,Breakfast Oat Cereal 1L,Miller-Allen,5795789733403,1,food,02/03/2027,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+394,Orange Fruit Juice Fresh Formula,Chen PLC,4216408326840,2,drinks,18/11/2026,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+395,Calcium Supplement Tablets 500g,"Merritt, Huber and Macias",9615653002373,8,medicine,06/07/2026,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+396,Wireless Computer Mouse Extra Strength,Edwards PLC,9473852924540,7,electronics,26/02/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+397,Fortified Soybean Oil Extra Strength,Levine Inc,2978648985066,4,cooking oil,15/09/2026,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+398,Breakfast Oat Cereal 500g,"Harris, Cardenas and Lawrence",5192571036818,1,food,03/10/2026,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+399,Glass Cleaning Spray Fresh Formula,Zuniga-Leonard,9456960240207,5,cleaning products,25/07/2026,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+400,Fresh Full Cream Milk 1L,Holland Inc,9727239153253,3,dairy,13/09/2026,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+401,Dishwashing Soap Liquid Premium Edition,Villegas Inc,4983180554104,5,cleaning products,06/07/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+402,Hand Sanitizer Gel Plus,Henderson-Gilmore,1659103594047,6,personal care,15/01/2028,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+403,Allergy Relief Medicine Extra Strength,"Riley, Taylor and Miller",6480963122980,8,medicine,04/01/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+404,Antacid Chewable Tablets Standard Pack,Blackwell-Deleon,8911593197072,8,medicine,28/01/2029,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+405,Fortified Wheat Flour Extra Strength,Doyle-Kirby,6082167584948,1,food,03/12/2027,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+406,Sparkling Soda Drink Fresh Formula,Thomas and Sons,6115954095195,2,drinks,23/11/2028,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+407,Corn Cooking Oil Extra Strength,Brown-Sheppard,4795260120075,4,cooking oil,20/06/2026,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+408,Fresh Full Cream Milk Family Pack,"Morales, Rodriguez and Young",6738776919021,3,dairy,05/08/2027,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+409,Liquid Laundry Detergent Plus,Espinoza LLC,2670060482931,5,cleaning products,08/12/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+410,Mango Refresh Drink 250ml,"Zimmerman, Knight and Mejia",3984905244783,2,drinks,27/05/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+411,Fortified Wheat Flour 1L,"Hodges, Farmer and Brooks",5121982159281,1,food,06/11/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+412,Vitamin C Capsules Standard Pack,Gallagher Group,7732017005312,8,medicine,21/05/2028,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+413,Antacid Chewable Tablets Plus,Espinoza Inc,1227844730125,8,medicine,18/10/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+414,Cultured Dairy Yogurt Standard Pack,Snyder-Stout,1667350103721,3,dairy,11/10/2026,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+415,Smart LED Television Fresh Formula,Kim Inc,8331973924867,7,electronics,13/11/2026,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+416,Chocolate Milk Drink Max,"Schmitt, Larson and Fox",2802330572275,3,dairy,08/05/2027,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+417,Portable Bluetooth Speaker Plus,Sellers-Carrillo,4089925858565,7,electronics,08/10/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+418,Fortified Wheat Flour 500g,Galloway Ltd,5021713589564,1,food,09/01/2029,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+419,Antibacterial Floor Cleaner Max,Mahoney-Villarreal,3991084495646,5,cleaning products,28/05/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+420,Cough Relief Syrup Max,Weeks-Tran,5405193734575,8,medicine,25/07/2027,partial,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+421,Anti Dandruff Shampoo Fresh Formula,"Schaefer, Pruitt and Holloway",1306405502422,6,personal care,01/11/2028,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+422,Daily Protection Toothpaste Plus,Peterson LLC,1956138236578,6,personal care,21/09/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+423,Coconut Water Drink Family Pack,Madden-Bradley,8167965819695,2,drinks,02/11/2028,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+424,Tomato Ketchup Max,Sawyer Inc,1621044764957,1,food,14/05/2028,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+425,Orange Fruit Juice Premium Edition,"Smith, Davis and Ramsey",7726548741290,2,drinks,12/09/2026,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+426,Corn Cooking Oil Fresh Formula,Green Ltd,8572993661466,4,cooking oil,17/12/2027,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+427,Cold and Flu Syrup 250ml,Best LLC,3039690247973,8,medicine,20/10/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+428,Sparkling Soda Drink Plus,Ingram LLC,9196668275711,2,drinks,27/09/2028,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+429,Herbal Care Shampoo Max,"Ortega, Henry and Marshall",4349789558019,6,personal care,03/08/2026,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+430,Aloe Vera Skin Cream 500g,Morgan-Bailey,7860638205191,6,personal care,28/05/2027,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+431,Coconut Water Drink Fresh Formula,"Martinez, Griffin and Williams",7078393571295,2,drinks,07/07/2027,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+432,Multi Purpose Frying Oil 250ml,Elliott Inc,1132023854038,4,cooking oil,21/08/2028,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+433,Heavy Duty Cleaner Extra Strength,Miles Group,9039816828578,5,cleaning products,25/10/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+434,Groundnut Cooking Oil Standard Pack,Weber PLC,6610755217857,4,cooking oil,15/01/2029,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+435,Tomato Ketchup Family Pack,"Sosa, Dickerson and Golden",5489677833626,1,food,22/04/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+436,Rechargeable Power Bank 500g,Clark and Sons,5486007397322,7,electronics,20/09/2028,present,Packaged electronic device verified for sale with serial identification and warranty support.
+437,Anti Dandruff Shampoo Plus,Spencer LLC,2053540940679,6,personal care,29/06/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+438,LED Desk Lamp Extra Strength,Lopez-Estrada,2780258274238,7,electronics,26/06/2026,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+439,Groundnut Cooking Oil Fresh Formula,Bryant and Sons,1041147315724,4,cooking oil,19/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+440,Mango Refresh Drink Standard Pack,Thomas Inc,2654267980018,2,drinks,07/02/2027,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+441,Hydrating Face Lotion 500g,Goodman and Sons,3039238759586,6,personal care,06/01/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+442,Palm Cooking Oil 1L,Ross LLC,2670979876388,4,cooking oil,18/07/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+443,Daily Protection Toothpaste 500g,York-Diaz,4611603867325,6,personal care,14/06/2026,present,Hair and body care item prepared for retail distribution with storage and safety instructions.
+444,Aloe Vera Skin Cream 500g,Peterson-Turner,5423753204627,6,personal care,06/10/2026,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+445,Canola Frying Oil Extra Strength,"Ellison, Garcia and Lucas",981825037047,4,cooking oil,25/08/2026,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+446,Antacid Chewable Tablets 250ml,Silva and Sons,7345474044444,8,medicine,01/01/2029,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+447,Liquid Laundry Detergent 1L,Dixon-Landry,884172044228,5,cleaning products,28/07/2026,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+448,Mixed Berry Beverage 500g,Turner LLC,8359460753554,2,drinks,20/12/2027,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+449,Refreshing Body Wash 250ml,"Vasquez, Taylor and Houston",2802119384419,6,personal care,20/12/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+450,Pasteurized Dairy Milk 250ml,"Randall, Bishop and Mullins",8024668625353,3,dairy,26/02/2027,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+451,Antibiotic Capsules Standard Pack,Huang-Maynard,2122688599992,8,medicine,21/12/2028,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+452,Hand Sanitizer Gel Family Pack,Gross LLC,189120061709,6,personal care,04/04/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+453,Portable Bluetooth Speaker Family Pack,"Powell, Hanson and Hayes",1421255045360,7,electronics,10/02/2027,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+454,Orange Fruit Juice Plus,Lopez LLC,9072515575046,2,drinks,07/09/2027,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+455,Vitamin C Capsules Plus,Cook-Beltran,6728856715216,8,medicine,21/07/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+456,Natural Sesame Oil 250ml,Price Ltd,4348296007454,4,cooking oil,28/01/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+457,Kitchen Degreaser Liquid 250ml,"Evans, Matthews and Holden",443428028117,5,cleaning products,16/08/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+458,Natural Sesame Oil Family Pack,Whitehead-Gomez,5317920544671,4,cooking oil,05/09/2027,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+459,Smart LED Television 1L,Wright and Sons,3283247860898,7,electronics,04/06/2028,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+460,Fortified Soybean Oil Standard Pack,Curtis-Vance,8436888216226,4,cooking oil,01/04/2027,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+461,Orange Fruit Juice Standard Pack,"Horne, Carpenter and Thompson",19242736271,2,drinks,08/03/2028,partial,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+462,Gentle Face Cleanser Max,Mueller Group,2192393735985,6,personal care,16/11/2028,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+463,Multi Purpose Frying Oil 250ml,Best and Sons,8881089057268,4,cooking oil,25/08/2026,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+464,Tomato Ketchup Extra Strength,"Moon, Johnson and Thomas",9640474595124,1,food,07/03/2028,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+465,Fabric Softener Liquid Plus,Francis PLC,7140297087964,5,cleaning products,14/07/2026,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+466,LED Desk Lamp Plus,Johnson-Lopez,3223312691057,7,electronics,14/02/2027,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+467,Rechargeable Power Bank 1L,Baker-Mack,757516728965,7,electronics,11/10/2028,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+468,Canola Frying Oil Max,Valdez-Estrada,8410469250014,4,cooking oil,02/07/2026,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+469,Cough Relief Syrup Plus,Bates LLC,2902581149186,8,medicine,19/07/2027,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+470,USB Charging Adapter Max,Park PLC,1003086754156,7,electronics,12/11/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+471,Hydrating Face Lotion Standard Pack,Tapia Inc,9040244567533,6,personal care,08/01/2028,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+472,Glass Cleaning Spray 500g,"West, Schultz and Smith",5572557957779,5,cleaning products,14/12/2026,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+473,Pain Relief Tablets Standard Pack,"Larson, Allen and Lloyd",8170069119417,8,medicine,28/08/2028,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+474,Refined Sunflower Oil Premium Edition,Walters-Williams,806858959282,4,cooking oil,27/11/2027,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+475,Coconut Water Drink Family Pack,"Jackson, Barrett and Smith",9488361089208,2,drinks,27/03/2027,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+476,Low Fat Yogurt 1L,Lloyd and Sons,7991016250318,3,dairy,24/06/2028,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+477,Natural Sesame Oil 250ml,"Holmes, Murillo and Chang",6858273802258,4,cooking oil,31/08/2027,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+478,Refined Sunflower Oil 250ml,"Martin, Kennedy and Green",5170692186490,4,cooking oil,17/07/2027,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+479,Salted Crackers 250ml,Walker Ltd,6644035406167,1,food,10/03/2028,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+480,Vitamin C Capsules Extra Strength,"Michael, Lee and Richardson",1738863327338,8,medicine,08/01/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+481,Vitamin Sports Drink Fresh Formula,Thomas-Collins,9809954365507,2,drinks,07/07/2026,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+482,Aloe Vera Skin Cream Premium Edition,Banks-Huff,926011812190,6,personal care,03/03/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+483,Smart LED Television Premium Edition,Murray-Romero,5881196977261,7,electronics,05/11/2028,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+484,Cough Relief Syrup Standard Pack,Ray-Gonzalez,1316391381703,8,medicine,21/04/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+485,Conditioning Hair Shampoo Fresh Formula,Miller Inc,4471236489307,6,personal care,09/12/2028,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+486,Hand Sanitizer Gel Premium Edition,"Singleton, Lewis and Reynolds",9483221989964,6,personal care,02/09/2027,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+487,Allergy Relief Medicine Max,Jackson and Sons,4160602562170,8,medicine,16/01/2028,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+488,Mango Refresh Drink Family Pack,Allen-Singh,7891790306624,2,drinks,02/12/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+489,Wireless Computer Mouse 500g,"Cox, Carter and Howard",3480895040782,7,electronics,11/05/2027,present,Packaged electronic device verified for sale with serial identification and warranty support.
+490,Herbal Care Shampoo Premium Edition,Taylor-Daniel,6759100771054,6,personal care,16/11/2027,present,Hair and body care item prepared for retail distribution with storage and safety instructions.
+491,Roasted Peanut Mix Extra Strength,"Gibbs, Douglas and Orozco",2695023977958,1,food,13/12/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+492,Salted Crackers 250ml,King LLC,3515557822311,1,food,23/10/2026,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+493,Apple Juice Blend 500g,May LLC,7983221992398,2,drinks,19/08/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+494,Kitchen Degreaser Liquid Standard Pack,"Johnson, Davis and Newton",9277491222001,5,cleaning products,20/06/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+495,Processed Cheese Slices 500g,"Patel, Hart and Bishop",2482121619640,3,dairy,04/08/2026,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+496,Antibacterial Floor Cleaner Extra Strength,Eaton-Shea,4290716907212,5,cleaning products,10/03/2028,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+497,Portable Bluetooth Speaker Standard Pack,Bright-Nguyen,5703550804023,7,electronics,11/09/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+498,Noise Cancelling Headphones 500g,Perry PLC,8941818590807,7,electronics,14/03/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+499,Daily Protection Toothpaste 1L,Jimenez Group,1676987033134,6,personal care,13/12/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+500,Liquid Laundry Detergent Family Pack,Fernandez-Munoz,4428719344813,5,cleaning products,17/02/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+501,Sparkling Soda Drink 250ml,Riley-Moore,9129507677476,2,drinks,24/05/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+502,Premium Olive Oil Max,"Orozco, Lang and Harmon",4287768267319,4,cooking oil,12/12/2026,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+503,Greek Yogurt Cup Max,Hill LLC,1350540754635,3,dairy,08/09/2028,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+504,Tomato Ketchup Plus,Phillips Group,3901339359296,1,food,05/11/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+505,Instant Noodles Premium Edition,Swanson LLC,7654687619968,1,food,27/05/2027,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+506,Greek Yogurt Cup 1L,Hunter-Morris,3429606625535,3,dairy,29/01/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+507,Fortified Soybean Oil Fresh Formula,Hall-Decker,7186064190802,4,cooking oil,25/03/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+508,Instant Noodles 500g,Chambers-Olsen,8077285942921,1,food,07/06/2026,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+509,Multi Purpose Frying Oil Max,Bird-Martinez,7954475672282,4,cooking oil,24/11/2027,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+510,USB Charging Adapter Fresh Formula,Braun and Sons,3248772144547,7,electronics,28/08/2026,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+511,Liquid Laundry Detergent Fresh Formula,Evans-Collins,592640515179,5,cleaning products,10/01/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+512,Natural Sesame Oil 1L,"Chavez, Galloway and Maxwell",3158261019433,4,cooking oil,21/11/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+513,Groundnut Cooking Oil 250ml,"Sanchez, Zamora and Hernandez",2147374568588,4,cooking oil,19/12/2028,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+514,Wireless Keyboard Set Family Pack,"Carr, Walker and Gonzalez",1286765304273,7,electronics,17/06/2026,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+515,Pure Vegetable Cooking Oil Extra Strength,Rogers-Mendez,1376433507867,4,cooking oil,08/07/2028,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+516,Greek Yogurt Cup 250ml,Stewart Group,44822474762,3,dairy,26/07/2026,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+517,Antacid Chewable Tablets Extra Strength,Oconnell LLC,6009465828628,8,medicine,30/06/2027,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+518,Liquid Laundry Detergent Fresh Formula,Robbins-Hall,9172928777782,5,cleaning products,22/01/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+519,Tomato Ketchup Family Pack,Ford-Clarke,5955061341799,1,food,09/10/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+520,Natural Mineral Water Plus,Peterson Inc,6423515855417,2,drinks,27/05/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+521,Aloe Vera Skin Cream 250ml,Acosta PLC,4318370862,6,personal care,03/05/2028,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+522,Digestive Aid Tablets Premium Edition,"Green, Hart and Franco",8113742028989,8,medicine,23/11/2028,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+523,Fabric Softener Liquid Max,"Williams, Proctor and Lee",1604965854631,5,cleaning products,22/03/2027,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+524,Vanilla Flavored Milk 1L,Garcia Inc,1080458707842,3,dairy,19/07/2028,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+525,Calcium Supplement Tablets 1L,Wilson-Silva,5890008784584,8,medicine,27/09/2027,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+526,Tomato Ketchup Extra Strength,"Jackson, Mccarthy and Collins",4261307062757,1,food,27/12/2026,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+527,Glass Cleaning Spray Max,Molina-Silva,2939346532846,5,cleaning products,24/04/2027,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+528,Toilet Cleaning Gel Family Pack,Newman-Wright,5761872916602,5,cleaning products,08/09/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+529,LED Desk Lamp Plus,Schneider-Pruitt,1532136470895,7,electronics,12/11/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+530,Wireless Keyboard Set Plus,Glenn-Sullivan,7481620454054,7,electronics,05/11/2028,present,Packaged electronic device verified for sale with serial identification and warranty support.
+531,Tomato Ketchup 1L,Ayala-Taylor,8181320605327,1,food,18/08/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+532,Allergy Relief Medicine 250ml,Adams-Good,1240878728142,8,medicine,07/10/2028,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+533,Portable Bluetooth Speaker Max,"Odonnell, Stafford and Larson",1601343016728,7,electronics,07/03/2028,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+534,Natural Sesame Oil 1L,"Foster, Davis and Mcbride",8806332233480,4,cooking oil,29/05/2028,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+535,Natural Mineral Water 500g,Delgado-Orr,5112622171091,2,drinks,02/02/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+536,Low Fat Yogurt Family Pack,Lindsey-Edwards,4881124663274,3,dairy,28/07/2028,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+537,Salted Crackers Premium Edition,Taylor Ltd,4339534623819,1,food,02/02/2027,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+538,Pure Vegetable Cooking Oil Fresh Formula,Ortiz Inc,4289925083107,4,cooking oil,20/01/2027,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+539,Spicy Potato Crisps Plus,Cruz and Sons,2213669080285,1,food,07/08/2028,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+540,Bathroom Surface Cleaner Family Pack,Brown-Fisher,7638422742432,5,cleaning products,16/01/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+541,Natural Sesame Oil Plus,"Kane, Williams and Marquez",2736064739355,4,cooking oil,26/12/2026,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+542,Multi Purpose Frying Oil Max,Hicks-Thompson,8894270789527,4,cooking oil,17/04/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+543,Salted Butter Pack Standard Pack,Patrick-Floyd,9514152922888,3,dairy,14/03/2027,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+544,Calcium Supplement Tablets 250ml,Cole-Daugherty,5804640241428,8,medicine,17/07/2026,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+545,Moisturizing Body Lotion Extra Strength,Sanchez Inc,1207668360302,6,personal care,08/05/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+546,Vitamin C Capsules Family Pack,Graham Ltd,1681134497608,8,medicine,19/06/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+547,Gentle Face Cleanser Premium Edition,Lawrence Inc,2563425412561,6,personal care,23/11/2026,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+548,Pain Relief Tablets Premium Edition,Alvarado LLC,1067799055313,8,medicine,11/09/2026,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+549,Vitamin C Capsules Max,"Nielsen, Ryan and Kennedy",6699493959359,8,medicine,25/10/2028,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+550,Pure Vegetable Cooking Oil Family Pack,"Wu, York and Young",5731673005881,4,cooking oil,07/04/2028,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+551,Paracetamol Tablets 500g,Li and Sons,9323368825292,8,medicine,04/10/2027,present,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+552,Lemon Energy Drink 250ml,Davis-Flores,4315304483791,2,drinks,23/10/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+553,Corn Cooking Oil Extra Strength,Lee-Reed,3924529724490,4,cooking oil,01/12/2026,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+554,Mixed Berry Beverage 250ml,Walker-Steele,961053484912,2,drinks,10/06/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+555,Groundnut Cooking Oil 250ml,"Ochoa, May and Fields",3988318725730,4,cooking oil,27/10/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+556,Digital Home Router 500g,"Dodson, Roberson and Richardson",679981124823,7,electronics,29/06/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+557,Rechargeable Power Bank Premium Edition,Bell-Young,8944907171208,7,electronics,21/08/2026,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+558,Coconut Water Drink Standard Pack,"Munoz, Jones and Taylor",8767846305431,2,drinks,08/06/2027,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+559,Toilet Cleaning Gel Standard Pack,Chen PLC,7251398112957,5,cleaning products,08/04/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+560,Vanilla Flavored Milk Premium Edition,Walters and Sons,3110116577499,3,dairy,24/05/2028,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+561,Paracetamol Tablets Extra Strength,Hernandez and Sons,3016353497630,8,medicine,20/07/2026,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+562,Daily Protection Toothpaste 500g,Walker and Sons,7805421685804,6,personal care,23/09/2026,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+563,Smartphone Device Standard Pack,"Stewart, Reeves and Mcdaniel",59403267268,7,electronics,11/10/2026,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+564,Whole Grain Cookies Standard Pack,Baker-Rogers,7633904843911,1,food,08/01/2028,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+565,Vitamin C Capsules Extra Strength,Wong Group,213070721533,8,medicine,18/08/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+566,Groundnut Cooking Oil 250ml,Chavez Group,808993018626,4,cooking oil,30/05/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+567,Spicy Potato Crisps Extra Strength,"Griffin, Wilson and Preston",3447739196173,1,food,16/07/2028,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+568,Fortified Soybean Oil Standard Pack,Ross-Knox,8089712624027,4,cooking oil,09/10/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+569,Roasted Peanut Mix 250ml,Reed and Sons,2087624339554,1,food,10/11/2028,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+570,Lemon Energy Drink Standard Pack,Simon Group,6277975641437,2,drinks,09/07/2026,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+571,Corn Cooking Oil Standard Pack,"Palmer, Hess and Gomez",5776621835103,4,cooking oil,15/10/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+572,Refined Sunflower Oil Plus,Castro-Wright,9702896797927,4,cooking oil,08/03/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+573,Iced Tea Bottle Extra Strength,Gonzalez-Dennis,9056802393766,2,drinks,08/10/2028,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+574,Allergy Relief Medicine Premium Edition,"Johnson, Johnson and Mcgee",3924194963361,8,medicine,06/10/2026,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+575,Pure Vegetable Cooking Oil 250ml,Camacho PLC,6418970030530,4,cooking oil,09/12/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+576,Digital Home Router Plus,Bridges-Barrett,7100988379587,7,electronics,14/01/2029,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+577,Fortified Wheat Flour Family Pack,Rodriguez Group,8371387877472,1,food,21/07/2027,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+578,Antacid Chewable Tablets Plus,Gray PLC,2816066913981,8,medicine,14/03/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+579,Orange Fruit Juice Max,Dalton Group,2420880887092,2,drinks,15/09/2026,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+580,Chocolate Milk Drink 500g,Williams-Jenkins,3698050720503,3,dairy,06/08/2028,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+581,Mango Refresh Drink Plus,Davis and Sons,7641457513076,2,drinks,11/02/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+582,Rechargeable Power Bank 1L,"Shaw, Rodriguez and Thomas",933677944905,7,electronics,10/02/2028,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+583,Vitamin Sports Drink 500g,"Gutierrez, Gentry and Lopez",2346049935384,2,drinks,05/08/2026,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+584,Breakfast Oat Cereal 1L,Johnson-Wright,3104587137986,1,food,15/04/2027,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+585,Digital Home Router 1L,Maxwell Group,2064987027441,7,electronics,27/01/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+586,Lemon Energy Drink 250ml,"Jones, Jackson and Perez",5333575051517,2,drinks,12/09/2027,partial,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+587,Canola Frying Oil Fresh Formula,Curry-Ward,6374006156233,4,cooking oil,04/10/2027,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+588,Salted Crackers Premium Edition,Martin-Boyd,7618109657440,1,food,04/11/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+589,Multi Purpose Frying Oil 500g,"Clark, Stafford and Woodward",1994203270836,4,cooking oil,04/12/2027,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+590,Rechargeable Power Bank 500g,Marks-Hudson,3248250595694,7,electronics,01/04/2028,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+591,Vitamin Sports Drink 500g,"Hill, Hill and Collins",5737065990469,2,drinks,09/02/2027,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+592,Groundnut Cooking Oil Max,Mendoza and Sons,5666537681911,4,cooking oil,15/07/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+593,Antibacterial Floor Cleaner Plus,"Robinson, Peters and Diaz",3345768674948,5,cleaning products,08/03/2028,present,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+594,Herbal Care Shampoo Fresh Formula,Rollins-Stone,658110768930,6,personal care,14/07/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+595,Premium Corn Chips Max,Taylor-Moore,8062240552963,1,food,10/09/2026,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+596,Multi Surface Disinfectant Extra Strength,Carson-Gray,4939492313472,5,cleaning products,29/11/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+597,Hand Sanitizer Gel Max,Fuentes PLC,3521407238706,6,personal care,25/03/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+598,Wireless Computer Mouse Fresh Formula,Stark and Sons,7147906356886,7,electronics,29/02/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+599,Multi Purpose Frying Oil Plus,Anderson-Brown,3904792890238,4,cooking oil,26/01/2029,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+600,Whole Grain Cookies Fresh Formula,Wells-Williams,4715558673281,1,food,02/03/2028,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+601,Heavy Duty Cleaner Extra Strength,Chavez Group,87005766759,5,cleaning products,15/12/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+602,Kitchen Degreaser Liquid Fresh Formula,Nguyen Inc,5410358633846,5,cleaning products,14/10/2028,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+603,Salted Butter Pack Extra Strength,Reed-Valentine,3915187097415,3,dairy,13/06/2028,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+604,Pure Vegetable Cooking Oil 1L,Nunez Group,4120183247910,4,cooking oil,20/01/2029,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+605,Coconut Water Drink Max,Hunter-Baker,9505246958227,2,drinks,27/04/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+606,Vanilla Flavored Milk Family Pack,Hunter-Gordon,7555626178600,3,dairy,06/08/2028,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+607,Iced Tea Bottle 1L,Olson Ltd,8658820244023,2,drinks,16/10/2028,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+608,Dishwashing Soap Liquid Max,Mcmahon-King,1084963996302,5,cleaning products,20/07/2026,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+609,Canola Frying Oil Extra Strength,Li-Norman,9214163687478,4,cooking oil,23/01/2029,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+610,Vitamin Sports Drink Premium Edition,Jefferson LLC,3898747160265,2,drinks,24/11/2028,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+611,Digestive Aid Tablets Fresh Formula,Freeman Ltd,163050860618,8,medicine,20/11/2027,partial,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+612,Premium Corn Chips 500g,"Lyons, Mullins and Hernandez",6437989018681,1,food,11/03/2028,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+613,Anti Dandruff Shampoo Extra Strength,Woodward Ltd,4426139877881,6,personal care,07/11/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+614,Fortified Wheat Flour Fresh Formula,Contreras Inc,8560856843050,1,food,21/08/2027,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+615,Heavy Duty Cleaner Plus,Adams PLC,8604774648561,5,cleaning products,27/05/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+616,Chocolate Milk Drink Extra Strength,Moore and Sons,8172277300397,3,dairy,28/07/2027,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+617,LED Desk Lamp Premium Edition,Harrell-Chavez,9220843285537,7,electronics,27/11/2026,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+618,Vanilla Flavored Milk Max,"Raymond, Hahn and Smith",3167442864694,3,dairy,27/03/2027,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+619,Noise Cancelling Headphones Family Pack,Braun-Jones,8379303253652,7,electronics,29/12/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+620,Roasted Peanut Mix Fresh Formula,"Booker, Krueger and Gates",2354889822481,1,food,24/08/2026,missing,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+621,Digestive Aid Tablets Family Pack,"Garcia, James and Cruz",6483679436242,8,medicine,10/05/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+622,Refined Sunflower Oil Standard Pack,Taylor LLC,453931153053,4,cooking oil,12/01/2029,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+623,Instant Noodles 500g,Olson LLC,9598021028567,1,food,13/09/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+624,Iced Tea Bottle Family Pack,"Powers, Clark and Weber",2024980727762,2,drinks,19/08/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+625,Paracetamol Tablets Max,"Thomas, Alvarado and Rogers",9328434224603,8,medicine,02/05/2027,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+626,Calcium Supplement Tablets 500g,Todd PLC,576874380727,8,medicine,25/01/2029,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+627,Bathroom Surface Cleaner 250ml,Aguilar LLC,8727284669724,5,cleaning products,17/10/2026,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+628,Fortified Wheat Flour 250ml,"James, Holmes and Hall",5860397798387,1,food,18/01/2028,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+629,Orange Fruit Juice Standard Pack,Cummings LLC,8157645454667,2,drinks,21/11/2027,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+630,Lemon Energy Drink Plus,"Tran, Martinez and Chang",7645149627331,2,drinks,25/12/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+631,Corn Cooking Oil Extra Strength,Jones Ltd,2742217997732,4,cooking oil,15/08/2027,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+632,Premium Olive Oil Max,Henderson PLC,6244717777341,4,cooking oil,25/09/2026,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+633,Chocolate Wafer Biscuits Max,Olson-Thomas,3721485419305,1,food,17/11/2027,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+634,Glass Cleaning Spray Plus,Diaz and Sons,6357294544470,5,cleaning products,03/01/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+635,Cold and Flu Syrup Standard Pack,Snyder PLC,5746460952026,8,medicine,30/07/2026,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+636,Glass Cleaning Spray Plus,Yu-Espinoza,3798316811348,5,cleaning products,15/02/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+637,Glass Cleaning Spray Extra Strength,Weaver Ltd,3071887196961,5,cleaning products,11/06/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+638,Chocolate Wafer Biscuits 1L,Collins-Williams,719948254917,1,food,20/09/2026,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+639,Instant Noodles 250ml,"Wood, Clark and Cherry",1438640453211,1,food,06/11/2028,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+640,Digital Home Router 250ml,Bradley Group,7264070963877,7,electronics,13/12/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+641,Pasteurized Dairy Milk Standard Pack,"Ferguson, Baker and Thompson",6896229026860,3,dairy,24/06/2028,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+642,Breakfast Oat Cereal 1L,Clark-Johnson,7474128705940,1,food,09/11/2026,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+643,Premium Olive Oil 500g,Gray Inc,7777696065226,4,cooking oil,21/01/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+644,Smartphone Device Extra Strength,Johnson Inc,2097406717005,7,electronics,12/01/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+645,Mango Refresh Drink Fresh Formula,Cantu Group,3469380196746,2,drinks,02/08/2028,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+646,Coconut Water Drink Standard Pack,Hill PLC,1292880947752,2,drinks,18/05/2028,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+647,USB Charging Adapter Plus,"Smith, Vasquez and Wyatt",4573508300621,7,electronics,26/10/2026,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+648,Apple Juice Blend Fresh Formula,Simmons PLC,3667352986702,2,drinks,29/01/2029,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+649,Noise Cancelling Headphones Standard Pack,Cooper-Martinez,3612957478350,7,electronics,14/01/2029,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+650,Refined Sunflower Oil Family Pack,Gonzales and Sons,3150307171174,4,cooking oil,02/04/2028,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+651,Lemon Energy Drink Extra Strength,Burns-Gordon,3792555870418,2,drinks,05/06/2027,present,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+652,Fortified Wheat Flour 500g,Mathews-Chang,7468605325936,1,food,06/10/2026,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+653,Antibacterial Floor Cleaner Plus,Spencer-Moran,4765768270152,5,cleaning products,09/03/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+654,Pure Vegetable Cooking Oil Standard Pack,Brown Group,5359594453194,4,cooking oil,15/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+655,Canola Frying Oil Plus,Moreno-White,4040279785129,4,cooking oil,11/08/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+656,Fabric Softener Liquid 1L,Adkins and Sons,4486985976497,5,cleaning products,13/08/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+657,Moisturizing Body Lotion Extra Strength,Ortiz Inc,9052264348580,6,personal care,26/06/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+658,Corn Cooking Oil 500g,Wilson PLC,7328875834173,4,cooking oil,14/09/2026,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+659,Salted Butter Pack 500g,Macdonald-Wood,3377634952430,3,dairy,14/08/2028,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+660,Noise Cancelling Headphones 1L,"Ramirez, Johnson and Nguyen",7108993137543,7,electronics,27/11/2026,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+661,Instant Noodles Fresh Formula,Evans Ltd,8796818510146,1,food,12/10/2027,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+662,Tomato Ketchup Fresh Formula,"Hampton, Adams and Farrell",2622579501153,1,food,10/08/2028,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+663,Salted Butter Pack Fresh Formula,"Carter, Williams and Johnson",1279541789685,3,dairy,11/01/2027,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+664,Natural Sesame Oil Standard Pack,"Kelly, Archer and Martinez",5540558485140,4,cooking oil,17/09/2028,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+665,Aloe Vera Skin Cream Family Pack,"Gonzalez, Jones and Diaz",8655211286419,6,personal care,12/10/2026,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+666,Heavy Duty Cleaner Standard Pack,Jenkins PLC,7658551759071,5,cleaning products,13/01/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+667,Fabric Softener Liquid 1L,"Jones, Hamilton and Watson",1431085063618,5,cleaning products,01/02/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+668,Chocolate Wafer Biscuits Standard Pack,Huerta-Morrow,7030871479547,1,food,30/08/2027,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+669,Premium Corn Chips Max,Watts Ltd,9061644676588,1,food,08/09/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+670,Antibacterial Floor Cleaner Family Pack,Martinez-Chandler,8833367266985,5,cleaning products,19/01/2028,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+671,Low Fat Yogurt Premium Edition,"Kane, Green and Contreras",2349440834362,3,dairy,05/10/2027,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+672,Premium Olive Oil Extra Strength,Davis-Simmons,8433888772011,4,cooking oil,08/02/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+673,Low Fat Yogurt 1L,"Stewart, Gonzalez and Mendoza",4315742272834,3,dairy,13/08/2027,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+674,Antacid Chewable Tablets Standard Pack,Crawford LLC,56279547241,8,medicine,29/11/2028,missing,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+675,LED Desk Lamp 250ml,Stevenson Group,3981353485409,7,electronics,14/02/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+676,Mango Refresh Drink Standard Pack,"Allen, Johnson and Reyes",7986475055956,2,drinks,14/12/2027,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+677,Fabric Softener Liquid Family Pack,Bowman-Ross,3768345399056,5,cleaning products,09/09/2028,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+678,Fresh Full Cream Milk Fresh Formula,"Campbell, Davies and Howard",1224838175764,3,dairy,05/07/2026,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+679,Antibiotic Capsules 500g,Davis-Schwartz,1660059403116,8,medicine,18/09/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+680,Anti Dandruff Shampoo 500g,Andrade-Lopez,8275463804669,6,personal care,23/10/2026,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+681,Mango Refresh Drink Family Pack,Travis Group,8594377979776,2,drinks,06/11/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+682,Fabric Softener Liquid Premium Edition,"Dyer, Christian and Kelly",7328673211114,5,cleaning products,27/05/2028,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+683,Liquid Laundry Detergent Standard Pack,Roy Group,3732019883011,5,cleaning products,23/08/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+684,Noise Cancelling Headphones Standard Pack,Gibbs Group,1528933278819,7,electronics,12/06/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+685,Smart LED Television Family Pack,Mata-Keller,113875550348,7,electronics,10/08/2026,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+686,Premium Olive Oil 250ml,"Stewart, Small and Esparza",6506646315927,4,cooking oil,01/09/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+687,Iced Tea Bottle Plus,Brown Group,9024020146679,2,drinks,28/07/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+688,Digital Home Router 500g,Newman and Sons,2539187190788,7,electronics,12/11/2026,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+689,Wireless Keyboard Set Fresh Formula,"Lara, Williams and Potter",8984969093698,7,electronics,27/01/2027,partial,Packaged electronic device verified for sale with serial identification and warranty support.
+690,Hand Sanitizer Gel 250ml,Brown and Sons,1406803233840,6,personal care,05/07/2028,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+691,Sparkling Soda Drink Standard Pack,Bartlett-Moody,6329334867603,2,drinks,17/07/2026,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+692,Chocolate Wafer Biscuits 1L,Saunders and Sons,5166347454076,1,food,27/08/2026,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+693,Cultured Dairy Yogurt Extra Strength,"Perry, Coleman and Thomas",6156815152886,3,dairy,12/01/2029,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+694,Cheddar Cheese Block Extra Strength,Koch LLC,5768738547420,3,dairy,31/01/2028,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+695,Palm Cooking Oil Fresh Formula,Young-Young,1815252888950,4,cooking oil,09/04/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+696,Orange Fruit Juice 250ml,Robinson-Jones,2278049197069,2,drinks,09/07/2027,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+697,Pasteurized Dairy Milk Standard Pack,Torres-Ayala,5824128533821,3,dairy,07/12/2026,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+698,Refreshing Body Wash Standard Pack,Hall-Jones,1758708203115,6,personal care,02/08/2028,present,Personal care product verified for consumer sale with expiry labeling and batch identification.
+699,Multi Purpose Frying Oil Standard Pack,"Thompson, Conley and Green",3788024086473,4,cooking oil,22/09/2027,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+700,Natural Sesame Oil Family Pack,Guerra-Jefferson,1877546485184,4,cooking oil,06/10/2026,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+701,Allergy Relief Medicine 1L,Walton-Jennings,4529064314428,8,medicine,10/01/2027,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+702,Anti Dandruff Shampoo Premium Edition,Adams Group,6206143319755,6,personal care,28/06/2027,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+703,Digestive Aid Tablets Plus,Smith-Baldwin,2411739790946,8,medicine,20/04/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+704,Fortified Soybean Oil Family Pack,"Day, Lynn and Craig",9424196091337,4,cooking oil,02/03/2027,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+705,Moisturizing Body Lotion Premium Edition,Garcia Ltd,5723325900187,6,personal care,09/04/2027,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+706,USB Charging Adapter Family Pack,"Lambert, Vasquez and Villanueva",8823867703660,7,electronics,11/05/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+707,Conditioning Hair Shampoo Fresh Formula,Garner-Ruiz,446481599075,6,personal care,22/09/2026,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+708,Pain Relief Tablets Family Pack,Meyers Inc,5488832766472,8,medicine,12/11/2027,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+709,Refined Sunflower Oil Fresh Formula,Gomez and Sons,4945368526587,4,cooking oil,01/02/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+710,Kitchen Degreaser Liquid 250ml,"Wright, Jones and Jones",3788056766305,5,cleaning products,23/05/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+711,Fabric Softener Liquid Max,Smith Group,8858418844257,5,cleaning products,26/06/2026,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+712,Tomato Ketchup Premium Edition,"Cole, Arnold and Glover",6128279129094,1,food,19/06/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+713,Premium Corn Chips 500g,Miller Group,1663367027906,1,food,17/04/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+714,Smart LED Television Max,"Collins, Brown and Wood",6493057164315,7,electronics,16/12/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+715,Daily Protection Toothpaste Fresh Formula,Austin Group,4044661918331,6,personal care,04/03/2028,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+716,Antibacterial Floor Cleaner Premium Edition,"Pham, Gray and Rosales",2702157065793,5,cleaning products,27/11/2027,present,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+717,Tomato Ketchup Premium Edition,Mccoy-Stevens,2466945866541,1,food,24/10/2026,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+718,Antibacterial Floor Cleaner 250ml,Edwards PLC,837890479612,5,cleaning products,15/01/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+719,LED Desk Lamp 500g,"Holmes, Cisneros and Garcia",4125375904831,7,electronics,16/09/2027,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+720,Cough Relief Syrup 1L,Rivera Inc,656376077537,8,medicine,03/07/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+721,LED Desk Lamp 1L,"Freeman, Rush and Matthews",9872950855631,7,electronics,13/12/2027,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+722,Pain Relief Tablets Plus,"Delacruz, Hart and Johnson",8228751676240,8,medicine,24/11/2027,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+723,Coconut Water Drink Standard Pack,Lopez-Byrd,4278756144828,2,drinks,15/02/2028,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+724,Mixed Berry Beverage Max,"Hernandez, Berger and Hernandez",9339980122459,2,drinks,25/11/2026,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+725,Hand Sanitizer Gel Plus,Jackson-Smith,3553993855937,6,personal care,28/04/2027,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+726,Fresh Full Cream Milk 500g,Morris-Robertson,339131226899,3,dairy,24/11/2026,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+727,Salted Crackers Extra Strength,Buchanan Group,6753033749173,1,food,10/03/2027,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+728,Palm Cooking Oil Premium Edition,"Norris, Wood and Mcclure",7279256487139,4,cooking oil,10/08/2028,present,Food-grade oil product stored in leak-proof container with compliant consumer information.
+729,Bathroom Surface Cleaner Extra Strength,"Leonard, Miller and Dickerson",1471212056298,5,cleaning products,22/11/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+730,Breakfast Oat Cereal Max,Zhang-Fisher,1622069145981,1,food,29/10/2027,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+731,Pure Vegetable Cooking Oil Family Pack,Lewis Ltd,1116925858486,4,cooking oil,12/07/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+732,Toilet Cleaning Gel Standard Pack,Spears-Weber,7011080467099,5,cleaning products,14/09/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+733,Chocolate Milk Drink 1L,Hicks-Edwards,6369989582728,3,dairy,13/08/2027,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+734,Portable Bluetooth Speaker Plus,"Fleming, Short and Parrish",2338893965365,7,electronics,19/08/2028,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+735,Apple Juice Blend Fresh Formula,Watts LLC,8264867369140,2,drinks,28/01/2027,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+736,Chocolate Wafer Biscuits Premium Edition,Hudson-Thompson,3063580458934,1,food,13/07/2028,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+737,Allergy Relief Medicine Fresh Formula,"Jefferson, Morgan and Calderon",8550529414922,8,medicine,30/04/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+738,Dishwashing Soap Liquid Standard Pack,"Wheeler, Armstrong and Davis",2128849692731,5,cleaning products,11/11/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+739,Smart LED Television Standard Pack,"Bullock, Duncan and Jones",9175862663067,7,electronics,03/10/2027,present,Packaged electronic device verified for sale with serial identification and warranty support.
+740,Sparkling Soda Drink Premium Edition,"Guerrero, Stewart and Chang",1960184445426,2,drinks,06/07/2027,missing,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+741,Digestive Aid Tablets Max,Maynard and Sons,6820058258079,8,medicine,02/01/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+742,Vanilla Flavored Milk Max,Vasquez-Wells,9119402725525,3,dairy,26/12/2026,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+743,Moisturizing Body Lotion Plus,Braun Group,7532211548628,6,personal care,20/01/2027,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+744,Palm Cooking Oil Premium Edition,Spencer Ltd,9639858361356,4,cooking oil,04/08/2027,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+745,Cultured Dairy Yogurt Max,Jones-Williams,980171736550,3,dairy,07/02/2027,missing,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+746,Greek Yogurt Cup 250ml,Castro Group,8268902632237,3,dairy,07/12/2028,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+747,Hand Sanitizer Gel Max,Dunn LLC,3856205862663,6,personal care,25/01/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+748,Gentle Face Cleanser Fresh Formula,Franklin-Hernandez,5120137305382,6,personal care,17/09/2026,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+749,Multi Surface Disinfectant 1L,Cooley LLC,4577253029172,5,cleaning products,29/12/2026,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+750,Mixed Berry Beverage Fresh Formula,Campbell-Day,9749621928454,2,drinks,10/06/2027,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+751,Smartphone Device 500g,"Kennedy, Bennett and Garner",8937589424335,7,electronics,17/03/2028,missing,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+752,Refreshing Body Wash Plus,"Harris, Smith and Hill",7724207768077,6,personal care,04/09/2028,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+753,Premium Olive Oil Extra Strength,"Higgins, Jacobson and Anderson",4075757452408,4,cooking oil,18/02/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+754,Tomato Ketchup 1L,Rogers and Sons,6688097601993,1,food,19/06/2028,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+755,Gentle Face Cleanser Family Pack,"Greer, Thomas and Barker",1854685650239,6,personal care,08/12/2026,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+756,Fortified Wheat Flour Max,Murphy-Anderson,9409922037582,1,food,19/03/2027,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+757,Chocolate Milk Drink Standard Pack,Davila LLC,1285364709922,3,dairy,22/10/2028,present,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+758,Spicy Potato Crisps Standard Pack,Nichols-Mcmillan,5604620465000,1,food,21/11/2028,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+759,Natural Sesame Oil Extra Strength,Santiago and Sons,9751044083870,4,cooking oil,10/09/2026,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+760,Pain Relief Tablets Plus,Stewart-Jones,9178411263800,8,medicine,26/07/2026,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+761,Fabric Softener Liquid Premium Edition,Collier PLC,8070044459739,5,cleaning products,08/03/2027,partial,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+762,Natural Mineral Water Family Pack,Deleon-Collins,2556051937683,2,drinks,26/01/2029,partial,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+763,Coconut Water Drink Extra Strength,"Padilla, Smith and Johnson",9441478759792,2,drinks,20/04/2027,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+764,Vanilla Flavored Milk Extra Strength,"Brown, Stewart and Martinez",4824460101017,3,dairy,14/06/2028,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+765,Orange Fruit Juice Family Pack,"Miller, Lawrence and Brown",7300396869766,2,drinks,21/11/2028,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+766,Paracetamol Tablets Standard Pack,Johnson LLC,958618437759,8,medicine,17/09/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+767,Cough Relief Syrup Extra Strength,Flores and Sons,3887491951977,8,medicine,20/12/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+768,Smartphone Device Standard Pack,"Bowen, Stein and Jenkins",2279991797956,7,electronics,17/07/2027,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+769,Heavy Duty Cleaner Standard Pack,Reeves-Williams,4049026681516,5,cleaning products,05/09/2028,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+770,Gentle Face Cleanser Fresh Formula,"Kelley, Gordon and Rivera",9548682017356,6,personal care,17/10/2026,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+771,Premium Olive Oil 1L,Walker-Martinez,5455336428915,4,cooking oil,26/11/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+772,Canola Frying Oil Premium Edition,Miranda LLC,8028834505746,4,cooking oil,08/09/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+773,Kitchen Degreaser Liquid Plus,"Patel, Miller and Larson",8351806007871,5,cleaning products,29/09/2026,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+774,Cultured Dairy Yogurt Extra Strength,Lewis Group,5244447900348,3,dairy,24/11/2026,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+775,Salted Butter Pack Plus,Horn Ltd,9909914488977,3,dairy,27/11/2027,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+776,LED Desk Lamp Plus,Ortiz Group,4966184238775,7,electronics,25/05/2027,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+777,Premium Corn Chips 1L,Hendricks and Sons,9933977099887,1,food,09/08/2028,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+778,Processed Cheese Slices Fresh Formula,Smith and Sons,3186346115268,3,dairy,19/08/2027,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+779,Refined Sunflower Oil Standard Pack,Davis Group,776934212467,4,cooking oil,29/01/2029,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+780,Noise Cancelling Headphones 1L,Bell Group,5665661101500,7,electronics,16/07/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+781,Breakfast Oat Cereal Max,Ward-Lynch,1520989192477,1,food,25/09/2028,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+782,Mango Refresh Drink 250ml,"Phillips, Buchanan and Rivas",5415766950585,2,drinks,01/07/2028,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+783,Pasteurized Dairy Milk 1L,Brooks-Figueroa,9689450084665,3,dairy,01/04/2028,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+784,Aloe Vera Skin Cream Max,Webb-Haynes,9420624008038,6,personal care,25/03/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+785,Hand Sanitizer Gel 1L,Hess LLC,6323787619611,6,personal care,17/11/2028,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+786,Toilet Cleaning Gel Max,Schultz-Russo,1305492871244,5,cleaning products,08/06/2027,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+787,Conditioning Hair Shampoo 250ml,Mitchell-Scott,1061386198360,6,personal care,01/07/2027,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+788,Calcium Supplement Tablets 250ml,"Lewis, Short and Gutierrez",8830851390706,8,medicine,28/06/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+789,Natural Mineral Water Fresh Formula,Grant Ltd,1627435491020,2,drinks,05/08/2026,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+790,Herbal Care Shampoo Family Pack,Jackson-Zimmerman,170416690444,6,personal care,15/08/2028,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+791,Daily Protection Toothpaste 250ml,Brown-Mcguire,4247367517420,6,personal care,04/01/2028,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+792,Multi Surface Disinfectant 500g,Young-Jones,1828473428058,5,cleaning products,17/07/2026,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+793,Palm Cooking Oil Extra Strength,Pugh-Wilson,7279383218040,4,cooking oil,07/03/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+794,Salted Butter Pack Plus,"White, Mcdaniel and Mcgee",6775216663953,3,dairy,12/02/2028,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+795,Liquid Laundry Detergent Max,Hill PLC,6942613068623,5,cleaning products,19/06/2026,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+796,Bathroom Surface Cleaner Plus,King LLC,9926704634857,5,cleaning products,01/09/2027,present,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+797,Coconut Water Drink 500g,Arnold Inc,3025280827397,2,drinks,20/12/2028,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+798,Tomato Ketchup 1L,"Perez, Sullivan and Smith",9417925681152,1,food,10/01/2027,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+799,Canola Frying Oil Family Pack,Mcclain Group,9010522981184,4,cooking oil,15/11/2027,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+800,Wireless Keyboard Set Max,"Harris, Taylor and Payne",8817137277210,7,electronics,21/09/2027,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+801,Orange Fruit Juice Premium Edition,Alvarez LLC,2607866082607,2,drinks,09/05/2028,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+802,Groundnut Cooking Oil Standard Pack,Barry-Thompson,3489115074217,4,cooking oil,09/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+803,Conditioning Hair Shampoo Standard Pack,Norton-Foster,6228508967821,6,personal care,01/10/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+804,Corn Cooking Oil Plus,Duran Group,9880856949934,4,cooking oil,23/10/2027,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+805,Daily Protection Toothpaste Plus,"Fuller, Thomas and Campbell",2840428327314,6,personal care,31/03/2028,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+806,Mixed Berry Beverage Standard Pack,Hampton Ltd,6774555875607,2,drinks,13/03/2027,present,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+807,Paracetamol Tablets Premium Edition,Garcia-Andersen,2683882559187,8,medicine,06/03/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+808,Refreshing Body Wash Standard Pack,"Manning, Roman and Carrillo",9838701554468,6,personal care,24/04/2028,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+809,Mixed Berry Beverage 1L,"Green, Brooks and Durham",3270716632155,2,drinks,29/05/2028,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+810,Rechargeable Power Bank Standard Pack,Garner LLC,9257896250090,7,electronics,20/08/2028,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+811,Groundnut Cooking Oil Plus,Chaney-Herrera,9069587615138,4,cooking oil,05/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+812,Rechargeable Power Bank Extra Strength,"Wilkinson, Walker and Diaz",8696124414445,7,electronics,02/09/2028,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+813,Processed Cheese Slices 250ml,Norman-Werner,2243617353710,3,dairy,22/12/2027,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+814,Antibacterial Floor Cleaner Premium Edition,Christian-Gentry,5202145495498,5,cleaning products,17/11/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+815,Rechargeable Power Bank 500g,"Edwards, Strickland and Oneill",8939229140728,7,electronics,09/11/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+816,Fresh Full Cream Milk Family Pack,Cole-Howell,6396298533011,3,dairy,16/01/2027,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+817,Refreshing Body Wash Premium Edition,"Phillips, Moses and Hernandez",7323267477280,6,personal care,08/09/2027,present,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+818,Greek Yogurt Cup Family Pack,"Smith, Smith and Crawford",1524726419063,3,dairy,01/12/2027,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+819,Cough Relief Syrup Family Pack,Short-Dixon,3640327356908,8,medicine,26/08/2026,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+820,USB Charging Adapter 1L,Powell PLC,9174126141990,7,electronics,02/08/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+821,Hand Sanitizer Gel Extra Strength,"Ferrell, Stephenson and Fuller",133719776536,6,personal care,02/05/2027,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+822,Iced Tea Bottle Family Pack,Jones-Nichols,3896491155735,2,drinks,25/06/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+823,Cultured Dairy Yogurt 1L,Smith-Adams,927761739614,3,dairy,19/11/2026,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+824,Cultured Dairy Yogurt Premium Edition,Wright PLC,9734908325057,3,dairy,10/07/2026,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+825,Multi Purpose Frying Oil 1L,Tucker and Sons,2066250465745,4,cooking oil,31/12/2026,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+826,Cold and Flu Syrup Premium Edition,"Hudson, Johnson and Parker",6474781822900,8,medicine,16/05/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+827,Premium Olive Oil 1L,Kramer and Sons,6764019476136,4,cooking oil,08/04/2028,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+828,Heavy Duty Cleaner 500g,Warner-Lee,6985114253747,5,cleaning products,28/11/2028,present,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+829,Vanilla Flavored Milk 1L,"Payne, Allen and Pennington",2309182265855,3,dairy,02/11/2027,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+830,Low Fat Yogurt 500g,"Brooks, Benson and Ferguson",5921375626808,3,dairy,09/10/2026,partial,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+831,Salted Crackers Max,Garcia LLC,2204573730953,1,food,03/10/2028,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+832,Whole Grain Cookies Standard Pack,Valenzuela Inc,6979675731059,1,food,25/05/2027,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+833,Pasteurized Dairy Milk 1L,"Garcia, Booth and Tapia",2917681441214,3,dairy,02/02/2027,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+834,Digital Home Router Standard Pack,Hancock Group,2329478343562,7,electronics,24/12/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+835,Salted Butter Pack 500g,"Dixon, Potts and Miller",3050553054965,3,dairy,30/10/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+836,Salted Crackers Fresh Formula,Lee-Williams,9983749065312,1,food,15/10/2026,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+837,Whole Grain Cookies 500g,Hayes-Williams,140141830262,1,food,02/07/2026,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+838,Smartphone Device 250ml,Melton Ltd,7219270071969,7,electronics,26/01/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+839,Bathroom Surface Cleaner Fresh Formula,Cole-Mack,1977037826332,5,cleaning products,18/01/2027,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+840,Apple Juice Blend Max,Wilkinson LLC,717322779438,2,drinks,09/09/2028,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+841,Cheddar Cheese Block Fresh Formula,"Monroe, Ballard and Nicholson",7721847506236,3,dairy,10/07/2028,present,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+842,Glass Cleaning Spray Fresh Formula,"Silva, Hughes and Hammond",9746984492363,5,cleaning products,01/04/2027,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+843,Corn Cooking Oil 250ml,Cruz Ltd,270027462,4,cooking oil,02/08/2027,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+844,Aloe Vera Skin Cream Fresh Formula,Rogers-Campbell,849521344398,6,personal care,04/10/2027,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+845,Smartphone Device Extra Strength,"Mcconnell, Brown and Mcgrath",7540331262256,7,electronics,08/02/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+846,Natural Sesame Oil Plus,Dominguez-Johnson,5095980710242,4,cooking oil,22/07/2028,partial,Food-grade oil product stored in leak-proof container with compliant consumer information.
+847,Pain Relief Tablets Standard Pack,Taylor Group,9496365012849,8,medicine,01/07/2028,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+848,Heavy Duty Cleaner Premium Edition,Pratt Ltd,286014776388,5,cleaning products,09/04/2027,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+849,Allergy Relief Medicine Max,"Cox, Price and Neal",2132976669955,8,medicine,04/11/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+850,Premium Olive Oil Fresh Formula,"Johnson, Hunter and Carr",2406243344976,4,cooking oil,15/02/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+851,Cold and Flu Syrup Extra Strength,"Baldwin, Leblanc and Garcia",364797141668,8,medicine,12/06/2028,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+852,Breakfast Oat Cereal Standard Pack,Edwards-Martinez,4245353203531,1,food,28/12/2027,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+853,Pure Vegetable Cooking Oil Family Pack,Sanchez-Nelson,3122652177255,4,cooking oil,30/08/2028,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+854,Natural Sesame Oil Max,Gibson-Phillips,8617626430542,4,cooking oil,26/09/2027,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+855,Premium Olive Oil Premium Edition,"Torres, Peters and Lewis",2810035332919,4,cooking oil,29/07/2028,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+856,Canola Frying Oil Premium Edition,Smith PLC,4341914451004,4,cooking oil,23/04/2028,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+857,Conditioning Hair Shampoo 500g,Miller-Rivera,9572195961127,6,personal care,11/05/2028,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+858,Wireless Computer Mouse 500g,Hoffman-Miller,78985620063,7,electronics,22/08/2026,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+859,Chocolate Wafer Biscuits 250ml,Tucker-Clark,943234170265,1,food,19/05/2028,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+860,Natural Sesame Oil Max,Thompson and Sons,2577646295636,4,cooking oil,10/02/2027,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+861,Noise Cancelling Headphones Fresh Formula,Ramsey-Perry,6055335592694,7,electronics,10/06/2026,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+862,Cultured Dairy Yogurt Max,"Carr, Anderson and English",6996520428339,3,dairy,01/11/2026,partial,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+863,Canola Frying Oil 1L,Sanders and Sons,6653226819587,4,cooking oil,29/10/2028,present,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+864,Vitamin C Capsules Standard Pack,Strong Group,6027275929939,8,medicine,02/01/2028,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+865,Spicy Potato Crisps 1L,Martinez PLC,1238666539537,1,food,01/02/2027,partial,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+866,Orange Fruit Juice Fresh Formula,Gamble Group,1193063153178,2,drinks,26/09/2026,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+867,Vanilla Flavored Milk Family Pack,Johnson and Sons,2686104197419,3,dairy,02/08/2027,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+868,Calcium Supplement Tablets 1L,"Hill, Bishop and Burns",6743709013295,8,medicine,02/11/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+869,Moisturizing Body Lotion 1L,Conrad-Wilkerson,8767581807238,6,personal care,15/08/2027,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+870,Refined Sunflower Oil Fresh Formula,"Williams, Nelson and Schultz",4548580484538,4,cooking oil,05/05/2028,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+871,Aloe Vera Skin Cream Plus,Johnson-Tucker,3917151829497,6,personal care,15/06/2028,present,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+872,Digital Home Router Extra Strength,Haley-Fisher,2049119025090,7,electronics,24/04/2027,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+873,Premium Olive Oil Standard Pack,Bailey Group,9452284583891,4,cooking oil,10/09/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+874,Digital Home Router 500g,"Fox, Jimenez and Tate",3150421358703,7,electronics,02/11/2027,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+875,Tomato Ketchup Extra Strength,Hurst LLC,1987426260814,1,food,05/07/2027,partial,Processed food product prepared for retail sale with complete labeling and safety instructions.
+876,Daily Protection Toothpaste Family Pack,"Brown, Stark and Rodgers",2046099071567,6,personal care,14/07/2026,missing,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+877,Corn Cooking Oil Max,Shields-Stephens,7287938243942,4,cooking oil,22/01/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+878,Glass Cleaning Spray Premium Edition,Reyes Ltd,5761555890038,5,cleaning products,28/11/2028,missing,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+879,Instant Noodles Premium Edition,Jordan Inc,6604499883515,1,food,18/08/2026,partial,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+880,LED Desk Lamp 250ml,Smith-Morris,6501009532812,7,electronics,30/04/2027,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+881,Groundnut Cooking Oil Family Pack,Wilkins-Bridges,4086323508641,4,cooking oil,06/04/2028,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+882,Premium Olive Oil Max,"Green, Lawrence and Townsend",7694359606865,4,cooking oil,01/12/2026,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+883,Cold and Flu Syrup Standard Pack,Hernandez-Hill,7384372530475,8,medicine,01/08/2027,missing,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+884,Chocolate Wafer Biscuits Extra Strength,Vazquez PLC,5754683634988,1,food,11/07/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+885,Groundnut Cooking Oil Family Pack,Baldwin Inc,7798133690641,4,cooking oil,18/10/2028,present,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+886,Coconut Water Drink Fresh Formula,"Kaiser, Ibarra and Mathis",9493713202136,2,drinks,23/12/2027,present,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+887,Antacid Chewable Tablets Max,Potter PLC,415416809732,8,medicine,29/08/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+888,Iced Tea Bottle 250ml,Lopez Inc,9734527091012,2,drinks,21/11/2027,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+889,Pain Relief Tablets Family Pack,Butler Ltd,1491057927096,8,medicine,26/03/2027,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+890,Sparkling Soda Drink 250ml,"Martinez, Conley and Obrien",4763045748554,2,drinks,18/11/2027,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+891,Breakfast Oat Cereal 250ml,"Weber, Daniels and Mosley",5335291205212,1,food,01/03/2028,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+892,Aloe Vera Skin Cream 1L,"Moreno, Reyes and Bullock",9838965304922,6,personal care,08/09/2027,partial,Hair and body care item prepared for retail distribution with storage and safety instructions.
+893,Anti Dandruff Shampoo Family Pack,Hart-Reed,8794070449648,6,personal care,20/05/2027,partial,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+894,Canola Frying Oil 1L,"Newman, Ross and Brooks",5855303978380,4,cooking oil,10/11/2028,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+895,Antacid Chewable Tablets Fresh Formula,Morris-Salazar,1364708055380,8,medicine,08/06/2028,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+896,Antacid Chewable Tablets Premium Edition,"Espinoza, Knight and Chase",5425053201306,8,medicine,06/02/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+897,Greek Yogurt Cup Max,Miller-Davies,7883267978908,3,dairy,03/01/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+898,Heavy Duty Cleaner Extra Strength,Campos-Cox,3515616981096,5,cleaning products,26/06/2026,partial,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+899,Wireless Computer Mouse Plus,Mcdonald-Ward,1548463449459,7,electronics,10/08/2028,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+900,Hydrating Face Lotion 250ml,"Reed, Richardson and Smith",8555038564250,6,personal care,24/04/2027,missing,Hair and body care item prepared for retail distribution with storage and safety instructions.
+901,Fabric Softener Liquid 250ml,Martinez Inc,6694991849942,5,cleaning products,28/08/2026,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+902,Low Fat Yogurt Family Pack,"Hunt, King and Hoffman",5510957634692,3,dairy,21/07/2026,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+903,Glass Cleaning Spray 250ml,Burton-Chavez,7169150765535,5,cleaning products,22/09/2026,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+904,Canola Frying Oil Family Pack,King Ltd,9433306908755,4,cooking oil,25/04/2028,partial,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+905,Salted Crackers Premium Edition,"Taylor, Martinez and Reyes",3429762290387,1,food,27/08/2028,missing,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+906,Iced Tea Bottle Fresh Formula,"Martin, Wright and Houston",4909804975254,2,drinks,27/03/2027,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+907,Moisturizing Body Lotion Max,Morgan Group,8460240446365,6,personal care,07/11/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+908,Noise Cancelling Headphones Standard Pack,Johnson-Jordan,1245802173814,7,electronics,13/01/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+909,Hand Sanitizer Gel Plus,"Walters, Jones and Smith",4045252293950,6,personal care,22/11/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+910,Salted Crackers 500g,Brown Ltd,2451980387793,1,food,29/11/2028,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+911,Spicy Potato Crisps Extra Strength,Hawkins Group,4282739563933,1,food,02/04/2028,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+912,Salted Butter Pack 500g,"Kim, Williams and Benitez",8083598117697,3,dairy,01/12/2026,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+913,Allergy Relief Medicine 250ml,"Smith, Davis and Gonzalez",8265456700214,8,medicine,26/01/2029,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+914,Multi Surface Disinfectant Extra Strength,Ortiz Group,935493496460,5,cleaning products,04/07/2028,missing,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+915,Breakfast Oat Cereal 250ml,"Freeman, Wolfe and Simmons",4240499754954,1,food,13/12/2028,present,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+916,Pasteurized Dairy Milk Plus,"Hines, Willis and Fuentes",9180625780486,3,dairy,03/11/2027,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+917,LED Desk Lamp Family Pack,Malone-Ross,8271576082567,7,electronics,04/10/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+918,Glass Cleaning Spray Premium Edition,"Hernandez, Peters and Woods",7527478595133,5,cleaning products,29/06/2028,partial,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+919,Processed Cheese Slices 500g,"Barnes, Morrow and Gonzales",5755658909476,3,dairy,21/10/2026,missing,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+920,LED Desk Lamp Plus,"Crosby, Parker and Payne",5223332741525,7,electronics,28/05/2028,present,Packaged electronic device verified for sale with serial identification and warranty support.
+921,Cold and Flu Syrup Family Pack,Yang-Miller,6058754306781,8,medicine,24/05/2027,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+922,LED Desk Lamp Fresh Formula,"Tate, Nelson and Blake",40964709809,7,electronics,27/12/2026,partial,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+923,Daily Protection Toothpaste 1L,Brady PLC,1249294128987,6,personal care,31/07/2028,present,Hair and body care item prepared for retail distribution with storage and safety instructions.
+924,Anti Dandruff Shampoo Family Pack,Fox and Sons,5629822396198,6,personal care,25/06/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+925,Digestive Aid Tablets 1L,Wheeler and Sons,1500864664527,8,medicine,16/11/2026,partial,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+926,Fortified Wheat Flour Family Pack,Smith LLC,7363586768010,1,food,15/04/2027,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+927,Groundnut Cooking Oil Premium Edition,"Thomas, Torres and Mason",2154797151150,4,cooking oil,28/07/2027,missing,Food-grade oil product stored in leak-proof container with compliant consumer information.
+928,Cultured Dairy Yogurt Extra Strength,White-Green,3630437641285,3,dairy,21/04/2028,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+929,Refined Sunflower Oil Family Pack,Lee-Higgins,28615700443,4,cooking oil,13/06/2027,partial,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+930,Hand Sanitizer Gel 500g,"Jackson, Chen and Stevenson",3412508905959,6,personal care,29/10/2026,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+931,Tomato Ketchup Premium Edition,Hancock Group,3861708343960,1,food,15/09/2028,missing,Processed food product prepared for retail sale with complete labeling and safety instructions.
+932,Mixed Berry Beverage Plus,"Perkins, Porter and Graham",8645707358881,2,drinks,26/02/2027,present,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+933,Greek Yogurt Cup Max,"Nguyen, Mcneil and Hanson",3734817694943,3,dairy,03/07/2028,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+934,Orange Fruit Juice Premium Edition,"Collins, Franklin and Patterson",8201679724705,2,drinks,30/12/2027,partial,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+935,Wireless Keyboard Set Plus,"Ritter, Diaz and Salas",9872820887069,7,electronics,05/07/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+936,Antacid Chewable Tablets Fresh Formula,Villegas-Price,772324840951,8,medicine,13/04/2028,present,Healthcare product inspected for expiry validity and approved pharmaceutical packaging.
+937,Vitamin Sports Drink Fresh Formula,"Peterson, Hodges and Lee",6642994571322,2,drinks,31/03/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+938,Smartphone Device Max,"Howell, Ware and Marks",2578853484226,7,electronics,05/03/2028,present,Packaged electronic device verified for sale with serial identification and warranty support.
+939,Rechargeable Power Bank Premium Edition,Rogers Inc,7396460509638,7,electronics,26/04/2028,partial,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+940,Natural Mineral Water 500g,Delacruz-Martinez,6700738703153,2,drinks,04/06/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+941,Multi Surface Disinfectant Standard Pack,Marquez-Price,6488478992838,5,cleaning products,21/11/2026,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+942,Orange Fruit Juice Premium Edition,Wade-Perkins,5671489717700,2,drinks,21/03/2027,present,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+943,Daily Protection Toothpaste 250ml,Flores Ltd,3300716854476,6,personal care,28/01/2027,partial,"Personal care product packaged with usage instructions, barcode, and ingredient information."
+944,Wireless Keyboard Set 1L,"Ortiz, Rowe and Bishop",1826363298156,7,electronics,14/07/2026,missing,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+945,Premium Olive Oil Plus,"Gomez, Nielsen and Lopez",6948323744406,4,cooking oil,03/05/2027,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+946,Digital Home Router Family Pack,Curtis-Obrien,7611129890026,7,electronics,06/10/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+947,Cough Relief Syrup 250ml,Garcia Inc,3736917031062,8,medicine,25/04/2028,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+948,Fortified Wheat Flour Max,Hensley PLC,2478884916737,1,food,25/06/2028,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+949,Conditioning Hair Shampoo Extra Strength,"Mora, Keller and Rogers",7061681877094,6,personal care,03/12/2026,partial,Personal care product verified for consumer sale with expiry labeling and batch identification.
+950,Instant Noodles Extra Strength,Carroll-Peterson,9426497175549,1,food,26/01/2029,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+951,Cold and Flu Syrup Plus,Chapman-Garcia,4200952494155,8,medicine,20/07/2028,missing,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+952,Digital Home Router Fresh Formula,Vincent-Moore,1010128273902,7,electronics,28/01/2028,missing,Packaged electronic device verified for sale with serial identification and warranty support.
+953,Lemon Energy Drink Fresh Formula,Stanley-Fisher,3359872102457,2,drinks,10/12/2027,missing,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+954,Chocolate Wafer Biscuits Fresh Formula,Simpson Ltd,705406893132,1,food,05/01/2029,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+955,Iced Tea Bottle Fresh Formula,Boyd LLC,8535309562697,2,drinks,27/02/2028,present,"Fruit-based drink with barcode labeling, nutritional facts, and storage instructions for retail distribution."
+956,Fresh Full Cream Milk Standard Pack,"Huffman, Wood and Vaughan",5518257908291,3,dairy,06/06/2027,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+957,Liquid Laundry Detergent Premium Edition,Jones Inc,8581750683153,5,cleaning products,08/05/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+958,Spicy Potato Crisps Standard Pack,"Snow, Gomez and Smith",578849290383,1,food,20/12/2027,present,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+959,Greek Yogurt Cup Standard Pack,Spencer-Williams,774208322751,3,dairy,13/11/2028,missing,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+960,Refined Sunflower Oil Plus,"Murphy, Walsh and Reynolds",4575454761235,4,cooking oil,20/01/2029,present,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+961,Multi Purpose Frying Oil Extra Strength,Bautista LLC,2299308115884,4,cooking oil,22/03/2028,partial,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+962,Antibiotic Capsules Extra Strength,Floyd-Decker,1397782801888,8,medicine,09/02/2028,partial,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+963,Digital Home Router Family Pack,"Garcia, Byrd and Wells",1859446322370,7,electronics,01/08/2027,present,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+964,Conditioning Hair Shampoo Plus,Lynch and Sons,6284744985654,6,personal care,22/01/2027,missing,Personal care product verified for consumer sale with expiry labeling and batch identification.
+965,Instant Noodles Max,Erickson Inc,6674594627314,1,food,30/11/2027,present,Processed food product prepared for retail sale with complete labeling and safety instructions.
+966,Mango Refresh Drink Premium Edition,"Murphy, Roberts and Thomas",7634261936704,2,drinks,20/12/2027,missing,Ready-to-consume juice product stored in sealed container with compliant retail labeling.
+967,Fortified Soybean Oil Extra Strength,Smith LLC,3599140830365,4,cooking oil,02/01/2028,missing,Consumer cooking oil inspected for packaging integrity and proper manufacturer labeling.
+968,Chocolate Wafer Biscuits Premium Edition,Gonzalez-Horton,7099601720915,1,food,23/06/2026,partial,Consumer food item stored in sealed packaging with clear expiry labeling and batch identification.
+969,Aloe Vera Skin Cream Family Pack,Keller-Davis,1968563002321,6,personal care,18/02/2027,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+970,Pasteurized Dairy Milk Max,Anthony-Preston,8865091219135,3,dairy,12/06/2028,partial,Dairy product maintained under refrigerated storage conditions with expiry date and nutritional labeling.
+971,Smartphone Device 500g,Johnson Ltd,160529099609,7,electronics,27/12/2027,missing,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+972,Iced Tea Bottle Standard Pack,Arias-Gray,4048867293834,2,drinks,06/05/2027,missing,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+973,Cultured Dairy Yogurt Standard Pack,Williams Group,8133081363367,3,dairy,25/12/2026,present,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+974,Whole Grain Cookies Premium Edition,Baxter-Frey,5405870003833,1,food,07/07/2026,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+975,Premium Olive Oil Extra Strength,"Henry, Montgomery and Hughes",5771983607320,4,cooking oil,30/11/2028,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+976,Orange Fruit Juice Plus,"Wood, Dyer and Kim",7069941898469,2,drinks,30/07/2027,partial,Beverage product sealed in tamper-proof packaging with manufacturing and expiry details clearly displayed.
+977,Vitamin C Capsules Plus,Orozco-Massey,9850624447245,8,medicine,09/12/2027,present,Pharmaceutical item packaged in sealed container with batch number and storage guidance.
+978,Kitchen Degreaser Liquid Extra Strength,Johnson-Morgan,588650496768,5,cleaning products,01/08/2027,partial,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+979,Bathroom Surface Cleaner Premium Edition,Lewis LLC,3245651465656,5,cleaning products,22/07/2027,present,"Cleaning product packaged with hazard instructions, usage directions, and manufacturer contact details."
+980,Smartphone Device Standard Pack,"Walker, French and Lopez",2737999191911,7,electronics,03/02/2028,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+981,Greek Yogurt Cup Family Pack,"Carroll, Woods and Rivera",5729410625799,3,dairy,01/10/2026,present,"Pasteurized dairy product labeled with production date, nutritional information, and safety guidance."
+982,Anti Dandruff Shampoo Fresh Formula,Eaton LLC,5995333794335,6,personal care,09/05/2027,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+983,Pain Relief Tablets Standard Pack,Olson-Sullivan,263969856105,8,medicine,08/01/2029,partial,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+984,Antibacterial Floor Cleaner 250ml,Kerr-Glover,3536119819716,5,cleaning products,11/11/2028,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.
+985,Fortified Wheat Flour Fresh Formula,Russell-Smith,5445610817894,1,food,02/04/2028,present,"Packaged snack product with ingredient labeling, nutritional information, barcode, and manufacturer contact details."
+986,Multi Surface Disinfectant Standard Pack,Craig-Marquez,8149627679984,5,cleaning products,12/06/2027,missing,Cleaning agent verified for retail sale with ingredient disclosure and compliant packaging.
+987,Rechargeable Power Bank 1L,Watson Ltd,3739336467818,7,electronics,17/09/2028,present,Consumer electronic product inspected for barcode visibility and compliant retail packaging.
+988,Fresh Full Cream Milk Standard Pack,Welch-Cannon,9533688644323,3,dairy,13/01/2029,partial,"Milk product packaged in sealed container with batch number, barcode, and storage instructions."
+989,Digestive Aid Tablets Plus,"Price, Sweeney and Fisher",7504004214454,8,medicine,31/12/2027,missing,"Consumer medicine verified for compliant labeling, dosage information, and safety instructions."
+990,Iced Tea Bottle Premium Edition,Moore LLC,9276050095384,2,drinks,28/12/2026,partial,Packaged beverage inspected for consumer sale with complete ingredient and manufacturer information.
+991,Refreshing Body Wash Max,Lee-Perez,6673222225182,6,personal care,22/08/2027,missing,Consumer hygiene product inspected for sealed packaging and manufacturer labeling compliance.
+992,Noise Cancelling Headphones Premium Edition,Thomas Inc,4851940728730,7,electronics,23/05/2028,present,"Electronic device packaged with warranty details, user instructions, and manufacturer information."
+993,Antacid Chewable Tablets Fresh Formula,Rogers-James,4343682683182,8,medicine,07/02/2027,present,"Medicine product labeled with dosage instructions, expiry date, and pharmaceutical manufacturer details."
+994,Digital Home Router 1L,"Andersen, Turner and Lee",6008964469523,7,electronics,14/02/2027,partial,Electronic equipment supplied with operating guidance and safety labeling for retail sale.
+995,Salted Crackers Premium Edition,Ramos-Bennett,4311856616854,1,food,07/02/2028,missing,Ready-to-eat snack packaged under hygienic conditions with nutritional and allergen information.
+996,Liquid Laundry Detergent Family Pack,Beck-Mccullough,7880034341224,5,cleaning products,12/11/2027,missing,"Household cleaner inspected for secure packaging, barcode visibility, and chemical safety labeling."
+997,Canola Frying Oil Extra Strength,Sullivan-Clark,5564863109799,4,cooking oil,11/06/2027,missing,"Cooking oil packaged in sealed bottle with manufacturing details, barcode, and usage instructions."
+998,Natural Sesame Oil Premium Edition,Gregory-Bauer,6520141931048,4,cooking oil,07/09/2026,missing,Refined edible oil product labeled with nutritional information and expiry details for retail sale.
+999,Cultured Dairy Yogurt Fresh Formula,Ryan-Clark,7967895351293,3,dairy,26/11/2026,missing,"Consumer dairy item verified for freshness, ingredient disclosure, and manufacturer compliance."
+1000,Liquid Laundry Detergent Extra Strength,Flores PLC,869141164008,5,cleaning products,20/02/2027,present,Consumer cleaning solution stored in sealed container with clear handling and storage instructions.

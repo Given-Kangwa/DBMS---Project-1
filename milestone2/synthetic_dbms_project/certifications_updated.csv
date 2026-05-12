@@ -1,0 +1,1001 @@
+certification_id,product_id,certification_status,expiry_date,authority,notes
+1,1,certified,2028-02-24,WHO,Product contains compliant consumer labeling and valid certification documentation.
+2,2,certified,2027-01-31,ISO,Product contains compliant consumer labeling and valid certification documentation.
+3,3,expired,2028-09-10,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+4,4,certified,2028-11-12,ISO,Product contains compliant consumer labeling and valid certification documentation.
+5,5,certified,2029-03-04,WHO,Certification active and supported by compliant packaging and traceability documentation.
+6,6,certified,2027-07-14,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+7,7,certified,2028-10-16,WHO,Certification active and supported by compliant packaging and traceability documentation.
+8,8,certified,2026-12-18,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+9,9,certified,2028-06-23,FDA,Product meets retail compliance standards with visible certification and safety information.
+10,10,certified,2028-04-13,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+11,11,certified,2029-03-31,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+12,12,certified,2027-09-16,ISO,Product meets retail compliance standards with visible certification and safety information.
+13,13,certified,2026-10-23,FDA,Certification active and supported by compliant packaging and traceability documentation.
+14,14,non-compliant,2028-03-12,WHO,Product failed to meet required certification standards during compliance review.
+15,15,certified,2027-08-02,TBS,Product meets retail compliance standards with visible certification and safety information.
+16,16,certified,2027-01-10,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+17,17,certified,2028-07-11,TBS,Certification active and supported by compliant packaging and traceability documentation.
+18,18,certified,2028-03-13,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+19,19,certified,2026-10-08,ISO,Certification active and supported by compliant packaging and traceability documentation.
+20,20,certified,2028-09-06,WHO,Certification active and supported by compliant packaging and traceability documentation.
+21,21,certified,2028-01-09,WHO,Certification active and supported by compliant packaging and traceability documentation.
+22,22,certified,2027-09-30,WHO,Certification active and supported by compliant packaging and traceability documentation.
+23,23,non-compliant,2028-08-14,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+24,24,certified,2026-05-12,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+25,25,certified,2028-10-31,WHO,Product contains compliant consumer labeling and valid certification documentation.
+26,26,non-compliant,2026-08-30,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+27,27,certified,2028-09-05,WHO,Product meets retail compliance standards with visible certification and safety information.
+28,28,certified,2028-01-11,TBS,Certification active and supported by compliant packaging and traceability documentation.
+29,29,certified,2026-09-01,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+30,30,certified,2028-07-25,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+31,31,certified,2028-10-30,FDA,Product contains compliant consumer labeling and valid certification documentation.
+32,32,certified,2028-01-22,FDA,Certification active and supported by compliant packaging and traceability documentation.
+33,33,certified,2026-11-29,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+34,34,certified,2028-03-07,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+35,35,certified,2026-05-26,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+36,36,certified,2029-04-11,FDA,Product contains compliant consumer labeling and valid certification documentation.
+37,37,certified,2029-04-06,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+38,38,certified,2029-02-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+39,39,certified,2027-04-10,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+40,40,certified,2026-08-31,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+41,41,certified,2029-02-23,TBS,Product contains compliant consumer labeling and valid certification documentation.
+42,42,certified,2028-08-29,WHO,Product meets retail compliance standards with visible certification and safety information.
+43,43,certified,2029-03-09,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+44,44,certified,2027-01-20,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+45,45,non-compliant,2026-06-16,ISO,Product failed to meet required certification standards during compliance review.
+46,46,certified,2027-03-06,WHO,Certification active and supported by compliant packaging and traceability documentation.
+47,47,certified,2028-04-01,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+48,48,certified,2027-09-21,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+49,49,certified,2027-01-19,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+50,50,certified,2026-05-12,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+51,51,certified,2027-11-25,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+52,52,certified,2028-10-29,TBS,Certification active and supported by compliant packaging and traceability documentation.
+53,53,certified,2026-12-01,FDA,Certification active and supported by compliant packaging and traceability documentation.
+54,54,certified,2027-04-22,ISO,Product contains compliant consumer labeling and valid certification documentation.
+55,55,certified,2028-07-18,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+56,56,certified,2027-03-31,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+57,57,non-compliant,2026-09-09,FDA,Certification review detected missing or inconsistent compliance information.
+58,58,certified,2028-11-09,WHO,Product meets retail compliance standards with visible certification and safety information.
+59,59,certified,2027-05-02,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+60,60,non-compliant,2028-08-02,WHO,Certification review detected missing or inconsistent compliance information.
+61,61,certified,2028-09-28,TBS,Product contains compliant consumer labeling and valid certification documentation.
+62,62,non-compliant,2028-03-07,Local Regulatory Authority,Product failed to meet required certification standards during compliance review.
+63,63,certified,2027-11-28,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+64,64,certified,2029-01-04,TBS,Certification active and supported by compliant packaging and traceability documentation.
+65,65,certified,2027-10-25,TBS,Product contains compliant consumer labeling and valid certification documentation.
+66,66,certified,2027-04-27,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+67,67,certified,2027-04-14,ISO,Product contains compliant consumer labeling and valid certification documentation.
+68,68,certified,2028-11-25,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+69,69,certified,2026-05-29,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+70,70,non-compliant,2028-05-01,WHO,Product failed to meet required certification standards during compliance review.
+71,71,certified,2027-12-21,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+72,72,certified,2027-10-18,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+73,73,non-compliant,2028-06-22,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+74,74,expired,2027-01-15,FDA,Certification validity expired and requires renewal before continued retail distribution.
+75,75,certified,2028-07-17,TBS,Product contains compliant consumer labeling and valid certification documentation.
+76,76,certified,2026-10-05,WHO,Certification active and supported by compliant packaging and traceability documentation.
+77,77,certified,2026-11-29,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+78,78,certified,2027-07-30,FDA,Product contains compliant consumer labeling and valid certification documentation.
+79,79,certified,2027-05-13,WHO,Product meets retail compliance standards with visible certification and safety information.
+80,80,certified,2026-06-17,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+81,81,certified,2027-06-09,TBS,Product meets retail compliance standards with visible certification and safety information.
+82,82,certified,2028-08-14,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+83,83,certified,2026-12-20,TBS,Certification active and supported by compliant packaging and traceability documentation.
+84,84,certified,2026-08-05,ISO,Product meets retail compliance standards with visible certification and safety information.
+85,85,certified,2028-03-24,TBS,Certification active and supported by compliant packaging and traceability documentation.
+86,86,certified,2029-04-20,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+87,87,certified,2026-06-03,ISO,Product meets retail compliance standards with visible certification and safety information.
+88,88,expired,2028-05-14,FDA,Certification validity expired and requires renewal before continued retail distribution.
+89,89,certified,2028-04-01,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+90,90,expired,2026-06-30,Pharmaceutical Board,Certification validity expired and requires renewal before continued retail distribution.
+91,91,certified,2026-08-29,TBS,Product meets retail compliance standards with visible certification and safety information.
+92,92,certified,2027-06-05,ISO,Certification active and supported by compliant packaging and traceability documentation.
+93,93,certified,2027-02-25,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+94,94,certified,2029-02-11,FDA,Product meets retail compliance standards with visible certification and safety information.
+95,95,certified,2028-06-18,FDA,Certification active and supported by compliant packaging and traceability documentation.
+96,96,certified,2028-02-26,ISO,Certification active and supported by compliant packaging and traceability documentation.
+97,97,certified,2028-04-13,WHO,Product contains compliant consumer labeling and valid certification documentation.
+98,98,certified,2026-10-13,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+99,99,certified,2028-01-04,WHO,Product contains compliant consumer labeling and valid certification documentation.
+100,100,expired,2027-08-22,FDA,Certification validity expired and requires renewal before continued retail distribution.
+101,101,certified,2028-04-15,TBS,Certification active and supported by compliant packaging and traceability documentation.
+102,102,certified,2026-09-08,TBS,Certification active and supported by compliant packaging and traceability documentation.
+103,103,certified,2026-10-22,TBS,Product meets retail compliance standards with visible certification and safety information.
+104,104,certified,2027-12-02,TBS,Certification active and supported by compliant packaging and traceability documentation.
+105,105,non-compliant,2027-03-11,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+106,106,certified,2028-08-21,WHO,Product contains compliant consumer labeling and valid certification documentation.
+107,107,certified,2027-02-28,FDA,Certification active and supported by compliant packaging and traceability documentation.
+108,108,certified,2028-05-27,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+109,109,certified,2027-09-27,TBS,Product meets retail compliance standards with visible certification and safety information.
+110,110,certified,2028-01-28,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+111,111,expired,2026-09-18,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+112,112,expired,2027-02-18,Pharmaceutical Board,"Certification records outdated, requiring immediate verification and renewal procedures."
+113,113,certified,2029-03-31,TBS,Product meets retail compliance standards with visible certification and safety information.
+114,114,certified,2027-10-22,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+115,115,non-compliant,2027-03-02,Local Regulatory Authority,Certification review detected missing or inconsistent compliance information.
+116,116,certified,2028-05-28,WHO,Product meets retail compliance standards with visible certification and safety information.
+117,117,certified,2028-01-08,WHO,Product contains compliant consumer labeling and valid certification documentation.
+118,118,certified,2026-11-25,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+119,119,certified,2028-02-05,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+120,120,certified,2027-11-19,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+121,121,certified,2027-07-08,WHO,Product meets retail compliance standards with visible certification and safety information.
+122,122,certified,2028-08-14,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+123,123,certified,2028-07-03,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+124,124,certified,2026-05-09,FDA,Certification active and supported by compliant packaging and traceability documentation.
+125,125,certified,2027-05-24,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+126,126,certified,2026-07-08,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+127,127,non-compliant,2027-06-25,FDA,Product failed to meet required certification standards during compliance review.
+128,128,non-compliant,2027-01-20,ISO,Certification review detected missing or inconsistent compliance information.
+129,129,certified,2027-08-22,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+130,130,certified,2026-11-06,FDA,Product meets retail compliance standards with visible certification and safety information.
+131,131,non-compliant,2028-04-04,ISO,Certification review detected missing or inconsistent compliance information.
+132,132,certified,2027-11-03,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+133,133,certified,2028-09-18,FDA,Certification active and supported by compliant packaging and traceability documentation.
+134,134,certified,2028-04-10,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+135,135,non-compliant,2027-10-23,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+136,136,non-compliant,2027-09-28,ISO,Certification review detected missing or inconsistent compliance information.
+137,137,certified,2028-02-18,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+138,138,certified,2028-05-26,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+139,139,certified,2027-07-24,WHO,Product contains compliant consumer labeling and valid certification documentation.
+140,140,certified,2026-07-11,TBS,Product contains compliant consumer labeling and valid certification documentation.
+141,141,certified,2029-01-17,WHO,Product contains compliant consumer labeling and valid certification documentation.
+142,142,certified,2028-05-22,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+143,143,certified,2028-08-12,TBS,Product contains compliant consumer labeling and valid certification documentation.
+144,144,certified,2026-05-24,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+145,145,expired,2027-08-29,FDA,Certification validity expired and requires renewal before continued retail distribution.
+146,146,certified,2027-03-14,TBS,Product contains compliant consumer labeling and valid certification documentation.
+147,147,certified,2027-08-16,ISO,Product meets retail compliance standards with visible certification and safety information.
+148,148,certified,2029-01-26,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+149,149,certified,2027-07-11,WHO,Product meets retail compliance standards with visible certification and safety information.
+150,150,certified,2028-03-14,WHO,Certification active and supported by compliant packaging and traceability documentation.
+151,151,certified,2028-06-21,FDA,Product meets retail compliance standards with visible certification and safety information.
+152,152,certified,2027-09-17,FDA,Certification active and supported by compliant packaging and traceability documentation.
+153,153,certified,2029-03-22,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+154,154,non-compliant,2026-12-23,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+155,155,certified,2028-09-17,ISO,Certification active and supported by compliant packaging and traceability documentation.
+156,156,certified,2027-05-01,WHO,Product meets retail compliance standards with visible certification and safety information.
+157,157,expired,2028-12-21,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+158,158,certified,2027-06-03,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+159,159,certified,2027-08-17,WHO,Product contains compliant consumer labeling and valid certification documentation.
+160,160,expired,2027-08-17,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+161,161,certified,2028-05-14,TBS,Product contains compliant consumer labeling and valid certification documentation.
+162,162,certified,2026-06-10,TBS,Certification active and supported by compliant packaging and traceability documentation.
+163,163,certified,2027-07-20,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+164,164,non-compliant,2026-10-21,ISO,Non-compliant certification status identified due to incomplete regulatory documentation.
+165,165,certified,2027-09-14,ISO,Product contains compliant consumer labeling and valid certification documentation.
+166,166,certified,2026-07-20,ISO,Product contains compliant consumer labeling and valid certification documentation.
+167,167,certified,2028-01-17,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+168,168,certified,2028-09-07,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+169,169,certified,2028-11-21,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+170,170,certified,2028-01-26,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+171,171,certified,2028-12-24,TBS,Product meets retail compliance standards with visible certification and safety information.
+172,172,expired,2028-02-03,ISO,Certification validity expired and requires renewal before continued retail distribution.
+173,173,expired,2028-05-24,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+174,174,certified,2026-05-26,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+175,175,expired,2026-06-07,WHO,"Certification records outdated, requiring immediate verification and renewal procedures."
+176,176,non-compliant,2029-04-24,FDA,Certification review detected missing or inconsistent compliance information.
+177,177,certified,2028-12-23,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+178,178,certified,2028-12-27,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+179,179,certified,2028-04-19,FDA,Product contains compliant consumer labeling and valid certification documentation.
+180,180,certified,2028-08-02,WHO,Product contains compliant consumer labeling and valid certification documentation.
+181,181,expired,2027-04-11,Pharmaceutical Board,"Product labeling present, but expired certification creates regulatory compliance concern."
+182,182,certified,2029-02-03,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+183,183,certified,2027-09-04,WHO,Product meets retail compliance standards with visible certification and safety information.
+184,184,expired,2026-07-16,TBS,"Certification records outdated, requiring immediate verification and renewal procedures."
+185,185,certified,2027-01-25,TBS,Product contains compliant consumer labeling and valid certification documentation.
+186,186,certified,2026-12-22,ISO,Certification active and supported by compliant packaging and traceability documentation.
+187,187,certified,2028-11-20,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+188,188,non-compliant,2026-09-02,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+189,189,non-compliant,2027-06-25,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+190,190,certified,2026-07-03,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+191,191,certified,2026-09-10,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+192,192,certified,2028-09-21,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+193,193,certified,2028-01-23,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+194,194,certified,2028-05-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+195,195,certified,2028-05-20,ISO,Product meets retail compliance standards with visible certification and safety information.
+196,196,certified,2028-09-23,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+197,197,certified,2026-07-01,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+198,198,certified,2027-06-05,TBS,Product meets retail compliance standards with visible certification and safety information.
+199,199,certified,2026-10-02,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+200,200,certified,2027-12-08,ISO,Product meets retail compliance standards with visible certification and safety information.
+201,201,certified,2028-08-12,ISO,Product meets retail compliance standards with visible certification and safety information.
+202,202,certified,2026-08-25,ISO,Product contains compliant consumer labeling and valid certification documentation.
+203,203,expired,2028-10-04,Pharmaceutical Board,Certification validity expired and requires renewal before continued retail distribution.
+204,204,certified,2026-08-11,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+205,205,non-compliant,2027-07-08,WHO,Product failed to meet required certification standards during compliance review.
+206,206,non-compliant,2027-04-22,WHO,Product failed to meet required certification standards during compliance review.
+207,207,certified,2029-02-12,TBS,Product meets retail compliance standards with visible certification and safety information.
+208,208,certified,2028-02-29,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+209,209,certified,2026-05-19,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+210,210,certified,2027-11-14,ISO,Certification active and supported by compliant packaging and traceability documentation.
+211,211,certified,2027-10-04,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+212,212,non-compliant,2026-10-13,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+213,213,non-compliant,2027-09-30,FDA,Non-compliant certification status identified due to incomplete regulatory documentation.
+214,214,certified,2029-04-01,TBS,Product meets retail compliance standards with visible certification and safety information.
+215,215,non-compliant,2027-09-30,ISO,Non-compliant certification status identified due to incomplete regulatory documentation.
+216,216,certified,2027-07-31,WHO,Product meets retail compliance standards with visible certification and safety information.
+217,217,certified,2028-08-31,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+218,218,certified,2028-01-05,WHO,Product contains compliant consumer labeling and valid certification documentation.
+219,219,certified,2026-11-23,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+220,220,certified,2027-08-22,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+221,221,certified,2027-12-01,FDA,Product contains compliant consumer labeling and valid certification documentation.
+222,222,certified,2028-03-31,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+223,223,certified,2029-03-07,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+224,224,non-compliant,2028-07-22,Local Regulatory Authority,Product failed to meet required certification standards during compliance review.
+225,225,certified,2027-04-04,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+226,226,certified,2028-01-20,TBS,Product contains compliant consumer labeling and valid certification documentation.
+227,227,certified,2028-10-02,WHO,Product contains compliant consumer labeling and valid certification documentation.
+228,228,non-compliant,2029-02-05,WHO,Product failed to meet required certification standards during compliance review.
+229,229,certified,2027-03-12,FDA,Product meets retail compliance standards with visible certification and safety information.
+230,230,expired,2027-12-23,TBS,"Certification records outdated, requiring immediate verification and renewal procedures."
+231,231,certified,2026-08-10,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+232,232,certified,2027-05-24,WHO,Product meets retail compliance standards with visible certification and safety information.
+233,233,expired,2027-05-26,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+234,234,certified,2027-10-13,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+235,235,certified,2028-06-26,FDA,Product contains compliant consumer labeling and valid certification documentation.
+236,236,expired,2026-12-28,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+237,237,certified,2028-04-04,ISO,Product meets retail compliance standards with visible certification and safety information.
+238,238,certified,2028-01-19,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+239,239,certified,2027-12-25,ISO,Certification active and supported by compliant packaging and traceability documentation.
+240,240,expired,2028-03-28,TBS,Certification validity expired and requires renewal before continued retail distribution.
+241,241,certified,2027-07-25,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+242,242,certified,2028-09-13,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+243,243,certified,2029-03-11,WHO,Product meets retail compliance standards with visible certification and safety information.
+244,244,certified,2026-06-01,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+245,245,certified,2027-10-08,ISO,Product contains compliant consumer labeling and valid certification documentation.
+246,246,certified,2026-10-07,FDA,Product meets retail compliance standards with visible certification and safety information.
+247,247,certified,2027-11-26,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+248,248,non-compliant,2027-01-27,WHO,Certification review detected missing or inconsistent compliance information.
+249,249,certified,2026-12-14,TBS,Product contains compliant consumer labeling and valid certification documentation.
+250,250,expired,2027-09-01,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+251,251,expired,2028-07-16,WHO,"Certification records outdated, requiring immediate verification and renewal procedures."
+252,252,expired,2028-11-01,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+253,253,expired,2028-10-28,Local Regulatory Authority,"Certification records outdated, requiring immediate verification and renewal procedures."
+254,254,certified,2027-04-20,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+255,255,certified,2026-10-03,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+256,256,certified,2028-11-24,ISO,Certification active and supported by compliant packaging and traceability documentation.
+257,257,certified,2029-04-04,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+258,258,certified,2026-12-22,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+259,259,certified,2028-06-26,TBS,Product meets retail compliance standards with visible certification and safety information.
+260,260,certified,2028-10-15,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+261,261,certified,2027-09-06,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+262,262,certified,2028-12-21,FDA,Certification active and supported by compliant packaging and traceability documentation.
+263,263,certified,2028-04-18,WHO,Product meets retail compliance standards with visible certification and safety information.
+264,264,certified,2027-06-14,WHO,Product meets retail compliance standards with visible certification and safety information.
+265,265,certified,2028-06-06,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+266,266,certified,2028-03-19,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+267,267,certified,2028-02-24,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+268,268,certified,2026-07-25,TBS,Product meets retail compliance standards with visible certification and safety information.
+269,269,certified,2028-05-09,ISO,Product contains compliant consumer labeling and valid certification documentation.
+270,270,certified,2028-05-21,FDA,Product contains compliant consumer labeling and valid certification documentation.
+271,271,certified,2026-10-31,ISO,Certification active and supported by compliant packaging and traceability documentation.
+272,272,certified,2026-12-26,ISO,Product contains compliant consumer labeling and valid certification documentation.
+273,273,expired,2028-12-03,Pharmaceutical Board,Certification validity expired and requires renewal before continued retail distribution.
+274,274,certified,2027-07-14,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+275,275,certified,2027-12-27,TBS,Product meets retail compliance standards with visible certification and safety information.
+276,276,certified,2026-12-04,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+277,277,certified,2028-11-28,FDA,Certification active and supported by compliant packaging and traceability documentation.
+278,278,expired,2028-10-06,WHO,Certification validity expired and requires renewal before continued retail distribution.
+279,279,certified,2027-11-09,WHO,Product meets retail compliance standards with visible certification and safety information.
+280,280,certified,2026-08-26,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+281,281,certified,2027-02-04,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+282,282,certified,2028-01-11,TBS,Product meets retail compliance standards with visible certification and safety information.
+283,283,certified,2027-09-21,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+284,284,certified,2027-12-19,WHO,Certification active and supported by compliant packaging and traceability documentation.
+285,285,certified,2027-04-09,FDA,Certification active and supported by compliant packaging and traceability documentation.
+286,286,certified,2029-03-01,ISO,Certification active and supported by compliant packaging and traceability documentation.
+287,287,certified,2027-10-08,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+288,288,expired,2028-10-12,ISO,Certification validity expired and requires renewal before continued retail distribution.
+289,289,certified,2028-10-26,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+290,290,certified,2028-10-29,FDA,Product meets retail compliance standards with visible certification and safety information.
+291,291,certified,2028-12-01,WHO,Product contains compliant consumer labeling and valid certification documentation.
+292,292,certified,2027-11-03,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+293,293,certified,2029-04-06,FDA,Product contains compliant consumer labeling and valid certification documentation.
+294,294,non-compliant,2028-03-19,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+295,295,expired,2026-10-13,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+296,296,non-compliant,2027-04-03,ISO,Product failed to meet required certification standards during compliance review.
+297,297,non-compliant,2029-01-11,ISO,Certification review detected missing or inconsistent compliance information.
+298,298,certified,2028-12-05,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+299,299,non-compliant,2028-05-02,TBS,Product failed to meet required certification standards during compliance review.
+300,300,certified,2026-08-02,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+301,301,certified,2028-08-13,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+302,302,certified,2028-04-24,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+303,303,expired,2026-12-31,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+304,304,non-compliant,2027-07-05,ISO,Product failed to meet required certification standards during compliance review.
+305,305,non-compliant,2026-12-27,FDA,Non-compliant certification status identified due to incomplete regulatory documentation.
+306,306,certified,2028-08-09,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+307,307,non-compliant,2026-08-20,ISO,Certification review detected missing or inconsistent compliance information.
+308,308,certified,2026-07-21,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+309,309,certified,2028-08-19,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+310,310,non-compliant,2028-10-03,WHO,Certification review detected missing or inconsistent compliance information.
+311,311,certified,2027-02-13,TBS,Product meets retail compliance standards with visible certification and safety information.
+312,312,certified,2029-03-29,TBS,Certification active and supported by compliant packaging and traceability documentation.
+313,313,expired,2029-04-19,TBS,"Product labeling present, but expired certification creates regulatory compliance concern."
+314,314,certified,2028-12-03,TBS,Product contains compliant consumer labeling and valid certification documentation.
+315,315,certified,2026-12-22,TBS,Certification active and supported by compliant packaging and traceability documentation.
+316,316,certified,2027-03-19,TBS,Product meets retail compliance standards with visible certification and safety information.
+317,317,certified,2027-06-25,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+318,318,certified,2029-03-30,ISO,Product contains compliant consumer labeling and valid certification documentation.
+319,319,certified,2028-11-21,WHO,Product contains compliant consumer labeling and valid certification documentation.
+320,320,certified,2028-06-03,TBS,Certification active and supported by compliant packaging and traceability documentation.
+321,321,certified,2027-04-18,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+322,322,certified,2026-12-18,TBS,Product meets retail compliance standards with visible certification and safety information.
+323,323,certified,2026-06-29,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+324,324,certified,2028-08-01,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+325,325,certified,2027-10-05,FDA,Certification active and supported by compliant packaging and traceability documentation.
+326,326,certified,2028-11-10,ISO,Certification active and supported by compliant packaging and traceability documentation.
+327,327,certified,2028-12-02,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+328,328,non-compliant,2028-10-07,ISO,Non-compliant certification status identified due to incomplete regulatory documentation.
+329,329,certified,2029-01-13,WHO,Certification active and supported by compliant packaging and traceability documentation.
+330,330,certified,2027-05-15,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+331,331,certified,2028-11-02,WHO,Certification active and supported by compliant packaging and traceability documentation.
+332,332,certified,2026-12-28,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+333,333,certified,2026-07-17,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+334,334,certified,2028-10-29,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+335,335,certified,2026-09-22,WHO,Product meets retail compliance standards with visible certification and safety information.
+336,336,certified,2029-03-22,ISO,Product meets retail compliance standards with visible certification and safety information.
+337,337,certified,2028-06-18,TBS,Product meets retail compliance standards with visible certification and safety information.
+338,338,certified,2027-11-28,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+339,339,certified,2027-05-03,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+340,340,certified,2027-08-11,TBS,Product meets retail compliance standards with visible certification and safety information.
+341,341,certified,2027-08-28,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+342,342,expired,2027-12-31,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+343,343,certified,2027-06-25,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+344,344,certified,2029-02-15,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+345,345,certified,2027-03-11,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+346,346,expired,2026-08-20,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+347,347,certified,2029-01-01,FDA,Product meets retail compliance standards with visible certification and safety information.
+348,348,certified,2029-01-31,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+349,349,certified,2027-07-14,WHO,Certification active and supported by compliant packaging and traceability documentation.
+350,350,certified,2028-09-21,FDA,Product meets retail compliance standards with visible certification and safety information.
+351,351,certified,2029-01-21,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+352,352,certified,2027-12-14,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+353,353,certified,2027-01-17,WHO,Product meets retail compliance standards with visible certification and safety information.
+354,354,certified,2026-09-07,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+355,355,non-compliant,2027-01-10,TBS,Product failed to meet required certification standards during compliance review.
+356,356,certified,2027-10-24,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+357,357,certified,2028-02-06,TBS,Certification active and supported by compliant packaging and traceability documentation.
+358,358,certified,2026-09-08,TBS,Product contains compliant consumer labeling and valid certification documentation.
+359,359,certified,2026-11-22,TBS,Product meets retail compliance standards with visible certification and safety information.
+360,360,certified,2026-07-02,TBS,Product contains compliant consumer labeling and valid certification documentation.
+361,361,certified,2027-12-11,TBS,Certification active and supported by compliant packaging and traceability documentation.
+362,362,certified,2026-08-05,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+363,363,certified,2028-08-09,TBS,Certification active and supported by compliant packaging and traceability documentation.
+364,364,certified,2027-01-25,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+365,365,certified,2029-04-18,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+366,366,certified,2028-07-25,FDA,Product contains compliant consumer labeling and valid certification documentation.
+367,367,certified,2026-10-27,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+368,368,certified,2026-10-01,WHO,Product meets retail compliance standards with visible certification and safety information.
+369,369,certified,2027-11-19,TBS,Product contains compliant consumer labeling and valid certification documentation.
+370,370,certified,2027-07-28,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+371,371,certified,2028-12-10,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+372,372,certified,2027-04-01,TBS,Certification active and supported by compliant packaging and traceability documentation.
+373,373,certified,2028-11-17,ISO,Product contains compliant consumer labeling and valid certification documentation.
+374,374,certified,2027-11-03,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+375,375,certified,2028-04-07,ISO,Certification active and supported by compliant packaging and traceability documentation.
+376,376,certified,2027-11-18,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+377,377,certified,2026-06-18,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+378,378,certified,2028-09-12,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+379,379,certified,2029-02-09,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+380,380,certified,2027-09-12,ISO,Certification active and supported by compliant packaging and traceability documentation.
+381,381,certified,2027-09-10,TBS,Certification active and supported by compliant packaging and traceability documentation.
+382,382,certified,2028-08-04,FDA,Certification active and supported by compliant packaging and traceability documentation.
+383,383,expired,2029-01-18,TBS,Certification validity expired and requires renewal before continued retail distribution.
+384,384,expired,2026-11-11,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+385,385,certified,2026-08-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+386,386,certified,2028-03-22,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+387,387,expired,2028-03-18,FDA,"Certification records outdated, requiring immediate verification and renewal procedures."
+388,388,certified,2028-09-24,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+389,389,non-compliant,2026-08-26,TBS,Certification review detected missing or inconsistent compliance information.
+390,390,certified,2026-10-15,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+391,391,certified,2027-01-08,TBS,Product meets retail compliance standards with visible certification and safety information.
+392,392,certified,2027-09-24,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+393,393,certified,2027-06-02,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+394,394,expired,2027-07-02,Local Regulatory Authority,"Certification records outdated, requiring immediate verification and renewal procedures."
+395,395,certified,2028-08-16,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+396,396,certified,2028-10-23,WHO,Product meets retail compliance standards with visible certification and safety information.
+397,397,certified,2028-02-09,WHO,Product meets retail compliance standards with visible certification and safety information.
+398,398,certified,2028-12-06,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+399,399,certified,2027-06-02,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+400,400,certified,2027-08-19,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+401,401,certified,2028-10-08,WHO,Product meets retail compliance standards with visible certification and safety information.
+402,402,certified,2026-08-06,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+403,403,certified,2028-06-25,TBS,Product contains compliant consumer labeling and valid certification documentation.
+404,404,expired,2028-06-01,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+405,405,certified,2026-11-14,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+406,406,certified,2026-09-23,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+407,407,certified,2027-12-17,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+408,408,certified,2027-06-28,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+409,409,certified,2026-11-26,ISO,Product contains compliant consumer labeling and valid certification documentation.
+410,410,certified,2026-10-03,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+411,411,certified,2028-03-29,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+412,412,expired,2026-09-15,WHO,"Certification records outdated, requiring immediate verification and renewal procedures."
+413,413,certified,2029-03-01,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+414,414,certified,2029-02-05,WHO,Certification active and supported by compliant packaging and traceability documentation.
+415,415,certified,2027-07-30,ISO,Product contains compliant consumer labeling and valid certification documentation.
+416,416,certified,2028-05-08,WHO,Product meets retail compliance standards with visible certification and safety information.
+417,417,certified,2028-10-04,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+418,418,certified,2027-10-26,ISO,Certification active and supported by compliant packaging and traceability documentation.
+419,419,expired,2029-02-10,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+420,420,certified,2026-09-20,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+421,421,certified,2029-04-20,ISO,Certification active and supported by compliant packaging and traceability documentation.
+422,422,certified,2026-11-10,WHO,Product meets retail compliance standards with visible certification and safety information.
+423,423,certified,2026-11-29,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+424,424,certified,2028-05-12,ISO,Certification active and supported by compliant packaging and traceability documentation.
+425,425,certified,2029-02-02,WHO,Certification active and supported by compliant packaging and traceability documentation.
+426,426,certified,2027-09-30,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+427,427,certified,2027-08-28,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+428,428,certified,2026-05-20,WHO,Product contains compliant consumer labeling and valid certification documentation.
+429,429,certified,2029-01-18,WHO,Product contains compliant consumer labeling and valid certification documentation.
+430,430,certified,2027-04-01,ISO,Certification active and supported by compliant packaging and traceability documentation.
+431,431,certified,2028-07-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+432,432,certified,2026-12-02,FDA,Product meets retail compliance standards with visible certification and safety information.
+433,433,certified,2028-06-07,ISO,Product contains compliant consumer labeling and valid certification documentation.
+434,434,certified,2029-03-17,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+435,435,certified,2028-10-09,WHO,Product contains compliant consumer labeling and valid certification documentation.
+436,436,certified,2028-08-04,FDA,Certification active and supported by compliant packaging and traceability documentation.
+437,437,certified,2028-10-22,WHO,Product contains compliant consumer labeling and valid certification documentation.
+438,438,non-compliant,2026-07-11,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+439,439,expired,2029-04-10,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+440,440,certified,2026-06-08,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+441,441,certified,2028-10-07,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+442,442,non-compliant,2028-01-24,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+443,443,expired,2028-07-14,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+444,444,certified,2027-09-22,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+445,445,certified,2028-09-16,FDA,Product meets retail compliance standards with visible certification and safety information.
+446,446,certified,2027-07-12,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+447,447,non-compliant,2028-11-01,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+448,448,certified,2028-04-15,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+449,449,certified,2027-04-10,FDA,Product meets retail compliance standards with visible certification and safety information.
+450,450,certified,2027-12-27,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+451,451,certified,2028-01-15,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+452,452,non-compliant,2027-08-21,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+453,453,certified,2028-01-07,ISO,Product meets retail compliance standards with visible certification and safety information.
+454,454,non-compliant,2028-05-09,TBS,Product failed to meet required certification standards during compliance review.
+455,455,certified,2028-06-12,ISO,Product contains compliant consumer labeling and valid certification documentation.
+456,456,expired,2026-08-06,ISO,Certification validity expired and requires renewal before continued retail distribution.
+457,457,certified,2028-01-29,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+458,458,certified,2028-10-04,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+459,459,certified,2027-10-14,WHO,Product contains compliant consumer labeling and valid certification documentation.
+460,460,certified,2028-09-08,WHO,Product contains compliant consumer labeling and valid certification documentation.
+461,461,certified,2027-11-16,FDA,Product meets retail compliance standards with visible certification and safety information.
+462,462,expired,2026-11-13,Local Regulatory Authority,"Certification records outdated, requiring immediate verification and renewal procedures."
+463,463,expired,2028-08-23,Local Regulatory Authority,"Certification records outdated, requiring immediate verification and renewal procedures."
+464,464,certified,2028-12-25,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+465,465,certified,2028-11-15,ISO,Product contains compliant consumer labeling and valid certification documentation.
+466,466,certified,2028-05-07,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+467,467,certified,2028-07-10,WHO,Product meets retail compliance standards with visible certification and safety information.
+468,468,certified,2027-06-03,FDA,Product meets retail compliance standards with visible certification and safety information.
+469,469,certified,2026-09-28,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+470,470,certified,2026-08-26,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+471,471,certified,2028-05-21,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+472,472,certified,2027-11-12,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+473,473,expired,2026-07-15,FDA,"Certification records outdated, requiring immediate verification and renewal procedures."
+474,474,certified,2026-06-14,ISO,Product contains compliant consumer labeling and valid certification documentation.
+475,475,certified,2027-04-03,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+476,476,certified,2027-03-31,TBS,Product meets retail compliance standards with visible certification and safety information.
+477,477,expired,2027-03-08,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+478,478,certified,2029-04-14,FDA,Product meets retail compliance standards with visible certification and safety information.
+479,479,non-compliant,2027-08-16,Pharmaceutical Board,Non-compliant certification status identified due to incomplete regulatory documentation.
+480,480,certified,2029-01-27,FDA,Certification active and supported by compliant packaging and traceability documentation.
+481,481,certified,2026-11-08,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+482,482,certified,2026-11-29,ISO,Certification active and supported by compliant packaging and traceability documentation.
+483,483,expired,2027-04-17,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+484,484,certified,2028-02-05,WHO,Product contains compliant consumer labeling and valid certification documentation.
+485,485,certified,2026-12-10,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+486,486,expired,2027-04-21,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+487,487,expired,2028-08-31,TBS,Certification validity expired and requires renewal before continued retail distribution.
+488,488,certified,2026-09-27,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+489,489,certified,2026-05-19,FDA,Product meets retail compliance standards with visible certification and safety information.
+490,490,certified,2027-10-17,FDA,Product meets retail compliance standards with visible certification and safety information.
+491,491,certified,2026-09-25,WHO,Certification active and supported by compliant packaging and traceability documentation.
+492,492,certified,2026-12-22,WHO,Product meets retail compliance standards with visible certification and safety information.
+493,493,certified,2029-01-23,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+494,494,certified,2028-02-19,ISO,Product meets retail compliance standards with visible certification and safety information.
+495,495,certified,2026-12-01,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+496,496,certified,2027-03-02,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+497,497,certified,2027-02-20,TBS,Product meets retail compliance standards with visible certification and safety information.
+498,498,certified,2026-05-19,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+499,499,certified,2029-02-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+500,500,certified,2026-12-05,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+501,501,non-compliant,2029-01-02,FDA,Non-compliant certification status identified due to incomplete regulatory documentation.
+502,502,non-compliant,2027-12-05,Pharmaceutical Board,Non-compliant certification status identified due to incomplete regulatory documentation.
+503,503,certified,2026-06-07,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+504,504,certified,2028-04-24,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+505,505,expired,2027-01-25,TBS,"Certification records outdated, requiring immediate verification and renewal procedures."
+506,506,certified,2028-11-28,ISO,Product contains compliant consumer labeling and valid certification documentation.
+507,507,certified,2027-11-15,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+508,508,certified,2029-04-05,ISO,Certification active and supported by compliant packaging and traceability documentation.
+509,509,certified,2027-04-22,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+510,510,certified,2028-02-14,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+511,511,certified,2027-11-05,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+512,512,expired,2029-02-10,WHO,Certification validity expired and requires renewal before continued retail distribution.
+513,513,certified,2027-07-22,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+514,514,certified,2028-01-25,FDA,Product contains compliant consumer labeling and valid certification documentation.
+515,515,certified,2028-09-30,ISO,Product contains compliant consumer labeling and valid certification documentation.
+516,516,certified,2027-08-24,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+517,517,certified,2027-08-27,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+518,518,certified,2029-04-16,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+519,519,certified,2028-12-27,FDA,Product contains compliant consumer labeling and valid certification documentation.
+520,520,certified,2028-08-08,WHO,Certification active and supported by compliant packaging and traceability documentation.
+521,521,certified,2027-12-11,ISO,Product contains compliant consumer labeling and valid certification documentation.
+522,522,certified,2029-01-18,WHO,Product contains compliant consumer labeling and valid certification documentation.
+523,523,certified,2027-04-16,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+524,524,certified,2026-09-13,FDA,Certification active and supported by compliant packaging and traceability documentation.
+525,525,certified,2027-08-31,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+526,526,certified,2026-06-25,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+527,527,certified,2027-03-09,WHO,Certification active and supported by compliant packaging and traceability documentation.
+528,528,non-compliant,2029-02-16,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+529,529,certified,2029-04-02,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+530,530,non-compliant,2028-12-12,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+531,531,non-compliant,2026-08-30,WHO,Certification review detected missing or inconsistent compliance information.
+532,532,certified,2027-10-11,ISO,Certification active and supported by compliant packaging and traceability documentation.
+533,533,certified,2028-01-30,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+534,534,certified,2028-10-23,WHO,Product contains compliant consumer labeling and valid certification documentation.
+535,535,non-compliant,2026-08-24,Local Regulatory Authority,Product failed to meet required certification standards during compliance review.
+536,536,certified,2029-01-09,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+537,537,certified,2026-08-21,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+538,538,certified,2027-01-10,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+539,539,certified,2026-06-22,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+540,540,certified,2028-04-14,FDA,Product contains compliant consumer labeling and valid certification documentation.
+541,541,certified,2026-11-23,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+542,542,certified,2028-04-08,ISO,Product contains compliant consumer labeling and valid certification documentation.
+543,543,certified,2028-02-12,TBS,Certification active and supported by compliant packaging and traceability documentation.
+544,544,certified,2028-11-08,WHO,Product contains compliant consumer labeling and valid certification documentation.
+545,545,certified,2027-02-01,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+546,546,certified,2028-11-25,TBS,Certification active and supported by compliant packaging and traceability documentation.
+547,547,certified,2027-11-05,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+548,548,expired,2027-04-24,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+549,549,certified,2029-01-13,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+550,550,certified,2028-12-04,TBS,Product contains compliant consumer labeling and valid certification documentation.
+551,551,certified,2028-08-15,TBS,Product meets retail compliance standards with visible certification and safety information.
+552,552,certified,2027-05-06,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+553,553,certified,2028-03-01,TBS,Certification active and supported by compliant packaging and traceability documentation.
+554,554,certified,2026-08-03,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+555,555,certified,2028-10-09,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+556,556,certified,2027-03-20,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+557,557,certified,2027-06-21,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+558,558,certified,2027-05-18,ISO,Certification active and supported by compliant packaging and traceability documentation.
+559,559,certified,2026-11-19,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+560,560,certified,2027-09-07,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+561,561,certified,2028-06-21,WHO,Product contains compliant consumer labeling and valid certification documentation.
+562,562,certified,2026-07-12,WHO,Product contains compliant consumer labeling and valid certification documentation.
+563,563,certified,2028-06-05,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+564,564,certified,2026-11-10,ISO,Product meets retail compliance standards with visible certification and safety information.
+565,565,certified,2026-06-18,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+566,566,certified,2028-01-25,TBS,Product contains compliant consumer labeling and valid certification documentation.
+567,567,non-compliant,2027-04-15,ISO,Certification review detected missing or inconsistent compliance information.
+568,568,expired,2028-12-21,ISO,Certification validity expired and requires renewal before continued retail distribution.
+569,569,certified,2027-12-06,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+570,570,certified,2028-09-23,WHO,Product meets retail compliance standards with visible certification and safety information.
+571,571,certified,2027-02-20,ISO,Certification active and supported by compliant packaging and traceability documentation.
+572,572,non-compliant,2027-08-11,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+573,573,non-compliant,2026-09-14,ISO,Non-compliant certification status identified due to incomplete regulatory documentation.
+574,574,certified,2026-09-09,FDA,Product contains compliant consumer labeling and valid certification documentation.
+575,575,certified,2027-06-08,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+576,576,certified,2028-05-27,WHO,Product contains compliant consumer labeling and valid certification documentation.
+577,577,expired,2028-07-28,Pharmaceutical Board,"Product labeling present, but expired certification creates regulatory compliance concern."
+578,578,non-compliant,2029-03-25,Local Regulatory Authority,Certification review detected missing or inconsistent compliance information.
+579,579,certified,2028-03-04,ISO,Product meets retail compliance standards with visible certification and safety information.
+580,580,certified,2027-03-12,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+581,581,certified,2028-03-26,WHO,Certification active and supported by compliant packaging and traceability documentation.
+582,582,certified,2028-12-30,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+583,583,certified,2027-06-01,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+584,584,certified,2029-02-04,WHO,Certification active and supported by compliant packaging and traceability documentation.
+585,585,certified,2027-11-11,FDA,Certification active and supported by compliant packaging and traceability documentation.
+586,586,certified,2027-11-04,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+587,587,certified,2026-10-26,ISO,Product contains compliant consumer labeling and valid certification documentation.
+588,588,expired,2029-05-01,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+589,589,certified,2027-08-04,WHO,Certification active and supported by compliant packaging and traceability documentation.
+590,590,certified,2028-07-29,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+591,591,certified,2028-12-15,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+592,592,expired,2028-11-15,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+593,593,certified,2028-08-03,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+594,594,non-compliant,2029-04-22,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+595,595,expired,2028-12-14,WHO,"Certification records outdated, requiring immediate verification and renewal procedures."
+596,596,certified,2028-02-03,ISO,Product contains compliant consumer labeling and valid certification documentation.
+597,597,certified,2028-01-27,ISO,Product meets retail compliance standards with visible certification and safety information.
+598,598,certified,2026-10-05,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+599,599,certified,2027-12-24,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+600,600,non-compliant,2027-12-21,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+601,601,expired,2028-12-29,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+602,602,non-compliant,2027-01-06,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+603,603,certified,2027-04-23,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+604,604,expired,2028-01-27,Pharmaceutical Board,"Product labeling present, but expired certification creates regulatory compliance concern."
+605,605,certified,2026-08-23,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+606,606,certified,2028-11-26,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+607,607,certified,2028-07-04,ISO,Product meets retail compliance standards with visible certification and safety information.
+608,608,certified,2027-03-17,ISO,Certification active and supported by compliant packaging and traceability documentation.
+609,609,certified,2026-06-17,FDA,Product meets retail compliance standards with visible certification and safety information.
+610,610,certified,2027-12-02,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+611,611,non-compliant,2028-09-15,ISO,Certification review detected missing or inconsistent compliance information.
+612,612,certified,2026-11-07,WHO,Product meets retail compliance standards with visible certification and safety information.
+613,613,certified,2028-05-04,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+614,614,certified,2028-10-15,WHO,Certification active and supported by compliant packaging and traceability documentation.
+615,615,expired,2026-10-16,FDA,Certification validity expired and requires renewal before continued retail distribution.
+616,616,certified,2026-11-07,ISO,Product contains compliant consumer labeling and valid certification documentation.
+617,617,certified,2028-10-04,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+618,618,certified,2026-05-29,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+619,619,certified,2028-09-20,ISO,Product meets retail compliance standards with visible certification and safety information.
+620,620,expired,2028-12-01,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+621,621,certified,2027-10-17,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+622,622,certified,2026-08-03,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+623,623,certified,2028-05-29,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+624,624,certified,2028-11-19,FDA,Certification active and supported by compliant packaging and traceability documentation.
+625,625,certified,2028-01-06,ISO,Product contains compliant consumer labeling and valid certification documentation.
+626,626,certified,2027-03-16,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+627,627,certified,2026-06-02,ISO,Product contains compliant consumer labeling and valid certification documentation.
+628,628,certified,2027-01-16,FDA,Product meets retail compliance standards with visible certification and safety information.
+629,629,certified,2026-09-21,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+630,630,expired,2027-01-16,FDA,Certification validity expired and requires renewal before continued retail distribution.
+631,631,certified,2027-10-23,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+632,632,expired,2028-01-18,Pharmaceutical Board,Certification validity expired and requires renewal before continued retail distribution.
+633,633,non-compliant,2026-08-17,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+634,634,certified,2026-12-24,TBS,Product meets retail compliance standards with visible certification and safety information.
+635,635,certified,2026-12-03,TBS,Certification active and supported by compliant packaging and traceability documentation.
+636,636,certified,2028-09-10,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+637,637,expired,2027-12-16,FDA,Certification validity expired and requires renewal before continued retail distribution.
+638,638,certified,2029-03-12,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+639,639,certified,2028-12-21,ISO,Certification active and supported by compliant packaging and traceability documentation.
+640,640,certified,2027-08-22,TBS,Product contains compliant consumer labeling and valid certification documentation.
+641,641,certified,2028-01-24,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+642,642,non-compliant,2027-07-25,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+643,643,certified,2028-02-26,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+644,644,certified,2028-06-18,TBS,Certification active and supported by compliant packaging and traceability documentation.
+645,645,certified,2028-02-15,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+646,646,expired,2028-02-03,WHO,"Certification records outdated, requiring immediate verification and renewal procedures."
+647,647,certified,2027-03-21,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+648,648,certified,2027-12-17,FDA,Product contains compliant consumer labeling and valid certification documentation.
+649,649,expired,2027-08-07,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+650,650,certified,2026-08-16,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+651,651,certified,2029-02-09,TBS,Product contains compliant consumer labeling and valid certification documentation.
+652,652,expired,2028-12-15,FDA,"Product labeling present, but expired certification creates regulatory compliance concern."
+653,653,certified,2028-07-16,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+654,654,non-compliant,2027-12-06,ISO,Product failed to meet required certification standards during compliance review.
+655,655,certified,2027-03-21,WHO,Product contains compliant consumer labeling and valid certification documentation.
+656,656,certified,2027-05-13,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+657,657,certified,2028-02-18,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+658,658,certified,2026-09-01,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+659,659,expired,2029-04-14,TBS,"Product labeling present, but expired certification creates regulatory compliance concern."
+660,660,expired,2029-04-23,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+661,661,certified,2028-06-30,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+662,662,certified,2029-04-23,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+663,663,certified,2028-04-08,ISO,Product meets retail compliance standards with visible certification and safety information.
+664,664,expired,2026-08-30,Pharmaceutical Board,"Product labeling present, but expired certification creates regulatory compliance concern."
+665,665,expired,2026-10-21,TBS,"Product labeling present, but expired certification creates regulatory compliance concern."
+666,666,expired,2028-12-26,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+667,667,certified,2027-10-21,WHO,Certification active and supported by compliant packaging and traceability documentation.
+668,668,certified,2026-09-24,FDA,Product contains compliant consumer labeling and valid certification documentation.
+669,669,expired,2026-09-09,ISO,Certification validity expired and requires renewal before continued retail distribution.
+670,670,certified,2028-09-10,ISO,Product meets retail compliance standards with visible certification and safety information.
+671,671,certified,2026-08-27,ISO,Product meets retail compliance standards with visible certification and safety information.
+672,672,certified,2027-11-21,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+673,673,certified,2027-12-31,WHO,Product meets retail compliance standards with visible certification and safety information.
+674,674,certified,2027-05-03,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+675,675,certified,2028-07-06,FDA,Certification active and supported by compliant packaging and traceability documentation.
+676,676,certified,2028-07-03,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+677,677,certified,2026-10-27,ISO,Certification active and supported by compliant packaging and traceability documentation.
+678,678,certified,2028-05-17,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+679,679,certified,2028-12-28,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+680,680,certified,2026-10-07,TBS,Product contains compliant consumer labeling and valid certification documentation.
+681,681,certified,2026-05-12,FDA,Product meets retail compliance standards with visible certification and safety information.
+682,682,certified,2026-07-19,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+683,683,certified,2028-11-17,TBS,Product contains compliant consumer labeling and valid certification documentation.
+684,684,certified,2029-05-01,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+685,685,certified,2028-09-06,ISO,Certification active and supported by compliant packaging and traceability documentation.
+686,686,certified,2026-10-17,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+687,687,certified,2027-11-14,FDA,Product meets retail compliance standards with visible certification and safety information.
+688,688,certified,2027-07-02,ISO,Product contains compliant consumer labeling and valid certification documentation.
+689,689,certified,2027-12-04,WHO,Product contains compliant consumer labeling and valid certification documentation.
+690,690,certified,2028-09-19,TBS,Product contains compliant consumer labeling and valid certification documentation.
+691,691,non-compliant,2028-08-28,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+692,692,certified,2028-01-24,FDA,Certification active and supported by compliant packaging and traceability documentation.
+693,693,non-compliant,2028-05-06,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+694,694,certified,2028-10-05,TBS,Product meets retail compliance standards with visible certification and safety information.
+695,695,certified,2027-11-02,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+696,696,certified,2028-12-26,FDA,Certification active and supported by compliant packaging and traceability documentation.
+697,697,non-compliant,2028-10-07,FDA,Non-compliant certification status identified due to incomplete regulatory documentation.
+698,698,expired,2027-03-03,TBS,"Product labeling present, but expired certification creates regulatory compliance concern."
+699,699,non-compliant,2029-03-29,FDA,Certification review detected missing or inconsistent compliance information.
+700,700,certified,2028-08-05,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+701,701,certified,2026-06-03,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+702,702,certified,2027-01-27,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+703,703,certified,2028-03-16,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+704,704,certified,2027-11-21,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+705,705,certified,2028-06-12,FDA,Product meets retail compliance standards with visible certification and safety information.
+706,706,certified,2027-10-28,ISO,Product contains compliant consumer labeling and valid certification documentation.
+707,707,certified,2029-01-21,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+708,708,certified,2026-05-28,FDA,Product contains compliant consumer labeling and valid certification documentation.
+709,709,non-compliant,2029-03-31,WHO,Certification review detected missing or inconsistent compliance information.
+710,710,certified,2027-01-27,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+711,711,certified,2027-05-21,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+712,712,certified,2027-11-06,WHO,Product meets retail compliance standards with visible certification and safety information.
+713,713,certified,2028-04-26,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+714,714,certified,2028-04-10,WHO,Certification active and supported by compliant packaging and traceability documentation.
+715,715,certified,2027-09-21,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+716,716,certified,2026-08-04,ISO,Product contains compliant consumer labeling and valid certification documentation.
+717,717,expired,2027-10-11,TBS,Certification validity expired and requires renewal before continued retail distribution.
+718,718,certified,2028-06-04,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+719,719,certified,2026-07-20,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+720,720,certified,2028-05-16,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+721,721,certified,2026-06-05,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+722,722,certified,2027-04-07,WHO,Product contains compliant consumer labeling and valid certification documentation.
+723,723,non-compliant,2028-09-04,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+724,724,certified,2029-02-02,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+725,725,expired,2027-01-09,FDA,"Certification records outdated, requiring immediate verification and renewal procedures."
+726,726,certified,2028-01-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+727,727,expired,2027-03-17,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+728,728,certified,2028-07-05,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+729,729,certified,2026-07-03,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+730,730,certified,2026-07-27,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+731,731,certified,2028-05-18,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+732,732,certified,2026-12-30,WHO,Certification active and supported by compliant packaging and traceability documentation.
+733,733,expired,2027-09-05,ISO,Certification validity expired and requires renewal before continued retail distribution.
+734,734,non-compliant,2029-04-02,ISO,Product failed to meet required certification standards during compliance review.
+735,735,certified,2027-05-22,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+736,736,certified,2026-05-16,TBS,Product meets retail compliance standards with visible certification and safety information.
+737,737,certified,2028-08-31,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+738,738,non-compliant,2029-03-02,WHO,Certification review detected missing or inconsistent compliance information.
+739,739,certified,2027-02-14,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+740,740,certified,2026-06-01,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+741,741,expired,2026-08-17,Pharmaceutical Board,"Product labeling present, but expired certification creates regulatory compliance concern."
+742,742,certified,2028-05-02,ISO,Product contains compliant consumer labeling and valid certification documentation.
+743,743,non-compliant,2027-04-28,FDA,Product failed to meet required certification standards during compliance review.
+744,744,expired,2026-11-17,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+745,745,certified,2029-05-02,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+746,746,certified,2026-11-12,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+747,747,certified,2028-10-30,WHO,Product contains compliant consumer labeling and valid certification documentation.
+748,748,certified,2026-06-20,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+749,749,expired,2027-07-30,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+750,750,expired,2027-03-21,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+751,751,certified,2028-02-18,WHO,Product meets retail compliance standards with visible certification and safety information.
+752,752,certified,2028-09-20,FDA,Product contains compliant consumer labeling and valid certification documentation.
+753,753,certified,2027-03-16,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+754,754,non-compliant,2028-03-26,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+755,755,non-compliant,2027-12-18,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+756,756,certified,2026-11-09,FDA,Product meets retail compliance standards with visible certification and safety information.
+757,757,non-compliant,2027-01-18,FDA,Product failed to meet required certification standards during compliance review.
+758,758,certified,2028-02-07,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+759,759,certified,2026-06-29,ISO,Certification active and supported by compliant packaging and traceability documentation.
+760,760,certified,2027-07-15,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+761,761,certified,2028-04-12,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+762,762,certified,2029-02-10,ISO,Product contains compliant consumer labeling and valid certification documentation.
+763,763,certified,2028-05-09,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+764,764,certified,2027-08-21,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+765,765,certified,2026-06-22,WHO,Product meets retail compliance standards with visible certification and safety information.
+766,766,certified,2027-04-12,WHO,Product contains compliant consumer labeling and valid certification documentation.
+767,767,non-compliant,2029-03-31,Local Regulatory Authority,Certification review detected missing or inconsistent compliance information.
+768,768,certified,2028-07-24,TBS,Certification active and supported by compliant packaging and traceability documentation.
+769,769,certified,2027-12-25,FDA,Product meets retail compliance standards with visible certification and safety information.
+770,770,certified,2029-04-03,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+771,771,certified,2028-05-26,ISO,Product meets retail compliance standards with visible certification and safety information.
+772,772,expired,2026-06-29,FDA,"Certification records outdated, requiring immediate verification and renewal procedures."
+773,773,non-compliant,2027-04-03,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+774,774,certified,2027-09-11,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+775,775,certified,2029-04-28,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+776,776,non-compliant,2026-12-11,Pharmaceutical Board,Non-compliant certification status identified due to incomplete regulatory documentation.
+777,777,certified,2028-12-16,TBS,Product meets retail compliance standards with visible certification and safety information.
+778,778,certified,2028-11-01,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+779,779,certified,2027-09-04,ISO,Product contains compliant consumer labeling and valid certification documentation.
+780,780,certified,2026-12-29,TBS,Certification active and supported by compliant packaging and traceability documentation.
+781,781,certified,2028-06-14,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+782,782,expired,2029-01-12,FDA,Certification validity expired and requires renewal before continued retail distribution.
+783,783,expired,2029-01-03,ISO,Certification validity expired and requires renewal before continued retail distribution.
+784,784,certified,2026-09-08,FDA,Product contains compliant consumer labeling and valid certification documentation.
+785,785,certified,2027-12-17,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+786,786,certified,2027-07-27,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+787,787,certified,2029-03-26,ISO,Product meets retail compliance standards with visible certification and safety information.
+788,788,certified,2028-10-28,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+789,789,non-compliant,2026-12-18,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+790,790,certified,2028-02-23,FDA,Product contains compliant consumer labeling and valid certification documentation.
+791,791,non-compliant,2027-08-04,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+792,792,expired,2028-05-05,Pharmaceutical Board,"Certification records outdated, requiring immediate verification and renewal procedures."
+793,793,non-compliant,2027-02-26,Pharmaceutical Board,Certification review detected missing or inconsistent compliance information.
+794,794,certified,2026-09-19,TBS,Certification active and supported by compliant packaging and traceability documentation.
+795,795,certified,2028-06-21,TBS,Certification active and supported by compliant packaging and traceability documentation.
+796,796,certified,2027-04-18,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+797,797,certified,2027-01-17,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+798,798,certified,2026-12-23,FDA,Certification active and supported by compliant packaging and traceability documentation.
+799,799,certified,2027-08-01,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+800,800,certified,2028-05-29,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+801,801,non-compliant,2028-07-14,TBS,Certification review detected missing or inconsistent compliance information.
+802,802,certified,2026-07-13,FDA,Product meets retail compliance standards with visible certification and safety information.
+803,803,expired,2028-05-08,ISO,"Product labeling present, but expired certification creates regulatory compliance concern."
+804,804,certified,2028-04-16,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+805,805,certified,2028-10-12,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+806,806,certified,2028-07-12,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+807,807,certified,2028-01-06,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+808,808,certified,2028-06-05,ISO,Product meets retail compliance standards with visible certification and safety information.
+809,809,certified,2027-04-13,TBS,Certification active and supported by compliant packaging and traceability documentation.
+810,810,certified,2027-09-13,ISO,Product meets retail compliance standards with visible certification and safety information.
+811,811,certified,2028-06-01,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+812,812,certified,2028-07-13,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+813,813,certified,2028-02-23,WHO,Product contains compliant consumer labeling and valid certification documentation.
+814,814,certified,2027-01-27,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+815,815,certified,2027-10-11,FDA,Product meets retail compliance standards with visible certification and safety information.
+816,816,non-compliant,2029-02-02,WHO,Certification review detected missing or inconsistent compliance information.
+817,817,non-compliant,2028-10-25,FDA,Product failed to meet required certification standards during compliance review.
+818,818,certified,2029-02-15,FDA,Product meets retail compliance standards with visible certification and safety information.
+819,819,certified,2028-11-29,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+820,820,non-compliant,2027-03-06,TBS,Certification review detected missing or inconsistent compliance information.
+821,821,certified,2026-12-29,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+822,822,certified,2028-10-10,ISO,Product contains compliant consumer labeling and valid certification documentation.
+823,823,non-compliant,2026-08-29,WHO,Product failed to meet required certification standards during compliance review.
+824,824,certified,2028-12-30,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+825,825,certified,2029-04-27,ISO,Product contains compliant consumer labeling and valid certification documentation.
+826,826,certified,2026-07-17,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+827,827,certified,2028-11-15,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+828,828,certified,2027-07-15,WHO,Product contains compliant consumer labeling and valid certification documentation.
+829,829,certified,2029-02-02,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+830,830,certified,2028-04-24,FDA,Certification active and supported by compliant packaging and traceability documentation.
+831,831,expired,2027-03-31,Pharmaceutical Board,"Certification records outdated, requiring immediate verification and renewal procedures."
+832,832,certified,2027-07-05,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+833,833,certified,2026-08-08,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+834,834,certified,2028-05-18,WHO,Certification active and supported by compliant packaging and traceability documentation.
+835,835,non-compliant,2026-07-31,Local Regulatory Authority,Certification review detected missing or inconsistent compliance information.
+836,836,non-compliant,2027-08-02,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+837,837,certified,2027-04-04,TBS,Certification active and supported by compliant packaging and traceability documentation.
+838,838,certified,2027-12-14,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+839,839,certified,2028-05-21,TBS,Product contains compliant consumer labeling and valid certification documentation.
+840,840,certified,2027-09-12,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+841,841,certified,2029-04-28,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+842,842,certified,2027-01-08,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+843,843,certified,2027-04-16,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+844,844,expired,2028-02-09,FDA,Certification validity expired and requires renewal before continued retail distribution.
+845,845,certified,2027-10-19,TBS,Product meets retail compliance standards with visible certification and safety information.
+846,846,certified,2026-10-18,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+847,847,certified,2028-03-30,WHO,Certification active and supported by compliant packaging and traceability documentation.
+848,848,certified,2027-11-01,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+849,849,certified,2027-09-24,TBS,Product contains compliant consumer labeling and valid certification documentation.
+850,850,certified,2028-03-11,ISO,Product meets retail compliance standards with visible certification and safety information.
+851,851,non-compliant,2028-08-01,ISO,Product failed to meet required certification standards during compliance review.
+852,852,certified,2028-05-18,FDA,Product meets retail compliance standards with visible certification and safety information.
+853,853,certified,2028-04-25,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+854,854,certified,2026-11-01,FDA,Product contains compliant consumer labeling and valid certification documentation.
+855,855,certified,2026-06-14,WHO,Product contains compliant consumer labeling and valid certification documentation.
+856,856,certified,2029-01-10,FDA,Certification active and supported by compliant packaging and traceability documentation.
+857,857,certified,2028-05-03,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+858,858,certified,2027-12-14,FDA,Product contains compliant consumer labeling and valid certification documentation.
+859,859,non-compliant,2027-12-01,TBS,Product failed to meet required certification standards during compliance review.
+860,860,certified,2027-09-30,ISO,Certification active and supported by compliant packaging and traceability documentation.
+861,861,certified,2027-03-28,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+862,862,certified,2027-01-31,TBS,Certification active and supported by compliant packaging and traceability documentation.
+863,863,certified,2028-02-06,TBS,Product contains compliant consumer labeling and valid certification documentation.
+864,864,certified,2026-05-11,WHO,Certification active and supported by compliant packaging and traceability documentation.
+865,865,certified,2026-07-13,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+866,866,certified,2028-05-25,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+867,867,certified,2027-02-19,TBS,Product contains compliant consumer labeling and valid certification documentation.
+868,868,certified,2027-12-05,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+869,869,certified,2028-11-26,WHO,Product contains compliant consumer labeling and valid certification documentation.
+870,870,certified,2028-02-27,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+871,871,certified,2028-09-19,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+872,872,certified,2027-12-21,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+873,873,certified,2027-05-02,ISO,Product meets retail compliance standards with visible certification and safety information.
+874,874,non-compliant,2027-10-23,Pharmaceutical Board,Product failed to meet required certification standards during compliance review.
+875,875,non-compliant,2029-02-14,FDA,Product failed to meet required certification standards during compliance review.
+876,876,certified,2028-09-25,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+877,877,certified,2027-02-11,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+878,878,certified,2029-01-15,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+879,879,certified,2028-05-14,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+880,880,expired,2028-08-13,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+881,881,certified,2028-06-15,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+882,882,certified,2028-12-15,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+883,883,expired,2028-07-11,Local Regulatory Authority,"Product labeling present, but expired certification creates regulatory compliance concern."
+884,884,certified,2026-12-29,FDA,Product meets retail compliance standards with visible certification and safety information.
+885,885,certified,2027-08-08,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+886,886,certified,2028-11-24,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+887,887,certified,2027-09-10,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+888,888,certified,2028-09-14,FDA,Product contains compliant consumer labeling and valid certification documentation.
+889,889,certified,2029-03-16,TBS,Certification active and supported by compliant packaging and traceability documentation.
+890,890,certified,2027-12-09,WHO,Product contains compliant consumer labeling and valid certification documentation.
+891,891,certified,2027-04-04,WHO,Certification active and supported by compliant packaging and traceability documentation.
+892,892,certified,2026-10-07,TBS,Product contains compliant consumer labeling and valid certification documentation.
+893,893,certified,2029-03-30,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+894,894,certified,2026-08-28,TBS,Product contains compliant consumer labeling and valid certification documentation.
+895,895,certified,2026-06-08,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+896,896,expired,2028-03-01,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+897,897,non-compliant,2028-08-11,ISO,Certification review detected missing or inconsistent compliance information.
+898,898,expired,2028-04-22,ISO,"Certification records outdated, requiring immediate verification and renewal procedures."
+899,899,certified,2027-02-19,WHO,Product contains compliant consumer labeling and valid certification documentation.
+900,900,certified,2026-12-08,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+901,901,non-compliant,2026-11-16,TBS,Product failed to meet required certification standards during compliance review.
+902,902,certified,2028-06-27,TBS,Product contains compliant consumer labeling and valid certification documentation.
+903,903,certified,2028-09-30,Local Regulatory Authority,Certification active and supported by compliant packaging and traceability documentation.
+904,904,certified,2028-06-28,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+905,905,certified,2028-09-06,WHO,Certification active and supported by compliant packaging and traceability documentation.
+906,906,certified,2026-12-09,FDA,Certification active and supported by compliant packaging and traceability documentation.
+907,907,certified,2028-08-07,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+908,908,certified,2026-09-27,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+909,909,certified,2027-04-17,WHO,Product meets retail compliance standards with visible certification and safety information.
+910,910,non-compliant,2026-07-11,TBS,Product failed to meet required certification standards during compliance review.
+911,911,non-compliant,2027-06-12,Local Regulatory Authority,Non-compliant certification status identified due to incomplete regulatory documentation.
+912,912,certified,2029-01-27,FDA,Product meets retail compliance standards with visible certification and safety information.
+913,913,certified,2028-10-07,WHO,Product meets retail compliance standards with visible certification and safety information.
+914,914,certified,2027-05-03,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+915,915,expired,2027-07-14,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+916,916,certified,2026-10-23,TBS,Certification active and supported by compliant packaging and traceability documentation.
+917,917,expired,2028-09-21,FDA,Certification validity expired and requires renewal before continued retail distribution.
+918,918,expired,2027-06-09,Local Regulatory Authority,"Certification records outdated, requiring immediate verification and renewal procedures."
+919,919,certified,2027-03-17,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+920,920,certified,2028-05-19,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+921,921,non-compliant,2028-06-10,Local Regulatory Authority,Product failed to meet required certification standards during compliance review.
+922,922,certified,2027-09-23,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+923,923,certified,2029-04-02,WHO,Certification active and supported by compliant packaging and traceability documentation.
+924,924,certified,2029-03-13,WHO,Product meets retail compliance standards with visible certification and safety information.
+925,925,certified,2028-08-16,WHO,Product contains compliant consumer labeling and valid certification documentation.
+926,926,certified,2028-10-13,TBS,Product meets retail compliance standards with visible certification and safety information.
+927,927,certified,2026-07-28,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+928,928,non-compliant,2028-06-07,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+929,929,certified,2028-12-11,TBS,Product meets retail compliance standards with visible certification and safety information.
+930,930,certified,2026-08-23,WHO,Product contains compliant consumer labeling and valid certification documentation.
+931,931,certified,2028-12-26,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+932,932,certified,2026-10-22,ISO,Product meets retail compliance standards with visible certification and safety information.
+933,933,certified,2026-09-09,FDA,Product contains compliant consumer labeling and valid certification documentation.
+934,934,certified,2029-04-24,ISO,Product contains compliant consumer labeling and valid certification documentation.
+935,935,expired,2027-06-12,Local Regulatory Authority,Certification validity expired and requires renewal before continued retail distribution.
+936,936,certified,2027-01-24,TBS,Product meets retail compliance standards with visible certification and safety information.
+937,937,non-compliant,2029-03-06,FDA,Certification review detected missing or inconsistent compliance information.
+938,938,certified,2028-12-23,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+939,939,certified,2029-01-13,FDA,Certification active and supported by compliant packaging and traceability documentation.
+940,940,certified,2028-11-06,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+941,941,certified,2028-12-13,WHO,Product meets retail compliance standards with visible certification and safety information.
+942,942,certified,2028-02-19,Pharmaceutical Board,Product meets retail compliance standards with visible certification and safety information.
+943,943,certified,2028-07-13,Local Regulatory Authority,Certification verified with approved authority records and complete manufacturer labeling.
+944,944,certified,2029-05-04,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+945,945,non-compliant,2026-07-01,TBS,Certification review detected missing or inconsistent compliance information.
+946,946,certified,2029-02-26,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+947,947,certified,2029-01-10,TBS,Product meets retail compliance standards with visible certification and safety information.
+948,948,certified,2028-07-12,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+949,949,certified,2027-11-23,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+950,950,certified,2028-06-15,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+951,951,certified,2027-07-08,TBS,Product meets retail compliance standards with visible certification and safety information.
+952,952,certified,2028-06-06,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+953,953,certified,2029-01-01,TBS,Certification active and supported by compliant packaging and traceability documentation.
+954,954,certified,2027-09-27,ISO,Product meets retail compliance standards with visible certification and safety information.
+955,955,certified,2028-08-19,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+956,956,non-compliant,2028-11-02,TBS,Non-compliant certification status identified due to incomplete regulatory documentation.
+957,957,certified,2028-12-17,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+958,958,certified,2028-02-20,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+959,959,non-compliant,2027-05-24,Local Regulatory Authority,Product failed to meet required certification standards during compliance review.
+960,960,certified,2026-12-17,FDA,Product contains compliant consumer labeling and valid certification documentation.
+961,961,certified,2029-03-21,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+962,962,certified,2026-12-28,TBS,Product contains compliant consumer labeling and valid certification documentation.
+963,963,non-compliant,2029-01-24,WHO,Non-compliant certification status identified due to incomplete regulatory documentation.
+964,964,non-compliant,2027-05-30,ISO,Product failed to meet required certification standards during compliance review.
+965,965,expired,2027-08-14,WHO,"Product labeling present, but expired certification creates regulatory compliance concern."
+966,966,expired,2028-06-03,FDA,Certification validity expired and requires renewal before continued retail distribution.
+967,967,certified,2028-11-10,TBS,Product meets retail compliance standards with visible certification and safety information.
+968,968,certified,2026-12-13,Pharmaceutical Board,Certification verified with approved authority records and complete manufacturer labeling.
+969,969,certified,2028-09-23,ISO,Product meets retail compliance standards with visible certification and safety information.
+970,970,certified,2028-03-07,ISO,Product meets retail compliance standards with visible certification and safety information.
+971,971,expired,2027-11-19,TBS,Certification validity expired and requires renewal before continued retail distribution.
+972,972,certified,2028-10-23,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+973,973,certified,2026-11-02,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+974,974,certified,2028-08-16,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+975,975,certified,2027-12-31,WHO,Product meets retail compliance standards with visible certification and safety information.
+976,976,certified,2026-10-31,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+977,977,certified,2029-03-05,TBS,Product meets retail compliance standards with visible certification and safety information.
+978,978,certified,2028-05-03,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+979,979,certified,2029-04-28,ISO,Product contains compliant consumer labeling and valid certification documentation.
+980,980,certified,2028-04-12,Pharmaceutical Board,Certification active and supported by compliant packaging and traceability documentation.
+981,981,certified,2027-09-22,WHO,Product contains compliant consumer labeling and valid certification documentation.
+982,982,certified,2026-09-15,WHO,Product meets retail compliance standards with visible certification and safety information.
+983,983,certified,2027-09-29,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+984,984,certified,2026-10-28,ISO,Product contains compliant consumer labeling and valid certification documentation.
+985,985,certified,2027-10-25,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+986,986,certified,2029-01-28,Local Regulatory Authority,Product contains compliant consumer labeling and valid certification documentation.
+987,987,certified,2028-03-27,WHO,Certification verified with approved authority records and complete manufacturer labeling.
+988,988,certified,2026-08-25,FDA,Product contains compliant consumer labeling and valid certification documentation.
+989,989,certified,2028-04-12,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+990,990,certified,2029-02-21,ISO,Certification verified with approved authority records and complete manufacturer labeling.
+991,991,certified,2027-08-14,FDA,Certification active and supported by compliant packaging and traceability documentation.
+992,992,certified,2026-07-18,TBS,Certification verified with approved authority records and complete manufacturer labeling.
+993,993,certified,2029-04-06,Pharmaceutical Board,Product contains compliant consumer labeling and valid certification documentation.
+994,994,non-compliant,2027-08-20,Pharmaceutical Board,Non-compliant certification status identified due to incomplete regulatory documentation.
+995,995,certified,2028-08-07,WHO,Product meets retail compliance standards with visible certification and safety information.
+996,996,certified,2027-02-02,FDA,Certification verified with approved authority records and complete manufacturer labeling.
+997,997,certified,2027-07-13,WHO,Certification active and supported by compliant packaging and traceability documentation.
+998,998,certified,2028-01-25,Local Regulatory Authority,Product meets retail compliance standards with visible certification and safety information.
+999,999,certified,2028-10-07,FDA,Product contains compliant consumer labeling and valid certification documentation.
+1000,1000,certified,2028-11-13,WHO,Product contains compliant consumer labeling and valid certification documentation.

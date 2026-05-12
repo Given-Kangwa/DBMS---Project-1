@@ -1,0 +1,298 @@
+recall_id,product_id,recall_date,reason,severity,description
+1,7,2025-11-27,Packaging defect,high,Dosage labeling inconsistency detected during pharmaceutical review.
+2,8,2025-11-19,Labeling issue,medium,Packaging print quality issue identified in shipment review.
+3,10,2025-08-04,Barcode issue,medium,User manual information missing in selected packaged units.
+4,14,2026-04-27,Minor compliance issue,medium,External packaging defects reported during warehouse checks.
+5,20,2025-06-12,Minor compliance issue,medium,Packaging print quality issue identified in shipment review.
+6,22,2025-07-23,Contamination risk,high,Microbial contamination risk identified during testing.
+7,26,2026-02-25,Barcode issue,medium,Barcode printing issue identified on distributed stock.
+8,28,2026-02-24,Minor compliance issue,medium,External packaging defects reported during warehouse checks.
+9,28,2025-06-08,Product quality failure,high,Battery safety issue reported during compliance inspection.
+10,33,2025-05-27,Product quality failure,high,Possible microbial contamination identified in beverage batches.
+11,33,2026-01-03,Product quality failure,high,Packaging leakage may compromise drink quality and safety.
+12,35,2025-10-21,Packaging defect,high,Overheating risk identified in electrical component testing.
+13,35,2025-09-25,Minor compliance issue,medium,User manual information missing in selected packaged units.
+14,36,2026-04-20,Packaging inconsistency,medium,Minor packaging seal defects identified during inspection.
+15,43,2026-04-11,Labeling issue,medium,Packaging label partially damaged during transport.
+16,46,2025-07-18,Barcode issue,medium,Packaging barcode issue detected during stock review.
+17,47,2025-10-03,Product quality failure,high,Temperature control failure may impact dairy product safety.
+18,53,2025-11-03,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+19,54,2026-04-27,Packaging defect,high,Chemical leakage detected in multiple packaged units.
+20,59,2025-07-04,Minor compliance issue,medium,Container labeling inconsistency identified during audit.
+21,63,2025-12-15,Packaging inconsistency,medium,Regulatory labeling update required for compliance.
+22,64,2025-05-12,Safety compliance issue,high,Improper sealing detected during post-distribution inspection.
+23,75,2025-06-17,Packaging inconsistency,medium,Regulatory labeling update required for compliance.
+24,75,2025-07-23,Safety compliance issue,high,Potential contamination risk identified in medicinal batches.
+25,82,2026-01-15,Product quality failure,high,Leakage observed in distributed cooking oil containers.
+26,87,2025-08-02,Labeling issue,medium,Minor labeling inconsistencies observed during inspection.
+27,90,2025-11-19,Barcode issue,medium,Label alignment issue observed on retail packaging.
+28,91,2025-08-10,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+29,94,2025-12-06,Product quality failure,high,Leakage observed in distributed cooking oil containers.
+30,108,2026-04-01,Product quality failure,high,Dosage labeling inconsistency detected during pharmaceutical review.
+31,113,2026-04-19,Minor compliance issue,medium,Minor packaging seal defects identified during inspection.
+32,126,2025-10-20,Contamination risk,high,Faulty internal wiring may create operational hazards.
+33,132,2025-06-18,Contamination risk,high,Microbial contamination risk identified during testing.
+34,134,2025-08-14,Safety compliance issue,high,Battery safety issue reported during compliance inspection.
+35,145,2026-02-28,Packaging defect,high,Unsafe storage conditions may affect product safety and freshness.
+36,147,2025-09-20,Product quality failure,high,Container seal defects may cause product leakage.
+37,149,2026-04-18,Safety compliance issue,high,Packaging defects may affect product hygiene standards.
+38,156,2025-08-19,Labeling issue,medium,Packaging print quality issue identified in shipment review.
+39,157,2025-07-24,Product quality failure,high,Leakage observed in distributed cooking oil containers.
+40,161,2026-01-28,Minor compliance issue,medium,Label alignment issue observed on retail packaging.
+41,162,2025-08-30,Labeling issue,medium,Container labeling inconsistency identified during audit.
+42,163,2025-11-08,Product quality failure,high,Microbial contamination risk identified during testing.
+43,165,2025-12-12,Barcode issue,medium,Batch information formatting issue detected on medicine packaging.
+44,166,2026-02-21,Packaging defect,high,Temperature control failure may impact dairy product safety.
+45,168,2025-05-29,Safety compliance issue,high,Leakage observed in distributed cooking oil containers.
+46,182,2025-07-10,Contamination risk,high,Product oxidation concerns raised during laboratory inspection.
+47,183,2025-11-24,Contamination risk,high,Chemical leakage detected in multiple packaged units.
+48,194,2025-10-14,Safety compliance issue,high,Overheating risk identified in electrical component testing.
+49,195,2025-11-04,Labeling issue,medium,Minor labeling inconsistencies observed during inspection.
+50,197,2025-12-27,Contamination risk,high,Contamination risk identified during refinery quality checks.
+51,199,2025-09-17,Safety compliance issue,high,Improper sealing detected during post-distribution inspection.
+52,203,2026-04-27,Minor compliance issue,medium,Storage instruction text partially unreadable on packaging.
+53,204,2025-09-24,Labeling issue,medium,Packaging barcode issue detected during stock review.
+54,210,2025-09-04,Barcode issue,medium,External packaging defects reported during warehouse checks.
+55,213,2025-09-10,Product quality failure,high,Possible microbial contamination identified in beverage batches.
+56,218,2025-11-17,Minor compliance issue,medium,External packaging defects reported during warehouse checks.
+57,227,2025-05-11,Contamination risk,high,Potential contamination risk identified in medicinal batches.
+58,238,2026-04-27,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+59,238,2025-08-06,Labeling issue,medium,External packaging defects reported during warehouse checks.
+60,238,2026-02-15,Packaging defect,high,Overheating risk identified in electrical component testing.
+61,239,2025-05-23,Minor compliance issue,medium,Minor packaging defects observed in dairy product units.
+62,240,2025-05-12,Minor compliance issue,medium,Packaging label partially damaged during transport.
+63,243,2025-11-17,Product quality failure,high,Improper sealing detected during post-distribution inspection.
+64,248,2025-07-26,Barcode issue,medium,Barcode readability issue reported in selected batches.
+65,257,2026-02-10,Barcode issue,medium,Packaging label partially damaged during transport.
+66,257,2025-08-15,Minor compliance issue,medium,Packaging label partially damaged during transport.
+67,257,2025-07-14,Packaging defect,high,Chemical leakage detected in multiple packaged units.
+68,258,2025-11-30,Product quality failure,high,Product recall initiated due to suspected bacterial contamination.
+69,265,2026-02-24,Safety compliance issue,high,Allergen declaration missing from personal care packaging.
+70,267,2026-03-19,Contamination risk,high,Product oxidation concerns raised during laboratory inspection.
+71,268,2025-10-12,Packaging defect,high,Improper labeling of hazardous handling instructions observed.
+72,268,2025-07-26,Packaging defect,high,Container seal defects may cause product leakage.
+73,270,2025-06-19,Barcode issue,medium,Minor packaging defects observed in dairy product units.
+74,275,2026-02-18,Minor compliance issue,medium,Minor labeling inconsistencies observed during inspection.
+75,275,2025-11-28,Product quality failure,high,Potential contamination risk detected during routine quality inspection.
+76,276,2025-06-21,Minor compliance issue,medium,Barcode readability issue reported in selected batches.
+77,281,2025-06-23,Contamination risk,high,Dosage labeling inconsistency detected during pharmaceutical review.
+78,283,2026-05-05,Packaging defect,high,Possible microbial contamination identified in beverage batches.
+79,285,2025-08-01,Labeling issue,medium,Barcode readability issue reported in selected batches.
+80,287,2025-12-14,Packaging defect,high,Foreign particle contamination reported in sealed food packaging.
+81,289,2025-12-31,Packaging defect,high,Product recall initiated due to suspected bacterial contamination.
+82,291,2025-07-30,Safety compliance issue,high,Packaging defects may affect product hygiene standards.
+83,294,2026-05-01,Labeling issue,medium,External packaging defects reported during warehouse checks.
+84,304,2025-11-14,Safety compliance issue,high,Foreign particle contamination reported in sealed food packaging.
+85,310,2025-12-02,Contamination risk,high,Dosage labeling inconsistency detected during pharmaceutical review.
+86,314,2025-07-19,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+87,316,2026-02-24,Contamination risk,high,Dosage labeling inconsistency detected during pharmaceutical review.
+88,317,2025-11-21,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+89,318,2025-07-31,Contamination risk,high,Contamination risk identified during refinery quality checks.
+90,319,2026-04-20,Packaging defect,high,Unsafe storage conditions may affect product safety and freshness.
+91,322,2025-05-08,Minor compliance issue,medium,Minor packaging defects observed in dairy product units.
+92,325,2025-08-24,Packaging defect,high,Allergen declaration missing from personal care packaging.
+93,325,2026-04-16,Barcode issue,medium,Label alignment issue observed on retail packaging.
+94,326,2025-08-31,Minor compliance issue,medium,Barcode printing issue identified on distributed stock.
+95,328,2025-10-20,Contamination risk,high,Improper sealing detected during post-distribution inspection.
+96,344,2025-05-26,Barcode issue,medium,Packaging barcode issue detected during stock review.
+97,349,2025-11-07,Minor compliance issue,medium,Barcode printing issue identified on distributed stock.
+98,351,2025-09-06,Minor compliance issue,medium,Regulatory labeling update required for compliance.
+99,353,2025-06-15,Packaging defect,high,Potential contamination risk identified in medicinal batches.
+100,355,2025-10-29,Product quality failure,high,Possible microbial contamination identified in beverage batches.
+101,361,2026-01-09,Labeling issue,medium,Label alignment issue observed on retail packaging.
+102,362,2025-11-26,Packaging defect,high,Product oxidation concerns raised during laboratory inspection.
+103,367,2025-06-14,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+104,370,2026-02-05,Contamination risk,high,Possible microbial contamination identified in beverage batches.
+105,372,2025-10-07,Safety compliance issue,high,Improper sealing detected during post-distribution inspection.
+106,377,2025-09-13,Contamination risk,high,Expired dairy stock identified in retail circulation.
+107,380,2025-10-03,Barcode issue,medium,Batch information formatting issue detected on medicine packaging.
+108,382,2026-01-19,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+109,383,2026-03-15,Minor compliance issue,medium,Barcode readability issue reported in selected batches.
+110,384,2026-02-20,Minor compliance issue,medium,Minor labeling inconsistencies observed during inspection.
+111,387,2026-01-26,Packaging inconsistency,medium,Barcode printing issue identified on distributed stock.
+112,391,2025-07-28,Labeling issue,medium,Storage instruction text partially unreadable on packaging.
+113,396,2026-02-25,Product quality failure,high,Faulty internal wiring may create operational hazards.
+114,402,2025-09-20,Safety compliance issue,high,Packaging defects may affect product hygiene standards.
+115,403,2026-04-05,Labeling issue,medium,Batch information formatting issue detected on medicine packaging.
+116,405,2025-12-31,Safety compliance issue,high,Unsafe storage conditions may affect product safety and freshness.
+117,409,2025-08-12,Contamination risk,high,Container seal defects may cause product leakage.
+118,414,2025-06-18,Barcode issue,medium,Storage instruction text partially unreadable on packaging.
+119,427,2025-12-03,Product quality failure,high,Dosage labeling inconsistency detected during pharmaceutical review.
+120,428,2025-08-05,Barcode issue,medium,Packaging print quality issue identified in shipment review.
+121,430,2026-04-05,Barcode issue,medium,Label alignment issue observed on retail packaging.
+122,432,2026-03-27,Safety compliance issue,high,Contamination risk identified during refinery quality checks.
+123,433,2025-12-02,Safety compliance issue,high,Container seal defects may cause product leakage.
+124,435,2026-02-15,Minor compliance issue,medium,Minor labeling inconsistencies observed during inspection.
+125,436,2026-05-06,Safety compliance issue,high,Faulty internal wiring may create operational hazards.
+126,437,2025-11-14,Packaging defect,high,Allergen declaration missing from personal care packaging.
+127,438,2026-02-17,Minor compliance issue,medium,User manual information missing in selected packaged units.
+128,439,2025-12-10,Contamination risk,high,Contamination risk identified during refinery quality checks.
+129,443,2025-11-30,Contamination risk,high,Packaging defects may affect product hygiene standards.
+130,447,2025-12-23,Minor compliance issue,medium,Packaging label partially damaged during transport.
+131,455,2025-12-14,Safety compliance issue,high,Potential contamination risk identified in medicinal batches.
+132,461,2025-10-12,Packaging inconsistency,medium,Packaging print quality issue identified in shipment review.
+133,465,2026-04-16,Barcode issue,medium,Barcode printing issue identified on distributed stock.
+134,471,2026-01-20,Packaging inconsistency,medium,Minor packaging seal defects identified during inspection.
+135,474,2026-03-17,Labeling issue,medium,Packaging barcode issue detected during stock review.
+136,475,2026-02-17,Labeling issue,medium,Packaging print quality issue identified in shipment review.
+137,479,2025-06-10,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+138,484,2026-02-24,Product quality failure,high,Dosage labeling inconsistency detected during pharmaceutical review.
+139,485,2025-09-22,Packaging inconsistency,medium,Label alignment issue observed on retail packaging.
+140,486,2026-04-21,Product quality failure,high,Packaging defects may affect product hygiene standards.
+141,488,2025-12-05,Labeling issue,medium,Packaging print quality issue identified in shipment review.
+142,489,2025-09-16,Product quality failure,high,Battery safety issue reported during compliance inspection.
+143,493,2025-08-24,Minor compliance issue,medium,Incorrect batch coding observed on product labels.
+144,494,2025-07-13,Minor compliance issue,medium,Barcode printing issue identified on distributed stock.
+145,497,2025-10-23,Packaging inconsistency,medium,External packaging defects reported during warehouse checks.
+146,505,2026-01-04,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+147,507,2025-10-20,Safety compliance issue,high,Contamination risk identified during refinery quality checks.
+148,508,2025-12-17,Contamination risk,high,Unsafe storage conditions may affect product safety and freshness.
+149,513,2025-11-17,Packaging inconsistency,medium,Container labeling inconsistency identified during audit.
+150,516,2025-12-06,Labeling issue,medium,Storage instruction text partially unreadable on packaging.
+151,521,2026-04-04,Barcode issue,medium,Label alignment issue observed on retail packaging.
+152,529,2026-05-01,Labeling issue,medium,User manual information missing in selected packaged units.
+153,535,2026-04-05,Safety compliance issue,high,Packaging leakage may compromise drink quality and safety.
+154,536,2025-10-13,Packaging inconsistency,medium,Storage instruction text partially unreadable on packaging.
+155,537,2026-02-03,Safety compliance issue,high,Potential contamination risk detected during routine quality inspection.
+156,540,2025-10-29,Minor compliance issue,medium,Barcode printing issue identified on distributed stock.
+157,549,2026-02-11,Minor compliance issue,medium,Batch information formatting issue detected on medicine packaging.
+158,550,2025-11-30,Barcode issue,medium,Packaging barcode issue detected during stock review.
+159,552,2026-04-13,Contamination risk,high,Possible microbial contamination identified in beverage batches.
+160,559,2025-12-08,Product quality failure,high,Improper labeling of hazardous handling instructions observed.
+161,559,2025-12-24,Packaging inconsistency,medium,Barcode printing issue identified on distributed stock.
+162,568,2025-07-31,Packaging defect,high,Leakage observed in distributed cooking oil containers.
+163,570,2026-01-29,Packaging inconsistency,medium,Incorrect batch coding observed on product labels.
+164,570,2026-01-24,Packaging defect,high,Possible microbial contamination identified in beverage batches.
+165,574,2025-09-14,Safety compliance issue,high,Potential contamination risk identified in medicinal batches.
+166,579,2025-08-10,Packaging defect,high,Packaging leakage may compromise drink quality and safety.
+167,584,2025-10-19,Contamination risk,high,Potential contamination risk detected during routine quality inspection.
+168,586,2026-04-21,Labeling issue,medium,Packaging print quality issue identified in shipment review.
+169,597,2026-03-16,Safety compliance issue,high,Allergen declaration missing from personal care packaging.
+170,603,2025-07-03,Packaging defect,high,Expired dairy stock identified in retail circulation.
+171,603,2026-01-20,Minor compliance issue,medium,Minor packaging defects observed in dairy product units.
+172,605,2025-10-04,Packaging inconsistency,medium,Incorrect batch coding observed on product labels.
+173,612,2026-03-13,Minor compliance issue,medium,Minor labeling inconsistencies observed during inspection.
+174,612,2025-11-14,Product quality failure,high,Potential contamination risk detected during routine quality inspection.
+175,616,2026-03-27,Safety compliance issue,high,Product recall initiated due to suspected bacterial contamination.
+176,617,2026-02-22,Labeling issue,medium,External packaging defects reported during warehouse checks.
+177,618,2025-12-01,Packaging inconsistency,medium,Storage instruction text partially unreadable on packaging.
+178,626,2025-09-17,Contamination risk,high,Potential contamination risk identified in medicinal batches.
+179,629,2025-08-26,Product quality failure,high,Packaging leakage may compromise drink quality and safety.
+180,636,2025-12-05,Labeling issue,medium,Barcode printing issue identified on distributed stock.
+181,636,2025-06-30,Barcode issue,medium,Packaging label partially damaged during transport.
+182,638,2026-03-18,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+183,644,2026-01-13,Barcode issue,medium,External packaging defects reported during warehouse checks.
+184,646,2025-05-14,Packaging inconsistency,medium,Incorrect batch coding observed on product labels.
+185,646,2025-10-03,Packaging defect,high,Improper sealing detected during post-distribution inspection.
+186,649,2025-09-04,Safety compliance issue,high,Faulty internal wiring may create operational hazards.
+187,650,2025-05-07,Packaging defect,high,Leakage observed in distributed cooking oil containers.
+188,652,2026-03-11,Packaging inconsistency,medium,Barcode readability issue reported in selected batches.
+189,655,2025-09-13,Labeling issue,medium,Container labeling inconsistency identified during audit.
+190,656,2025-08-12,Contamination risk,high,Container seal defects may cause product leakage.
+191,658,2025-06-16,Barcode issue,medium,Packaging barcode issue detected during stock review.
+192,661,2025-07-25,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+193,663,2025-06-29,Labeling issue,medium,Storage instruction text partially unreadable on packaging.
+194,664,2025-10-11,Labeling issue,medium,Container labeling inconsistency identified during audit.
+195,664,2026-02-16,Minor compliance issue,medium,Container labeling inconsistency identified during audit.
+196,665,2026-02-26,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+197,667,2026-03-04,Minor compliance issue,medium,Packaging label partially damaged during transport.
+198,672,2025-12-26,Packaging defect,high,Leakage observed in distributed cooking oil containers.
+199,675,2025-08-06,Safety compliance issue,high,Faulty internal wiring may create operational hazards.
+200,677,2025-06-30,Minor compliance issue,medium,Barcode printing issue identified on distributed stock.
+201,682,2025-09-22,Barcode issue,medium,Packaging label partially damaged during transport.
+202,682,2026-02-15,Barcode issue,medium,Barcode printing issue identified on distributed stock.
+203,686,2025-12-23,Packaging inconsistency,medium,Packaging barcode issue detected during stock review.
+204,692,2026-02-23,Packaging defect,high,Foreign particle contamination reported in sealed food packaging.
+205,694,2026-04-20,Labeling issue,medium,Minor packaging defects observed in dairy product units.
+206,695,2025-07-11,Barcode issue,medium,Container labeling inconsistency identified during audit.
+207,700,2026-03-04,Safety compliance issue,high,Leakage observed in distributed cooking oil containers.
+208,703,2026-02-27,Labeling issue,medium,Regulatory labeling update required for compliance.
+209,704,2026-05-06,Packaging defect,high,Product oxidation concerns raised during laboratory inspection.
+210,708,2026-01-31,Packaging defect,high,Dosage labeling inconsistency detected during pharmaceutical review.
+211,710,2025-06-12,Labeling issue,medium,Packaging label partially damaged during transport.
+212,717,2026-01-24,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+213,718,2026-02-12,Packaging defect,high,Improper labeling of hazardous handling instructions observed.
+214,718,2025-11-14,Safety compliance issue,high,Improper labeling of hazardous handling instructions observed.
+215,719,2026-01-20,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+216,731,2025-07-09,Minor compliance issue,medium,Container labeling inconsistency identified during audit.
+217,732,2025-10-16,Labeling issue,medium,Barcode printing issue identified on distributed stock.
+218,733,2026-04-12,Packaging defect,high,Expired dairy stock identified in retail circulation.
+219,738,2026-01-10,Barcode issue,medium,Barcode printing issue identified on distributed stock.
+220,741,2025-12-26,Minor compliance issue,medium,Batch information formatting issue detected on medicine packaging.
+221,743,2025-07-17,Safety compliance issue,high,Packaging defects may affect product hygiene standards.
+222,744,2025-07-05,Contamination risk,high,Product oxidation concerns raised during laboratory inspection.
+223,747,2025-08-05,Packaging defect,high,Allergen declaration missing from personal care packaging.
+224,752,2026-01-16,Safety compliance issue,high,Allergen declaration missing from personal care packaging.
+225,753,2025-12-25,Labeling issue,medium,Container labeling inconsistency identified during audit.
+226,756,2025-10-04,Minor compliance issue,medium,Minor labeling inconsistencies observed during inspection.
+227,763,2026-03-05,Labeling issue,medium,Incorrect batch coding observed on product labels.
+228,773,2025-11-02,Packaging inconsistency,medium,Barcode printing issue identified on distributed stock.
+229,781,2025-08-11,Safety compliance issue,high,Foreign particle contamination reported in sealed food packaging.
+230,785,2025-08-20,Labeling issue,medium,Minor packaging seal defects identified during inspection.
+231,788,2025-12-22,Safety compliance issue,high,Dosage labeling inconsistency detected during pharmaceutical review.
+232,792,2025-06-14,Packaging defect,high,Chemical leakage detected in multiple packaged units.
+233,794,2026-01-28,Minor compliance issue,medium,Minor packaging defects observed in dairy product units.
+234,796,2026-01-05,Packaging defect,high,Container seal defects may cause product leakage.
+235,800,2025-08-24,Product quality failure,high,Faulty internal wiring may create operational hazards.
+236,800,2025-09-12,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+237,801,2025-08-12,Barcode issue,medium,Packaging print quality issue identified in shipment review.
+238,803,2026-03-11,Barcode issue,medium,Label alignment issue observed on retail packaging.
+239,803,2026-02-11,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+240,805,2025-07-28,Packaging inconsistency,medium,Label alignment issue observed on retail packaging.
+241,812,2026-01-22,Barcode issue,medium,External packaging defects reported during warehouse checks.
+242,818,2026-01-29,Labeling issue,medium,Minor packaging defects observed in dairy product units.
+243,819,2026-02-14,Barcode issue,medium,Batch information formatting issue detected on medicine packaging.
+244,825,2025-06-04,Packaging defect,high,Product oxidation concerns raised during laboratory inspection.
+245,826,2025-12-15,Labeling issue,medium,Batch information formatting issue detected on medicine packaging.
+246,830,2025-06-26,Product quality failure,high,Expired dairy stock identified in retail circulation.
+247,830,2025-05-25,Contamination risk,high,Product recall initiated due to suspected bacterial contamination.
+248,836,2025-07-03,Barcode issue,medium,Barcode readability issue reported in selected batches.
+249,836,2025-06-20,Safety compliance issue,high,Potential contamination risk detected during routine quality inspection.
+250,837,2025-11-17,Product quality failure,high,Unsafe storage conditions may affect product safety and freshness.
+251,838,2025-07-29,Packaging inconsistency,medium,External packaging defects reported during warehouse checks.
+252,842,2025-09-11,Packaging inconsistency,medium,Packaging label partially damaged during transport.
+253,848,2025-05-30,Packaging defect,high,Container seal defects may cause product leakage.
+254,850,2025-11-29,Safety compliance issue,high,Contamination risk identified during refinery quality checks.
+255,851,2026-05-07,Contamination risk,high,Potential contamination risk identified in medicinal batches.
+256,852,2026-03-16,Safety compliance issue,high,Foreign particle contamination reported in sealed food packaging.
+257,853,2025-12-13,Safety compliance issue,high,Product oxidation concerns raised during laboratory inspection.
+258,859,2026-03-05,Product quality failure,high,Foreign particle contamination reported in sealed food packaging.
+259,861,2026-04-24,Contamination risk,high,Faulty internal wiring may create operational hazards.
+260,871,2025-08-11,Safety compliance issue,high,Allergen declaration missing from personal care packaging.
+261,872,2025-07-23,Packaging defect,high,Overheating risk identified in electrical component testing.
+262,874,2026-01-31,Packaging defect,high,Battery safety issue reported during compliance inspection.
+263,875,2026-02-05,Safety compliance issue,high,Potential contamination risk detected during routine quality inspection.
+264,876,2026-05-01,Barcode issue,medium,Label alignment issue observed on retail packaging.
+265,881,2025-12-27,Minor compliance issue,medium,Container labeling inconsistency identified during audit.
+266,883,2025-11-18,Product quality failure,high,Packaging integrity issue may affect medicine safety.
+267,888,2025-07-29,Safety compliance issue,high,Packaging leakage may compromise drink quality and safety.
+268,904,2025-07-23,Product quality failure,high,Product oxidation concerns raised during laboratory inspection.
+269,905,2026-05-02,Minor compliance issue,medium,Barcode readability issue reported in selected batches.
+270,907,2025-08-01,Packaging defect,high,Packaging defects may affect product hygiene standards.
+271,907,2025-09-04,Labeling issue,medium,Minor packaging seal defects identified during inspection.
+272,907,2026-04-11,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+273,912,2025-10-03,Product quality failure,high,Temperature control failure may impact dairy product safety.
+274,912,2026-03-22,Barcode issue,medium,Storage instruction text partially unreadable on packaging.
+275,914,2026-03-12,Contamination risk,high,Chemical leakage detected in multiple packaged units.
+276,924,2025-10-01,Safety compliance issue,high,Allergen declaration missing from personal care packaging.
+277,927,2026-04-07,Safety compliance issue,high,Leakage observed in distributed cooking oil containers.
+278,928,2025-12-09,Barcode issue,medium,Minor packaging defects observed in dairy product units.
+279,932,2026-01-19,Barcode issue,medium,Incorrect batch coding observed on product labels.
+280,934,2026-01-24,Minor compliance issue,medium,Packaging print quality issue identified in shipment review.
+281,939,2025-12-16,Minor compliance issue,medium,External packaging defects reported during warehouse checks.
+282,940,2025-09-10,Contamination risk,high,Possible microbial contamination identified in beverage batches.
+283,949,2026-03-07,Packaging defect,high,Microbial contamination risk identified during testing.
+284,952,2026-03-10,Safety compliance issue,high,Battery safety issue reported during compliance inspection.
+285,955,2026-04-28,Packaging defect,high,Packaging leakage may compromise drink quality and safety.
+286,958,2025-07-25,Contamination risk,high,Foreign particle contamination reported in sealed food packaging.
+287,959,2025-10-09,Packaging inconsistency,medium,Minor packaging defects observed in dairy product units.
+288,962,2025-12-17,Product quality failure,high,Dosage labeling inconsistency detected during pharmaceutical review.
+289,964,2025-06-07,Minor compliance issue,medium,Minor packaging seal defects identified during inspection.
+290,970,2026-03-22,Packaging inconsistency,medium,Minor packaging defects observed in dairy product units.
+291,972,2025-07-07,Packaging inconsistency,medium,Packaging print quality issue identified in shipment review.
+292,980,2026-01-27,Packaging inconsistency,medium,User manual information missing in selected packaged units.
+293,985,2025-09-22,Product quality failure,high,Potential contamination risk detected during routine quality inspection.
+294,991,2025-09-25,Barcode issue,medium,Minor packaging seal defects identified during inspection.
+295,991,2026-01-08,Labeling issue,medium,Minor packaging seal defects identified during inspection.
+296,997,2025-09-26,Barcode issue,medium,Container labeling inconsistency identified during audit.
+297,999,2025-07-16,Barcode issue,medium,Storage instruction text partially unreadable on packaging.

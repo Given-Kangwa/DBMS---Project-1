@@ -49,6 +49,9 @@ GROUP BY product_id;
 CREATE INDEX idx_inspections_product_rank
 ON inspections(product_id);
 
+DROP INDEX idx_inspections_product_rank
+ON inspections
+
 -- check the time taken for the query after creating the index
 EXPLAIN ANALYZE
 SELECT product_id,

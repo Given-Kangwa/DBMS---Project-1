@@ -12,23 +12,23 @@ SELECT category_name,
        COUNT (*) AS TOTAL_PRODUCTS
 	   FROM PRODUCTS
 	   GROUP BY CATEGORY_NAME
-	   ORDER BY TOTAL_PRODUCTS DESC;
+	   ORDER BY TOTAL_PRODUCTS DESC; --0.002 secs
 
 SELECT result,
        COUNT (*) AS TOTAL
 	   FROM INSPECTIONS
 	   GROUP BY result
-	   ORDER BY TOTAL ASC;
+	   ORDER BY TOTAL ASC;  -- 00.00secs 
 
 
-SELECT category_NAME FROM CATEGORIES;
+SELECT category_NAME FROM CATEGORIES; -- 00.009 secs
 
 -- Joining PRODUCT TABLE and Inspections TABLE ON PRODUCT_ID
 
 SELECT I.product_id,product_name,manufacturer,inspection_id,inspection_date,failure_reason,notes
 FROM PRODUCTs p
 JOIN INSPECTIONS i
-ON p.PRODUCT_ID = i.PRODUCT_ID;
+ON p.PRODUCT_ID = i.PRODUCT_ID; -- 0.034 secs
 
 ---SELECT * FROM PRODUCTS
 --Join INSPECTION TABLE AND SEPCIFICATION TABLE ON PRODUCT_ID
@@ -36,7 +36,7 @@ ON p.PRODUCT_ID = i.PRODUCT_ID;
 SELECT certification_id,expiry_date,inspection_id,failure_reason
 FROM INSPECTIONS i
 join certifications c
-ON i.product_id = c.product_id
+ON i.product_id = c.product_id   --SLOWER 0.024sec
 
 -- : Products with above-average inspections #Subquery -1 
 
@@ -54,7 +54,7 @@ HAVING COUNT(*) >
         GROUP BY product_id
     ) AS inspection_avg
 )
-ORDER BY total_inspections DESC;
+ORDER BY total_inspections DESC;  -- 00.007 secs
 
 -- -- Query 6: Products with recalls # Subquery 2
 
@@ -63,7 +63,7 @@ ORDER BY total_inspections DESC;
 SELECT p.PRODUCT_ID,manufacturer,PRODUCT_NAME,RECALL_ID, r.DESCRIPTION
 FROM PRODUCTS p 
 JOIN RECALLS r
-ON p.PRODUCT_ID = r.Product_id
+ON p.PRODUCT_ID = r.Product_id -- 0.005 sec
 
 -- Query 7: Products with passed inspections using CTE
 
@@ -78,7 +78,7 @@ WITH passed_products AS
     ON i.product_id = p.product_id
     WHERE i.result = 'pass')
 SELECT *
-FROM passed_products;
+FROM passed_products;  --SLOWER 0.020sec
 
 -- Query 8: Certified products using CTE
 
@@ -94,7 +94,7 @@ WITH certified_products AS
     WHERE certification_status = 'certified'
 )
 SELECT *
-FROM certified_products;
+FROM certified_products;   -- sec 00,017 sec
 
 
 -- Query 9: Rank products by inspection count
@@ -108,7 +108,7 @@ SELECT product_id,
        ) AS inspection_rank
 
 FROM inspections
-GROUP BY product_id;
+GROUP BY product_id;  -- SLOWEST 00.030sec
 
 -- Query 10: Latest inspection for each product
 
@@ -130,3 +130,8 @@ FROM
 ) latest_inspections
 
 WHERE row_num = 1;
+
+SELECT * FROM pRODUCTS;  --slowest -- 0.041 sec
+
+
+SELECT version();
